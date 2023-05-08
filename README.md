@@ -1,0 +1,2 @@
+# MacOS-DuckyScripts
+PLUG &amp; PLAY FLIPPER ZERO SCRIPTS For MacOS 
