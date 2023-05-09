@@ -10,7 +10,7 @@ STRING open -a Safari 'https://geektyper.com/blue/'
 DELAY 1000
 ENTER
 DELAY 1000
-F11
+GUI-CTRL F
 DELAY 500
 STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
 DELAY 500
