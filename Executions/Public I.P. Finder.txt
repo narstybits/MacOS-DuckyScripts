@@ -1,7 +1,8 @@
 REM Title: Public I.P. Finder
 REM Author: Narsty
-REM Description: Uses Mac Terminal public IP to do a PUBLIC I.P. lookup 
+REM Description: Uses Mac Terminals config.me command to do a PUBLIC I.P. lookup 
 REM displays the results in a pop up window & Saves the data to a folder on the desktop
+REM Folder is named "Public I.P. Data"
 REM Target: MacOS 
 REM Version: 1.0
 REM Category: Execution
