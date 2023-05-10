@@ -1,5 +1,5 @@
 REM Author: Narsty
-REM Description: Open any Fake update on an iPhone.
+REM Description: Open Fake update on an iPhone.
 REM Version: 1.0
 REM Category: iPhone
 
@@ -7,9 +7,9 @@ DELAY 1000
 GUI SPACE
 DELAY 500
 STRING safari
-DELAY 500
+DELAY 2000
 ENTER
 DELAY 1000
 STRING www.fakeupdate.net
-DELAY 500
+DELAY 1000
 ENTER
