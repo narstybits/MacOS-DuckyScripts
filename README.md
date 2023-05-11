@@ -29,7 +29,9 @@ You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)
 
 
 
-Exercise caution when executing code that involves deleting files or directories, and double-check to ensure that you're targeting the correct directory/System and that the consequences are understood.
+!!!!EXERCISE CAUTION!!!! when executing code that involves deleting files or directories, and double-check to ensure that you're targeting the correct directory/System and that the consequences are understood.
 
 
-Deleting files and folders can have significant consequences, and it's crucial to exercise caution when performing such actions. Deleting system files or important user data can lead to data loss or system instability. Therefore, it is recommended to proceed with extreme caution and ensure that you have a backup of any important files before executing any commands that involve file deletion. 
+Deleting files and folders can have significant consequences! 
+
+It's crucial to !!!!EXERCISE CAUTION!!!!  when performing such actions. Deleting system files or important user data can lead to data loss or system instability. Therefore, it is recommended to proceed with extreme caution and ensure that you have a backup of any important files before executing any commands that involve file deletion. 
