@@ -13,7 +13,7 @@ Big shoutout and Huge thansk to @ClaraCrazy @0iphor13 @Hak5 @I-Am-Jakoby and @Ub
 Step by Step Directions to get you up and running will be posted Below!
 
 
-First off all these files NEED to be formated in .txt this is the format BADUSB uses to run your Favorite Scripts!
+First off all these files NEED to be formated in .txt this is the format The FLipper APP(FAP) BADUSB uses to run your Favorite Scripts!
 
 To upload the .txt files you will need to copy and paste the Raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is Easy)
 
@@ -29,4 +29,7 @@ You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)
 
 
 
-Ive only been doing this for about a week so bare with me as I learn and expand the library!
+Exercise caution when executing code that involves deleting files or directories, and double-check to ensure that you're targeting the correct directory/System and that the consequences are understood.
+
+
+Deleting files and folders can have significant consequences, and it's crucial to exercise caution when performing such actions. Deleting system files or important user data can lead to data loss or system instability. Therefore, it is recommended to proceed with extreme caution and ensure that you have a backup of any important files before executing any commands that involve file deletion. 
