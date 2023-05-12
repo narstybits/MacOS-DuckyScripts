@@ -1,0 +1,25 @@
+REM This script opens the Terminal application 
+REM runs commands to toggle the Dark Mode, and then closes the Terminal.
+
+REM Author: Narsty
+REM Title: Dark Mode Toggler
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Utility
+
+
+REM Title: Dark Mode Enabler
+REM Author: Narsty
+
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 1000
+STRING defaults write -g AppleInterfaceStyle Dark
+ENTER
+DELAY 500
+STRING killall Dock
+ENTER
+DELAY 1000
