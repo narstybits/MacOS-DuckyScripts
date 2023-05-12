@@ -1,0 +1,33 @@
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Utility
+REM Title: MacOS ScreenShot
+REM Author: Narsty
+REM Takes a picture of the Screen and saves it to the Desktop
+
+
+DELAY 2000
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 500
+STRING echo "USB Script Utility"
+ENTER
+DELAY 500
+STRING echo "-------------------"
+ENTER
+DELAY 500
+STRING echo "Capturing Screenshot..."
+ENTER
+DELAY 500
+STRING screencapture -W ~/Desktop/screenshot.png
+ENTER
+DELAY 1000
+STRING echo "Screenshot captured and saved to Desktop!"
+ENTER
+DELAY 500
+STRING echo "-------------------"
+ENTER
+DELAY 2000
+GUI q
