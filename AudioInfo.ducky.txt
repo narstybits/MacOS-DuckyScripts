@@ -1,0 +1,44 @@
+REM Title: AudioInfo.ducky
+REM Author: NARSTY
+REM Description:Provides a utility to display/Say useful information on the target system 
+REM the current date, time, and battery percentage 
+REM 
+
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Utility
+
+DELAY 2000
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 500
+STRING echo "USB Script Utility"
+ENTER
+DELAY 500
+STRING echo "-------------------"
+ENTER
+DELAY 500
+STRING echo "Current Date:"
+ENTER
+DELAY 500
+STRING date "+%Y-%m-%d" | say
+ENTER
+DELAY 500
+STRING echo "Current Time:"
+ENTER
+DELAY 500
+STRING date "+%H:%M:%S" | say
+ENTER
+DELAY 500
+STRING echo "Battery Percentage:"
+ENTER
+DELAY 500
+STRING ioreg -l | awk '$3~/Capacity/{c[$3]=$5}END{OFMT="%.2f%%";max=c["\"MaxCapacity\""];print(max>0?100*c["\"CurrentCapacity\""]/max:"?")}' | say
+ENTER
+DELAY 500
+STRING echo "-------------------"
+ENTER
+DELAY 2000
+
