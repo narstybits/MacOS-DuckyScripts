@@ -6,14 +6,14 @@ This repository will consists of MacOs BADUSB Scripts
 
 They will be Plug & Play!!!!!!! 
 
-Big shoutout and Huge thansk to @ClaraCrazy @0iphor13 @Hak5 @I-Am-Jakoby and @UberGuidoZ for the Lines & Inspiration!
+Big shoutout and Huge thansk to[ @ClaraCrazy](https://github.com/ClaraCrazy) [@0iphor13](https://github.com/0iphor13) [@Hak5](https://github.com/hak5) [@I-Am-Jakoby](https://github.com/I-Am-Jakoby) and [@UberGuidoZ](https://github.com/UberGuidoZ) for the Lines & Inspiration!
 
 
 
 Step by Step Directions to get you up and running will be posted Below!
 
 
-First off all these files NEED to be formated in .txt this is the format The FLipper APP(FAP) BADUSB uses to run your Favorite Scripts!
+First off all these files https://github.com/narstybits/MacOS-DuckyScripts NEED to be formated in .txt this is the format The FLipper APP(FAP) BADUSB uses to run your Favorite Scripts!
 
 To upload the .txt files you will need to copy and paste the Raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is Easy)
 
