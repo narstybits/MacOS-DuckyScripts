@@ -1,6 +1,6 @@
 REM Opens Terminal, Safari, Xcode, Calendar, Messages, Pycharm CE 
 REM You can update the (" ") with whatever applications you'd like!
-REM Delays may need adjusting depending on how long app takes to load.
+REM Delays may need adjusting depending on how long apps takes to load.
 
 REM Title: All Applications at once 
 REM Author: Narsty
