@@ -7,7 +7,7 @@ REM Select "Go to Folder" from the dropdown menu.
 REM In the "Go to the folder" dialog box, enter <~/.copypasta> and click "Go".
 
 REM Author: Narsty
-REM Title: Dark Mode Toggler
+REM Title: Copy Pasta
 REM Target: MacOS 
 REM Version: 1.0
 REM Category: Utility
