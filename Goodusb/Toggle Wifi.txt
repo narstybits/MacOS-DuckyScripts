@@ -1,0 +1,26 @@
+REM Toggle Wifi 
+REM You'll need to STOP the Script after you see the wifi turn off (about 3 seconds) 
+REM To turn the wifi Back On let the script run all the way through
+
+REM Author: Narsty
+REM Title: REM Toggle Wifi
+REM Version 1.0 MacOs
+
+DELAY 2000
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 500
+STRING echo "Toggling Wi-Fi..."
+ENTER
+DELAY 500
+STRING networksetup -setairportpower en0 off
+ENTER
+DELAY 2000
+STRING networksetup -setairportpower en0 on
+ENTER
+DELAY 500
+STRING echo "Wi-Fi toggled!"
+ENTER
+
