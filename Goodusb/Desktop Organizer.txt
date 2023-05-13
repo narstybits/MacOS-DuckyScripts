@@ -1,0 +1,22 @@
+REM Author: Narsty
+REM Title: Desktop Organizer
+REM Version 1.0 MacOs
+REM Organize files on the desktop
+
+
+GUI SPACE
+DELAY 500
+STRING Terminal
+ENTER
+DELAY 1000
+STRING cd ~/Desktop
+ENTER
+STRING mkdir -p Documents Images
+ENTER
+STRING mv *.txt *.docx *.pdf Documents/
+ENTER
+STRING mv *.jpg *.png Images/
+ENTER
+DELAY 5000
+STRING osascript -e 'tell application "Terminal" to close first window'
+ENTER
