@@ -1,7 +1,11 @@
 REM Author: Narsty
 REM Title: Desktop Organizer
 REM Version 1.0 MacOs
-REM Organize files on the desktop
+REM macOS File Organizer
+
+REM Organizes files on the desktop into separate folders based on their file extensions.
+REM Creates "Documents" and "Images" folders and moves corresponding files into them.
+REM Run the script to organize the desktop effortlessly.
 
 
 GUI SPACE
