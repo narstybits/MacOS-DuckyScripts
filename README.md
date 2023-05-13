@@ -6,7 +6,7 @@ This repository will consists of MacOs BADUSB Scripts
 
 They will be Plug & Play!!!!!!! 
 
-Big shoutout and Huge thansk to[ @ClaraCrazy](https://github.com/ClaraCrazy) [@0iphor13](https://github.com/0iphor13) [@Hak5](https://github.com/hak5) [@I-Am-Jakoby](https://github.com/I-Am-Jakoby) and [@UberGuidoZ](https://github.com/UberGuidoZ) for the Lines & Inspiration!
+Big shoutout and Huge thanks to[ @ClaraCrazy](https://github.com/ClaraCrazy) [@0iphor13](https://github.com/0iphor13) [@Hak5](https://github.com/hak5) [@I-Am-Jakoby](https://github.com/I-Am-Jakoby) and [@UberGuidoZ](https://github.com/UberGuidoZ) for the Lines & Inspiration!
 
 
 
