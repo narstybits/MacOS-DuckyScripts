@@ -18,3 +18,5 @@ STRING curl -o "file.ext" "Enter dropbox File URL here"
 ENTER
 
 
+REM  It's crucial to use scripting and automation tools responsibly, following legal and ethical guidelines, and only for legitimate purposes.
+
