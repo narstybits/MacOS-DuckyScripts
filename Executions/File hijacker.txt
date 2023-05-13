@@ -14,7 +14,7 @@ STRING terminal
 DELAY 500
 ENTER
 DELAY 2000
-STRING curl -o "Quick Lock Screen.txt" "Enter dropbox File URL here"
+STRING curl -o "file.ext" "Enter dropbox File URL here"
 ENTER
 
 
