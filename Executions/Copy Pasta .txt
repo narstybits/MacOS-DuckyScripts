@@ -1,4 +1,4 @@
-REM Creates Hidden Folder and Copy Desktop Contents
+REM Creates Hidden Folder and Copies Desktop Contents
 REM To find the folder follow the steps below.
 
 REM Open Finder.
