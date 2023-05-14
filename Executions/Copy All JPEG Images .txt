@@ -8,7 +8,7 @@ REM Author: Narsty
 REM Title: Copy All JPEG Images 
 REM Target: MacOS 
 REM Version: 1.0
-REM Category: 
+REM Category: Execution
 
 DELAY 300
 GUI SPACE
