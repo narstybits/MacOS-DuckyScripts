@@ -1,5 +1,5 @@
 REM Author: Narsty
-REM Title: Browser Data Capture
+REM Title: Desktop Data Capture
 REM Version 1.0 MacOs
 
 
