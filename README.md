@@ -13,7 +13,9 @@ Big shoutout and Huge thanks to[ @ClaraCrazy](https://github.com/ClaraCrazy) [@0
 Step by Step Directions to get you up and running will be posted Below!
 
 
-If you're a visual learner like me, check out this detailed tutorial https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf Thanks to https://github.com/wrenchathome 
+If you're a visual learner like me, check out this detailed tutorial 			
+https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf 
+Thanks to [@wrenchathome](https://github.com/wrenchathome) 
 
 First off all these files https://github.com/narstybits/MacOS-DuckyScripts NEED to be formated in .txt this is the format The FLipper APP(FAP) BADUSB uses to run your Favorite Scripts!
 
