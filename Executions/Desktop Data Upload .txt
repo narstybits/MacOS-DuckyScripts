@@ -2,9 +2,9 @@ REM Author: Narsty
 REM Title: Desktop Data Upload 
 REM Version 1.0 MacOs
 
-REM Copy and paste this script/code into the text editor
+REM Copy and paste this osascript/code into the Script editor App on your MacOs
 REM Replace the "Your API token Here" placeholder with your actual Dropbox API token
-REM Save this script below as a .scpt file (you can use Script Editor) to your desktop.
+REM Save this script below as DTDUpload.scpt file (you can use Script Editor) to your desktop.
 
 
 osascript -e 'tell application "Script Editor"
