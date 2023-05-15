@@ -2,8 +2,7 @@ REM This command clears all persistent apps from the dock.
 REM Run this script to remove apps from the dock.
 REM Use responsibly and with proper permissions.
 
-REM to Reverse this prank run this command>      defaults delete com.apple.dock persistent-apps
-REM then run killall Dock
+
 
 REM Author: Narsty
 REM Title: Kill Mac Dock
