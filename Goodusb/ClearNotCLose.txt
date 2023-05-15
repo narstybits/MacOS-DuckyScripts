@@ -1,0 +1,22 @@
+REM This Script will minimize all open windows 
+
+REM Author: Narsty
+REM Title: ClearNotClose
+REM Version 1.0 MacOs
+
+
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 500
+STRING osascript -e 'tell application "System Events" to set visible of every process whose visible is true and name is not "Finder" to false'
+ENTER
+DELAY 500
+GUI W
+
+
+
+
+
