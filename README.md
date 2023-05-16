@@ -1,5 +1,6 @@
 # MacOS-DuckyScripts
 PLUG &amp; PLAY FLIPPER ZERO SCRIPTS For MacOS 
+
 I notcied a lack of MacOs BADUSB Scripts for the flipper zero 
 
 This repository will consists of MacOs BADUSB Scripts 
@@ -30,6 +31,8 @@ Now we can plug the flipper in and open up the File Manager, navigate to the sd 
 This is where you can Drag and Drop your .txt files and once you are done close out of the FLipper desktop app.
 
 You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)
+
+
 
 
 
