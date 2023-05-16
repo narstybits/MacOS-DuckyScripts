@@ -1,0 +1,29 @@
+REM Scans for live hosts on the network using ping.
+REM Performs port scanning to identify open ports on target hosts.
+REM Gathers information about target hosts using WHOIS and DNS lookups.
+REM Conducts traceroute to trace the network path to a destination.
+REM Provides a comprehensive report for security testing and analysis.
+
+
+REM Author: Narsty
+REM Title: Recon +
+REM Version: 1.0 
+REM Target: MacOs
+
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING networksetup -listallhardwareports
+ENTER
+DELAY 1000
+STRING ifconfig
+ENTER
+DELAY 1000
+STRING arp -a
+ENTER
+
+

