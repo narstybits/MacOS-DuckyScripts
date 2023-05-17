@@ -6,7 +6,7 @@ REM Provides a comprehensive report for security testing and analysis.
 
 
 REM Author: Narsty
-REM Title: Recon +
+REM Title: Network Recon +
 REM Version: 1.0 
 REM Target: MacOs
 
