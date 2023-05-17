@@ -41,7 +41,7 @@ This is where you can Drag and Drop your .txt files and once you are done close 
 You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)
 
 
-<h1 <p align="center"> <img src=https://img.freepik.com/premium-vector/hud-danger-alert-attention-vector-red-interface-sign-warning-caution-ui-tech-digital-cyber-frame-system-failure-danger-zone_93083-3437.jpg /> </p>   
+<h1 <p align="center"> <img src=https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png /> </p>   
 
 
 <p align="center">  !!!!EXERCISE CAUTION!!!! 
@@ -52,3 +52,5 @@ when executing code, double-check to ensure that you're targeting the correct di
 Deleting files and folders can have significant consequences! 
 
 It's crucial to !!!!EXERCISE CAUTION!!!!  when performing such actions. Deleting system files or important user data can lead to data loss or system instability. Therefore, it is recommended to proceed with extreme caution and ensure that you have a backup of any important files before executing any commands that involve file deletion. 
+
+ <p align="center"> <img src=https://www.ncsc.gov.uk/images/malware%20warning.jpg /> </p> 
