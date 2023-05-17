@@ -1,4 +1,6 @@
- <h1 align="center"># MacOS-DuckyScripts
+<h1 <p align="center"> <img src=https://media.sketchfab.com/models/f8ad3fdf5f2b485ba46b0ac91626fc76/thumbnails/1f96a654efe54e80a8f352c5117b4d1d/3b0781bbbeaa4729858ce55bef3094e9.jpeg
+
+<h1 align="center"># MacOS-DuckyScripts
 <h2 align="center">PLUG &amp; PLAY FLIPPER ZERO SCRIPTS For MacOS 
  
 
