@@ -1,5 +1,5 @@
-# MacOS-DuckyScripts
-<h2 PLUG &amp; PLAY FLIPPER ZERO SCRIPTS For MacOS 
+ <h1 align="center"># MacOS-DuckyScripts
+<h2 align="center">PLUG &amp; PLAY FLIPPER ZERO SCRIPTS For MacOS 
  
 
 <h1 align="center">This repository will consists of MacOs BADUSB Scripts Only
