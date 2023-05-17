@@ -9,7 +9,7 @@ They will be Plug & Play!!!!!!!
 
 Big shoutout and Huge thanks to[ @ClaraCrazy](https://github.com/ClaraCrazy) [@0iphor13](https://github.com/0iphor13) [@Hak5](https://github.com/hak5) [@I-Am-Jakoby](https://github.com/I-Am-Jakoby) and [@UberGuidoZ](https://github.com/UberGuidoZ) for the Lines & Inspiration!
 
- Check Out the Xremote (Cross Remote) by [@leedave](https://github.com/leedave) to chain Infared and SubGHz to create your own automated scenes 
+ Check Out the Xremote (Cross Remote) by [@leedave](https://github.com/leedave) to chain Infared and SubGHz together to create your own automated scenes/sequences 
 [@XRemote](https://github.com/leedave/Leeds-Flipper-Zero-Fap-Files) (WORK IN PROGRESS)
  
 
