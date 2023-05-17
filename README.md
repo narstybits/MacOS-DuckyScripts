@@ -1,5 +1,5 @@
 # MacOS-DuckyScripts
-PLUG &amp; PLAY FLIPPER ZERO SCRIPTS For MacOS 
+<h2 PLUG &amp; PLAY FLIPPER ZERO SCRIPTS For MacOS 
 
 I notcied a lack of MacOs BADUSB Scripts for the flipper zero 
 
@@ -15,7 +15,7 @@ Big shoutout and Huge thanks to[ @ClaraCrazy](https://github.com/ClaraCrazy) [@0
 <h h1>
 
 
-If you're a visual learner like me, check out this detailed tutorial 			
+<h2 If you're a visual learner like me, check out this detailed tutorial 			
 https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf 
 Thanks to [@wrenchathome](https://github.com/wrenchathome) 
  
