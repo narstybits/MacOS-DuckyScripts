@@ -2,13 +2,23 @@
      h1>
 
 
-Running security scanning or testing on systems without proper authorization is against ethical guidelines. 
+Caution: Read before proceeding
+
+Usage Limitations:
+The scripts and codes provided by Narsty are intended solely for the purpose of testing security protocols and reconnaissance. They should be used only in compliance with all applicable laws and regulations.
+
+Authorization Required:
+It is essential to obtain proper authorization and consent before using any scripts or codes on computer systems or networks. Ensure that you have explicit permission from the owner or authorized administrator of the system(s) you intend to test or evaluate.
+
+Responsible Use:
+Exercise utmost responsibility while utilizing our scripts and codes. Any unauthorized or malicious activities are strictly prohibited. Engaging in unauthorized access, tampering with data, or compromising the privacy of individuals without consent is illegal and unethical.
+
+Legal Compliance:
+Familiarize yourself with the laws, regulations, and guidelines applicable in your jurisdiction regarding computer security, ethical hacking, and information privacy. Ensure compliance with all relevant legal obligations.
+
+Accountability:
+By using our scripts and codes, you acknowledge that you are solely responsible for any actions or consequences resulting from their use. Narsty cannot be held liable for any misuse, damage, or legal ramifications arising from unauthorized or unethical activities.
 
 
-Make sure you have permission to perform any security testing activities and comply with applicable laws and regulations.
-
-
-Security testing should be performed responsibly and with proper authorization. 
-
-
-Ensure you have permission from the website owner before conducting any security testing.
+Indemnity:
+You agree to indemnify and hold our security company harmless from any claims, damages, losses, or liabilities arising from your use or misuse of our scripts and codes.
