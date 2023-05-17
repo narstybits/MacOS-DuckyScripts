@@ -41,10 +41,10 @@ This is where you can Drag and Drop your .txt files and once you are done close 
 You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)
 
 
+<h1 <p align="center"> <img src=https://img.freepik.com/premium-vector/hud-danger-alert-attention-vector-red-interface-sign-warning-caution-ui-tech-digital-cyber-frame-system-failure-danger-zone_93083-3437.jpg /> </p>   
 
 
-
-# !!!!EXERCISE CAUTION!!!! 
+<p align="center">  !!!!EXERCISE CAUTION!!!! 
 <h1 h1>
 when executing code, double-check to ensure that you're targeting the correct directory/System and that the consequences are understood.
 
