@@ -9,16 +9,17 @@ They will be Plug & Play!!!!!!!
 
 Big shoutout and Huge thanks to[ @ClaraCrazy](https://github.com/ClaraCrazy) [@0iphor13](https://github.com/0iphor13) [@Hak5](https://github.com/hak5) [@I-Am-Jakoby](https://github.com/I-Am-Jakoby) and [@UberGuidoZ](https://github.com/UberGuidoZ) for the Lines & Inspiration!
 
+ 
 
-
-Step by Step Directions to get you up and running will be posted Below!
+ # Step by Step Directions to get you up and running will be posted Below! 
+<h h1>
 
 
 If you're a visual learner like me, check out this detailed tutorial 			
 https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf 
 Thanks to [@wrenchathome](https://github.com/wrenchathome) 
-
-First off all these files https://github.com/narstybits/MacOS-DuckyScripts NEED to be formated in .txt this is the format The FLipper APP(FAP) BADUSB uses to run your Favorite Scripts!
+ 
+ First off all these files https://github.com/narstybits/MacOS-DuckyScripts NEED to be formated in .txt this is the format The FLipper APP(FAP) BADUSB uses to run your Favorite Scripts!
 
 To upload the .txt files you will need to copy and paste the Raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is Easy)
 
@@ -36,7 +37,9 @@ You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)
 
 
 
-!!!!EXERCISE CAUTION!!!! when executing code that involves deleting files or directories, and double-check to ensure that you're targeting the correct directory/System and that the consequences are understood.
+# !!!!EXERCISE CAUTION!!!! 
+<h1 h1>
+when executing code that involves deleting files or directories, and double-check to ensure that you're targeting the correct directory/System and that the consequences are understood.
 
 
 Deleting files and folders can have significant consequences! 
