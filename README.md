@@ -47,7 +47,7 @@ You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)
 
 # !!!!EXERCISE CAUTION!!!! 
 <h1 h1>
-when executing code that involves deleting files or directories, and double-check to ensure that you're targeting the correct directory/System and that the consequences are understood.
+when executing code, double-check to ensure that you're targeting the correct directory/System and that the consequences are understood.
 
 
 Deleting files and folders can have significant consequences! 
