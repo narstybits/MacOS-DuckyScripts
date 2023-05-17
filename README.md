@@ -1,9 +1,8 @@
 # MacOS-DuckyScripts
 <h2 PLUG &amp; PLAY FLIPPER ZERO SCRIPTS For MacOS 
+ 
 
-I notcied a lack of MacOs BADUSB Scripts for the flipper zero 
-
-This repository will consists of MacOs BADUSB Scripts Only
+<h1 align="center">This repository will consists of MacOs BADUSB Scripts Only
 
 # <h1 align="center">!!!!!They will be Plug & Play!!!!!
 
