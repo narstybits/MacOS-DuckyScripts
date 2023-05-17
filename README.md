@@ -24,7 +24,8 @@ Big shoutout and Huge thanks to[ @ClaraCrazy](https://github.com/ClaraCrazy) [@0
 
 Thanks to [@wrenchathome](https://github.com/wrenchathome) 
 <h3 h1>
- First off all these files https://github.com/narstybits/MacOS-DuckyScripts NEED to be formated in .txt this is the format The FLipper APP(FAP) BADUSB uses to run your Favorite Scripts!
+ 
+ First off, all of these [@BADUSB SCRIPTS](https://github.com/narstybits/MacOS-DuckyScripts) NEED to be formated in .txt this is the format The FLipper APP(FAP) BADUSB uses to run your Favorite Scripts!
 
 To upload the .txt files you will need to copy and paste the Raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is Easy)
 
