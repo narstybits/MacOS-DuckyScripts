@@ -26,16 +26,19 @@
 
 <h2 align="center">Thanks to <a href="https://github.com/wrenchathome">@wrenchathome</a></p>
 <ol>
-  <li>
-    <div style="border: 2px solid #000000; padding: 10px;">
-      <p style="font-size: 12px; margin: 0;">🔹 To upload the .txt files, you will need to copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is easy).</p>
-      <p style="font-size: 12px; margin: 0;">🔹 Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
-      <p style="font-size: 12px; margin: 0;">🔹 You can type .txt after the file name, and it will prompt you to save the file as a .txt.</p>
-      <p style="font-size: 12px; margin: 0;">
-🔹 Now, you can plug the flipper in and open up the File Manager, navigate to the SD card, and open up the BADUSB file within the SD card.</p>
-<p style="font-size: 12px; margin: 0;">🔹 This is where you can drag and drop your .txt files, and once you are done, close out of the FLipper desktop app.</p>
-<p style="font-size: 12px; margin: 0;">🔹 You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)</p>
-</div>
+ 
+  <div style="border: 2px solid #000000; padding: 10px;">
+    <p style="font-size: 12px; margin: 0;">
+      <span style="font-size: 0;"></span>🔹 To upload the .txt files, you will need to copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is easy).</p>
+    <p style="font-size: 12px; margin: 0;">🔹 Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
+    <p style="font-size: 12px; margin: 0;">🔹 You can type .txt after the file name, and it will prompt you to save the file as a .txt.</p>
+    <p style="font-size: 12px; margin: 0;">🔹 Now, you can plug the flipper in and open up the File Manager, navigate to the SD card, and open up the BADUSB file within the SD card.</p>
+    <p style="font-size: 12px; margin: 0;">🔹 This is where you can drag and drop your .txt files, and once you are done, close out of the FLipper desktop app.</p>
+    <p style="font-size: 12px; margin: 0;">🔹 You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)</p>
+  </div>
+</li>
+
+
 
   </li>
 </ol>
