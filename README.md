@@ -2,7 +2,7 @@
 <h2 align="center"><u>PLUG &amp; PLAY FLIPPER ZERO SCRIPTS for MacOS</u></h2>
 
 <p align="center">
-  <img src="https://cdn.shopify.com/s/files/1/0570/7651/4965/t/13/assets/macbook_banner_1920x-1646342247439.webp?v=1646342248" alt="Banner Image">
+  <img src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40" alt="Banner Image">
 </p>
 
 <h1 align="center"><u>This repository is EXCLUSIVE to MacOs BADUSB Scripts</u></h1>
