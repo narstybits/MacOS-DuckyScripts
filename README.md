@@ -1,19 +1,41 @@
 <h1 <p align="center"> <img src=https://media.sketchfab.com/models/f8ad3fdf5f2b485ba46b0ac91626fc76/thumbnails/1f96a654efe54e80a8f352c5117b4d1d/3b0781bbbeaa4729858ce55bef3094e9.jpeg
 
-<h1 align="center"># MacOS-DuckyScripts
-<h2 align="center">PLUG &amp; PLAY FLIPPER ZERO SCRIPTS For MacOS 
+<h1 align="center">MacOS-DuckyScripts</h1>
+<h2 align="center">PLUG &amp; PLAY FLIPPER ZERO SCRIPTS for MacOS</h2>
+
+<p align="center">
+  <img src="https://cdn.shopify.com/s/files/1/0570/7651/4965/t/13/assets/macbook_banner_1920x-1646342247439.webp?v=1646342248" alt="Banner Image">
+</p>
+
+<h1 align="center">This repository is EXCLUSIVE to MacOs BADUSB Scripts</h1>
+
+<h1 align="center">!!!!! They are Plug & Play !!!!!</h1>
+
  
+  <h2 align="center">Big shoutout and Huge thanks to</h2>
 
-<h1 align="center">This repository will consists of MacOs BADUSB Scripts Only
+<h2 align="center">Big shoutout and Huge thanks to<br>
+  <a href="https://github.com/ClaraCrazy"> @ClaraCrazy </a>
+  <a href="https://github.com/0iphor13"> @0iphor13 </a>
+  <a href="https://github.com/hak5"> @Hak5 </a>
+  <a href="https://github.com/I-Am-Jakoby"> @I-Am-Jakoby </a>
+  <a href="https://github.com/UberGuidoZ"> @UberGuidoZ </a>
 
-# <h1 align="center">!!!!!They will be Plug & Play!!!!!
 
-<h2
- 
- Big shoutout and Huge thanks to[ @ClaraCrazy](https://github.com/ClaraCrazy) [@0iphor13](https://github.com/0iphor13) [@Hak5](https://github.com/hak5) [@I-Am-Jakoby](https://github.com/I-Am-Jakoby) and [@UberGuidoZ](https://github.com/UberGuidoZ) for the Lines & Inspiration!
+<p align="center">for the Lines & Inspiration!</p> </h2>
 
- Check Out the Xremote (Cross Remote) by [@leedave](https://github.com/leedave) to chain Infared and SubGHz together to create your own automated scenes/sequences 
-[@XRemote](https://github.com/leedave/Leeds-Flipper-Zero-Fap-Files/tree/main/Xtreme) (WORK IN PROGRESS)
+
+<h2 align="center">Check Out the Xremote (Cross Remote) by 
+  <a href="https://github.com/leedave"> @leedave </a>
+  to chain Infared and SubGHz together to create your own automated scenes/sequences
+</h2>
+
+<p align="center">
+  <a href="https://github.com/leedave/Leeds-Flipper-Zero-Fap-Files/tree/main/Xtreme"> @XRemote </a>
+  <span style="font-size: 20px;">(WORK IN PROGRESS)</span>
+</p>
+
+
  
 
  # Step by Step Directions to get you up and running will be posted Below! 
