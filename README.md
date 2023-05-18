@@ -11,11 +11,14 @@
 
 <h2 align="center"><u>Big shoutout and huge thanks to <a href="https://github.com/ClaraCrazy">@ClaraCrazy</a>, <a href="https://github.com/0iphor13">@0iphor13</a>, <a href="https://github.com/hak5">@Hak5</a>, <a href="https://github.com/I-Am-Jakoby">@I-Am-Jakoby</a>, and <a href="https://github.com/UberGuidoZ">@UberGuidoZ</a></u></h2>
 
-<h2 align="center">Check Out the Xremote (Cross Remote) by <a href="https://github.com/leedave">@leedave</a> to chain Infared and SubGHz together to create your own automated scenes/sequences</h2>
+<h2 align="center">Check Out the Xremote (Cross Remote) by <a href="https://github.com/leedave">@leedave</a> to Chain Infared and SubGHz Together! 📱 
 
-<h2 <div style="text-align: center;">
+  
+
+
+
   <p>
-    <a href="https://github.com/leedave/Leeds-Flipper-Zero-Fap-Files/tree/main/Xtreme" style="font-size: 18px;">@XRemote</a>(BETA)</h2>
+    <a href="https://github.com/leedave/Leeds-Flipper-Zero-Fap-Files/tree/main/Xtreme" style="font-size: 18px;">@XRemote<a>(BETA)<h2>
 </div>
 
 <h1 align="center"><u>Step by Step Directions to get you up and running will be posted Below!</u></h3>
