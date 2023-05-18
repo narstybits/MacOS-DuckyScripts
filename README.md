@@ -9,7 +9,7 @@
 
 <h1 align="center"><u>!!!!! They are Plug & Play !!!!!</u></h1>
 
-<h2 align="center"><u>Big shoutout and huge thanks to <a href="https://github.com/ClaraCrazy">@ClaraCrazy</a> <a href="https://github.com/0iphor13">@0iphor13</a> <a href="https://github.com/hak5">@Hak5</a> <a href="https://github.com/I-Am-Jakoby">@I-Am-Jakoby</a> <a href="https://github.com/UberGuidoZ">@UberGuidoZ</a></u></h2>
+<h2 align="center"><u>Big shoutout and huge thanks to <a href="https://github.com/ClaraCrazy">@ClaraCrazy</a>, <a href="https://github.com/0iphor13">@0iphor13</a>, <a href="https://github.com/hak5">@Hak5</a>, <a href="https://github.com/I-Am-Jakoby">@I-Am-Jakoby</a>, and <a href="https://github.com/UberGuidoZ">@UberGuidoZ</a></u></h2>
 
 <h2 align="center">Check Out the Xremote (Cross Remote) by <a href="https://github.com/leedave">@leedave</a> to chain Infared and SubGHz together to create your own automated scenes/sequences</h2>
 
@@ -24,27 +24,22 @@
 
 <h3 align="center">If you're a visual learner like me, check out this detailed tutorial: <a href="https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf">@How 2 Flipper Guide</a></h3>
 
-<H2 align="center">Thanks to <a href="https://github.com/wrenchathome">@wrenchathome</a></p>
+<h2 align="center">Thanks to <a href="https://github.com/wrenchathome">@wrenchathome</a></p>
 <ol>
-  <ul>
-  <ul>
-  <p>First off, all of these <a href="https://github.com/narstybits/MacOS-DuckyScripts">@BADUSB SCRIPTS</a> NEED to be formatted in .txt. This is the format The FLipper APP (FAP) BADUSB uses to run your favorite scripts!</p>
-
-<div style="border: 2px solid #000000; padding: 10px;">
-  <p style="font-size: 12px; margin: 0;">🔹 To upload the .txt files, you will need to copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is easy).</p>
-  <p style="font-size: 12px; margin: 0;">🔹 Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
-  <p style="font-size: 12px; margin: 0;">🔹 You can type .txt after the file name, and it will prompt you to save the file as a .txt.</p>
-  <p style="font-size: 12px; margin: 0;">🔹 Now, you can plug the flipper in and open up the File Manager, navigate to the SD card, and open up the BADUSB file within the SD card.</p>
-  <p style="font-size: 12px; margin: 0;">🔹 This is where you can drag and drop your .txt files, and once you are done, close out of the FLipper desktop app.</p>
-  <p style="font-size: 12px; margin: 0;">🔹 You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)</p>
+  <li>
+    <div style="border: 2px solid #000000; padding: 10px;">
+      <p style="font-size: 12px; margin: 0;">🔹 To upload the .txt files, you will need to copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is easy).</p>
+      <p style="font-size: 12px; margin: 0;">🔹 Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
+      <p style="font-size: 12px; margin: 0;">🔹 You can type .txt after the file name, and it will prompt you to save the file as a .txt.</p>
+      <p style="font-size: 12px; margin: 0;">
+🔹 Now, you can plug the flipper in and open up the File Manager, navigate to the SD card, and open up the BADUSB file within the SD card.</p>
+<p style="font-size: 12px; margin: 0;">🔹 This is where you can drag and drop your .txt files, and once you are done, close out of the FLipper desktop app.</p>
+<p style="font-size: 12px; margin: 0;">🔹 You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)</p>
 </div>
 
-
-
-
-
-
-
+  </li>
+</ol>
+<p align="center">
   <img src="https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png" alt="Cyberattack Image">
 </p>
 <p align="center"><u>!!!! EXERCISE CAUTION !!!!</u></p>
@@ -54,3 +49,4 @@
 <p align="center">
   <img src="https://www.ncsc.gov.uk/images/malware%20warning.jpg" alt="Malware Warning Image">
 </p>
+```
