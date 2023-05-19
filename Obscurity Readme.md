@@ -2,7 +2,7 @@
   <img src="https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg">
 </div>
 
-# Obscurity
+<h1 align="center"> Obscurity
 
 ## Introduction
 <h4>
