@@ -30,7 +30,7 @@ Familiarize yourself with the laws, regulations, and guidelines applicable in yo
 # Accountability:
 
 <h3 h1>
-By using our scripts and codes, you acknowledge that you are solely responsible for any actions or consequences resulting from their use. Narsty cannot be held liable for any misuse, damage, or legal ramifications arising from unauthorized or unethical activities.
+By using Narsty's scripts and codes, you acknowledge that you are solely responsible for any actions or consequences resulting from their use. Narsty cannot be held liable for any misuse, damage, or legal ramifications arising from unauthorized or unethical activities.
 
 <div align="center">
   <img src="https://www.ncsc.gov.uk/images/malware%20warning.jpg" alt="Top Image">
