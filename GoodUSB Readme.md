@@ -18,5 +18,6 @@ it's essential to recognize that this scripting language can also be used for pr
 <!-- Rest of your content here -->
 
 <div align="center">
-  <img src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif" alt="Bottom Image">
+  
+ # <img src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif" style="width: 1000px; height: 200px;">
 </div>
