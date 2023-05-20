@@ -34,8 +34,8 @@
     <p style="font-size: 12px; margin: 0;">🔹 Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
     <p style="font-size: 12px; margin: 0;">🔹 You can type .txt after the file name, and it will prompt you to save the file as a .txt.</p>
     <p style="font-size: 12px; margin: 0;">🔹 Now, you can plug the flipper in and open up the File Manager, navigate to the SD card, and open up the BADUSB file within the SD card.</p>
-    <p style="font-size: 12px; margin: 0;">🔹 This is where you can drag and drop your .txt files, and once you are done, close out of the FLipper desktop app.</p>
-    <p style="font-size: 12px; margin: 0;">🔹 You are now ready to deploy your DuckyScripts and take over the World! ENJOY :)</p>
+    <p style="font-size: 12px; margin: 0;">🔹 This is where you can drag and drop your .txt files, and once you are done, close out of the Flipper desktop app.</p>
+    <p style="font-size: 12px; margin: 0;">🔹 You are now ready to deploy your BADUSB DuckyScripts and take over the World! ENJOY :)</p>
   </div>
 </li>
 
