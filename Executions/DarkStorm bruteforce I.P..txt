@@ -18,9 +18,7 @@ REM nikto command will not execute if you don't have the correct port assigned!
 REM verify that the web server is indeed running on an open port  
 REM as indicated by the Nmap scan, before using the code!
 
-REM To use this script, replace <13.371.118.34 with target_ip> 
-REM with the IP address of the target system you want to test,
-REM replace 
+REM To use this script, replace <13.371.118.34 with target_ip>  
 
 REM Open the Terminal application on your macOS.
 REM Run the following command: sudo mkdir /etc/resolver
