@@ -19,7 +19,7 @@ REM Download the OWASP ZAP.app file from the official OWASP ZAP website
 REM nikto command will not execute if you don't have the correct port assigned! 
 REM verify that the web server is indeed running on an open port  
 REM as indicated by the Nmap scan, before using the code!
-
+REM Line 45 should look like this after port # is inserted "STRING nikto -h 13.371.118.34 -p 73" 
 REM To use this script, replace <13.371.118.34 with target_ip>  
 
 REM Open the Terminal application on your macOS.
