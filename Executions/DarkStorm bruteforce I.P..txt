@@ -1,7 +1,9 @@
 REM The script will open the Terminal, 
 REM execute the nmap command to scan for open ports, 
-REM run nikto for web server vulnerability scanning,  
-REM Runs Zap to test for Network vulerabilities  
+REM run nikto for web server vulnerability scanning.
+REM Runs Zap to test for Network vulerabilities, prints report to Desktop. You can change location to your flipper on line 46.
+REM Tshark command-line tool for capturing and analyzing network traffic. Will create a new file named capture.pcap on your desktop
+REM You can change location to your flipper on line 51.
 REM Performs directory and file brute-forcing with gobuster and password files
 REM must store password file on Desktop and name it "common.txt"
 
@@ -10,7 +12,7 @@ REM must store password file on Desktop and name it "common.txt"
 REM nmap, nikto, and gobuster can all be downloaded using homebrew/terminal
 REM command 'brew install nmap && brew install nikto && brew install gobuster'
 
-
+REM Download wireshark to use the terminal Tshark command
 REM Download the OWASP ZAP.app file from the official OWASP ZAP website
 
 
