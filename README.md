@@ -1,5 +1,5 @@
-<h1 align="center"><u>MacOS-DuckyScripts</u></h1>
-<h2 align="center"><u>PLUG &amp; PLAY FLIPPER ZERO SCRIPTS for MacOS</u></h2>
+<h1 align="center"><u>PLUG &amp; PLAY FLIPPER ZERO SCRIPTS for MacOS</u></h1>
+
 
 <p align="center">
   <img src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40" alt="Banner Image">
@@ -20,16 +20,17 @@
   <p>
     <a href="https://github.com/leedave/Leeds-Flipper-Zero-Fap-Files/tree/main/Xtreme" style="font-size: 18px;">@XRemote<a>(BETA)<h2>
 </div>
+<h2 align="center">If you're a visual learner like me, check out this detailed tutorial: <a href="https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf" style="text-decoration: none;">@How 2 Flipper Guide
 
-<h1 align="center"><u>Step by Step Directions to get you up and running will be posted Below!</u></h3>
 
-<h3 align="center">If you're a visual learner like me, check out this detailed tutorial: <a href="https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf">@How 2 Flipper Guide</a></h3>
 
-<h2 align="center">Thanks to <a href="https://github.com/wrenchathome">@wrenchathome</a></p>
+<p align="center">Thanks to <u><a href="https://github.com/wrenchathome">@wrenchathome</a></u></h2>
 <ol>
- 
+
+ <h1 align="center"><u>Step by Step Directions to get you up and running will be posted Below!</u></h3>
   <div style="border: 2px solid #000000; padding: 10px;">
-    <p style="font-size: 12px; margin: 0;">
+    <p style="font-size: 32px; margin: 0;">
+      <span style="font-size: 0;"></span>🔹 First off always read the Remarks, you will see "REM" this is used to explain the purpose of each line or provide instructions to the user. Very Important to always READ the REM's!</p>
       <span style="font-size: 0;"></span>🔹 To upload the .txt files, you will need to copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is easy).</p>
     <p style="font-size: 12px; margin: 0;">🔹 Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
     <p style="font-size: 12px; margin: 0;">🔹 You can type .txt after the file name, and it will prompt you to save the file as a .txt.</p>
@@ -39,17 +40,15 @@
   </div>
 </li>
       
-<div style="text-align: center;">
-  <h1>Support Narsty!</h1>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+  <h1 align="center">Support Narsty!</h1>
   
-  <p>A little digital love!</p>
-  
-  <div style="display: flex; justify-content: center;">
-    <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
-      <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
-    </a>
-  </div>
-</div>
+  <p align="center">
+  <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
+    <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
+  </a>
+</p>
+
 
 
 
@@ -65,11 +64,11 @@
 <p align="center">
   <img src="https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png" alt="Cyberattack Image">
 </p>
-<p align="center"><u>!!!! EXERCISE CAUTION !!!!</u></p>
-<h3 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h3>
-<p>Deleting files and folders can have significant consequences!</p>
+<h1 align="center"><u>!!!! EXERCISE CAUTION !!!!</u></p>
+<h2 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h3>
+<h2 Deleting files and folders can have significant consequences!</p>
 <p>It's crucial to !!!! EXERCISE CAUTION !!!! when performing such actions. Deleting system files or important user data can lead to data loss or system instability. Therefore, it is recommended to proceed with extreme caution and ensure that you have a backup of any important files before executing any commands that involve file deletion.</p>
 <p align="center">
   <img src="https://www.ncsc.gov.uk/images/malware%20warning.jpg" alt="Malware Warning Image">
 </p>
-```
+
