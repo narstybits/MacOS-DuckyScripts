@@ -42,7 +42,7 @@
 <div style="text-align: center;">
   <h1>Support Narsty!</h1>
   
-  <p>I wouldn't say no to a little digital love!</p>
+  <p>A little digital love!</p>
   
   <div style="display: flex; justify-content: center;">
     <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
