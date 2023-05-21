@@ -38,6 +38,25 @@
     <p style="font-size: 12px; margin: 0;">🔹 You are now ready to deploy your BADUSB DuckyScripts and take over the World! ENJOY :)</p>
   </div>
 </li>
+      
+<div style="text-align: center;">
+  <h1>Support Narsty!</h1>
+  
+  <p>If my work has brought a smile to your face or sparked joy in your heart, and you happen to have some spare Bitcoin lying around, I wouldn't say no to a little digital love. Your generous Bitcoin donations will fuel my creative endeavors and keep the coffee flowing!</p>
+  
+  <div style="display: flex; justify-content: center;">
+    <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
+      <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
+    </a>
+  </div>
+</div>
+
+
+
+
+      
+
+
 
 
 
