@@ -4,7 +4,7 @@
 
 <h1 align="center"><u>GoodUSB</u></h1>
 <h4
-<p align="center">Welcome to the <strong>"goodUSB"</strong> folder of our Ducky Script repository!</p>
+<p align="center">Welcome to the <strong>"goodUSB"</strong> folder of Narty's Ducky Script repository!</p>
 
 <p align="center">This folder contains Ducky Scripts that focus on providing utility and helpful functionality to your system.</p>
 
