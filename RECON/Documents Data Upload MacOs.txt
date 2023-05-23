@@ -50,8 +50,8 @@ ENTER
 DELAY 500
 STRING osascript docapi.scpt
 ENTER
-DELAY 7000
-GUI w
+DELAY 200
+GUI m
 
 
 
