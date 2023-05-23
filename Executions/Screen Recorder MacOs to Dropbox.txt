@@ -25,7 +25,7 @@ curl -X POST "https://content.dropboxapi.com/2/files/upload" \
 
 
 REM Now save the below Ducky Script (lines 37-57) as a .txt file (main Read.me has step by step directions)
-REM and put the .txt file on your flipper zero to execute the terminal comannd script through the terminal.
+REM and put the .txt file on your flipper zero to execute the Ducky Script through the terminal.
 
 
 REM Author: Narsty
