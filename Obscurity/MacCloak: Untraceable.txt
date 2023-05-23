@@ -6,7 +6,7 @@ REM Enable Private Browsing Mode
 REM Disable Siri Suggestions
 REM Randomize Hostname
 REM Clear Terminal History
-
+REM Open Tor Browser
 
 REM Please note that some commands may require administrative privileges (sudo). 
 REM Also, make sure to replace <spoofed_mac_address> with the desired MAC address 
@@ -17,7 +17,7 @@ REM Title: MacCloak: Untraceable
 REM Target: MacOS 
 REM Version: 1.0
 REM Category: Obscurity
-REM Open Tor Browser
+
 
 DELAY 1000
 GUI SPACE
