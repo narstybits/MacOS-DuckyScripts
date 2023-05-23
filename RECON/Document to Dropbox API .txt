@@ -1,7 +1,7 @@
 REM This script copies the contents of the Documents folder and uploads it to a specific dropbox API
 
 REM Author: Narsty
-REM Title: Documents Data Upload MacOs 
+REM Title: Document to Dropbox API 
 REM Version 1.0 MacOs
 
 REM Copy and paste this osascript/code (lines 12-59)  into the Script editor App on your MacOs
