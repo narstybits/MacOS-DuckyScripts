@@ -50,8 +50,8 @@ ENTER
 DELAY 500
 STRING osascript DTDUpload.scpt
 ENTER
-DELAY 200
-GUI m
+DELAY 7000
+GUI w
 
 
 
