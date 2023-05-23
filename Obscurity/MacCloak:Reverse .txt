@@ -8,7 +8,7 @@ REM Title: MacCloak/Reverse
 REM Target: MacOS 
 REM Version: 1.0
 REM Category: Obscurity
-REM Open Tor Browser
+
 
 DELAY 1000
 GUI SPACE
