@@ -8,9 +8,8 @@ REM Randomize Hostname
 REM Clear Terminal History
 REM Open Tor Browser
 
-REM Please note that some commands may require administrative privileges (sudo). 
-REM Also, make sure to replace <spoofed_mac_address> with the desired MAC address 
-REM and <random_hostname> with a random hostname of your choice.
+REM Please note that some commands may require administrative privileges (sudo).  
+REM Replace <random_hostname> with a random hostname of your choice.
 
 REM Author: Narsty
 REM Title: MacCloak: Untraceable
