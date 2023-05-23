@@ -11,6 +11,7 @@ REM Run the script to organize the desktop effortlessly.
 GUI SPACE
 DELAY 500
 STRING Terminal
+DELAY 500
 ENTER
 DELAY 1000
 STRING cd ~/Desktop
