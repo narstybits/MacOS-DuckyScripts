@@ -8,6 +8,8 @@ REM Target: MacOS
 REM Version: 1.0
 REM Category: 
 
+
+ID 05ac:021e Apple:Keyboard
 DELAY 300
 GUI SPACE
 DELAY 500
