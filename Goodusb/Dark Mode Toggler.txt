@@ -11,6 +11,8 @@ REM Category: Utility
 REM Title: Dark Mode Enabler
 REM Author: Narsty
 
+
+ID 05ac:021e Apple:Keyboard
 DELAY 1000
 GUI SPACE
 DELAY 500
