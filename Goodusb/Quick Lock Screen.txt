@@ -5,6 +5,8 @@ REM Author: Narsty
 REM Title: Quick Lock Screen
 REM Version 1.0 MacOs
 
+
+ID 05ac:021e Apple:Keyboard
 DELAY 2000
 GUI SPACE
 DELAY 500
