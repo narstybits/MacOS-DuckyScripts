@@ -1,6 +1,10 @@
 REM This script can be used to download files from dropbox to a target MacOs Desktop.
 REM files downloaded to the desktop can be used to trigger more complex scripts for further exploitation
 
+REM Author: Narsty
+REM Title: Dropbox to Desktop Bomb
+REM Version 1.0 MacOs
+REM Category: Execution 
 
 
 REM Copy and paste the osascript/code (lines 15-24) into the Script editor App on your MacOs
