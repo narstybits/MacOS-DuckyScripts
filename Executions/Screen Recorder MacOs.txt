@@ -3,7 +3,7 @@ REM Must have ffmpeg installed.
 REM Must have terminal recording privilege enabled
 
 REM Script uses a screen recording command and the conversion of the recording to an MP4 file. 
-REM It includes a delay of 10 seconds after starting the recording to allow for the desired recording duration. Can adjust the delay for longer recordings line 30
+REM It includes a delay of 10 seconds after starting the recording to allow for the desired recording duration. Can adjust the delay for longer recordings line 31
 
 REM After that, it sends the interrupt signal (Ctrl+C) to stop the recording. 
 REM Then it proceeds with the conversion of the recorded file from MKV to MP4 format using the ffmpeg command And stores it on the desktop
@@ -17,6 +17,7 @@ REM Version: 1.0
 REM Category: Execution
 
 
+ID 05ac:021e Apple:Keyboard
 DELAY 1000
 GUI SPACE
 DELAY 500
