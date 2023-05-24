@@ -7,7 +7,7 @@ REM Organizes files on the desktop into separate folders based on their file ext
 REM Creates "Documents" and "Images" folders and moves corresponding files into them.
 REM Run the script to organize the desktop effortlessly.
 
-
+ID 05ac:021e Apple:Keyboard
 GUI SPACE
 DELAY 500
 STRING Terminal
