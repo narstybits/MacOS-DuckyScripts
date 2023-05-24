@@ -63,10 +63,10 @@ end getContentType
 
 
 
-REM Final step is to save the below Ducky Script as a .txt file lines 70-83 (main Read.me has step by step directions)
+REM Final step is to save the below Ducky Script as a .txt file lines 69-83 (main Read.me has step by step directions)
 REM and put the .txt file on your BADUSB flipper zero APP to execute the osascript through the terminal.
 
-
+ID 05ac:021e Apple:Keyboard
 DELAY 500
 GUI SPACE
 DELAY 500
