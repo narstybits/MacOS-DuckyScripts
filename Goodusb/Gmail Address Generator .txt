@@ -1,0 +1,31 @@
+REM Generates a random email and checks for availability.
+
+REM Author: Narsty
+REM Title: Gmail Address Generator
+REM Category: GOODUSB
+REM Version: 1.0
+
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING EMAIL=$(curl -s https://api.namefake.com/random/gmail | awk -F '"' '/username/ {print $4}' | tr ' ' '.')
+ENTER
+DELAY 2000
+STRING clear
+ENTER
+DELAY 1000
+STRING echo "Generated email: $EMAIL@gmail.com"
+ENTER
+DELAY 1000
+STRING echo "Checking email availability..."
+ENTER
+DELAY 1000
+STRING curl -s -I "https://mail.google.com/verify?email=$EMAIL@gmail.com"
+ENTER
