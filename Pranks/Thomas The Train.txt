@@ -1,5 +1,5 @@
 REM Run Terminal Train Animation
-REM Required Apps: Terminal.app, sl (installed via Homebrew)
+REM Required Apps: Terminal, sl (installed via Homebrew)
 REM Run Terminal Train Animation
 
 
