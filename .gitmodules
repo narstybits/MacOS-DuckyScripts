@@ -1,6 +1,3 @@
 [submodule "flipperzero-badUSB"]
 	path = flipperzero-badUSB
 	url = https://github.com/grugnoymeme/flipperzero-badUSB.git
-[submodule "prank/Unix-like/OSx"]
-	path = prank/Unix-like/OSx
-	url = https://github.com/FalsePhilosopher/badusb.git
