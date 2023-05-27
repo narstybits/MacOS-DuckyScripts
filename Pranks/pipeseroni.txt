@@ -1,5 +1,6 @@
-REM you'll be able to play a Tetris-like game right in your terminal.
-REM you may need to adjust the delays based on your internet connection speed and system performance.
+REM Runs the curl command to download pipes
+REM a fun colorful temrinal screensaver like the old windows Pipes
+
 
 REM Title: pipeseroni
 REM Author: Narsty
