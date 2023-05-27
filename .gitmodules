@@ -1,0 +1,3 @@
+[submodule "flipperzero-badUSB"]
+	path = flipperzero-badUSB
+	url = https://github.com/grugnoymeme/flipperzero-badUSB.git
