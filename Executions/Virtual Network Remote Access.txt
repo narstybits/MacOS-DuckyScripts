@@ -1,5 +1,17 @@
-REM Deletes the hidden folder ~/.copypasta
-REM To be used with copy pasta script
+REM VNC is a technology that allows you to remotely control another computer. 
+REM In this case, if the VNC server is started on a Mac, you can view 
+REM and control that Mac from another computer using a VNC viewer application.
+
+
+
+REM Creates a temporary directory called "phantom_vnc" in the "/tmp" directory and navigates into it.
+REM Creates a script file called "vnc_start.sh", 
+REM which contains the command to start the MacOS built-in VNC server
+REM creates another script "vnc_stop.sh" that contains a command to stop the VNC server. 
+REM It then changes the permissions of these files to be executable using the chmod command.
+REM Executes the "vnc_start.sh" script to start the VNC server.
+REM Finally, it clears the Terminal history and exits Terminal.
+
 
 
 REM Author: Narsty
