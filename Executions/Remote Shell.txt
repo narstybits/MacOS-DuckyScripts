@@ -13,7 +13,7 @@ REM you can connect to your WebSocket server like this: 'websocat ws://localhost
 REM Once connected, you can type a command and press Enter to send it. 
 REM The server will execute the command and send back the output.
 REM To shut down the server, use the kill command with the PID  
-Replace 12345 with the actual PID from your 'kill 12345'
+REM Replace 12345 with the actual PID from your 'kill 12345'
 
 REM Requirements: Homebrew/python3/websocat
 
