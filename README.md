@@ -87,7 +87,7 @@
 <h1 align="center"><u>!!!! EXERCISE CAUTION !!!!</u></p>
 <h2 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h3>
 <h2 Deleting files and folders can have significant consequences!</p>
-<p>It's crucial to !!!! EXERCISE CAUTION !!!! when performing such actions. Deleting system files or important user data can lead to data loss or system instability. Therefore, it is recommended to proceed with extreme caution and ensure that you have a backup of any important files before executing any commands that involve file deletion.</p>
+<p align="center"> It's crucial to !!!! EXERCISE CAUTION !!!! when performing such actions. Deleting system files or important user data can lead to data loss or system instability. Therefore, it is recommended to proceed with extreme caution and ensure that you have a backup of any important files before executing any commands that involve file deletion.</p>
 <p align="center">
   <img src="https://www.ncsc.gov.uk/images/malware%20warning.jpg" alt="Malware Warning Image">
 </p>
