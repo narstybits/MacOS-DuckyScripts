@@ -1,9 +1,8 @@
-
 REM Author: Narsty
 REM Title: file hijacker
 REM Version 1.0 MacOs
 
-REM Replace <Your Shared link for the intended file> with the actual URL for the file you want to download.
+REM Replace <Enter dropbox File URL here> with the actual URL for the file you want to download.
 REM Additionally, replace file.ext with the desired name and extension for the downloaded file.
 
 ID 05ac:021e Apple:Keyboard
