@@ -11,7 +11,7 @@ REM Must include file type in the name. Example (.pdf .txt .doc)
 REM password must be the same as when you encrypted 
 
 
-REM openssl enc -aes-256-cbc -d -in ~/Desktop/ENCRYPTED.enc -out ~/Desktop/screen_recording.mp4 -pass pass:<PASSWORD HERE>
+REM openssl enc -aes-256-cbc -d -in ~/Desktop/ENCRYPTED.enc -out ~/Desktop/<FILE NAME HERE.pdf> -pass pass:<PASSWORD HERE>
 
 
 REM Title: File Encryption Tool
