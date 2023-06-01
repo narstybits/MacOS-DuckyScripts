@@ -2,14 +2,23 @@
   <img src="https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg" alt="Top Image">
 </div>
 
-<h1 align="center"><u>GoodUSB</u></h1>
-<h4
+<h1 align="center">GoodUSB 
+            
+<div style="text-align: left;">
+  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+</div>
+
+<h3
 <p align="center">Welcome to the <strong>"goodUSB"</strong> folder of Narsty's Ducky Script repository!</p>
 
 <p align="center">This folder contains Ducky Scripts that focus on providing utility and helpful functionality to your system.</p>
 
-<h2 align="center">What are GoodUSB Scripts?</h2>
-<h4
+<h1 align="center">What Are GOODUSB Scripts?
+            
+<div style="text-align: left;">
+  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+</div>
+<h3
 <p align="center">GoodUSB Scripts are Ducky Scripts designed to showcase the positive potential of Ducky Scripting.</p>
 
 <p align="center">While Ducky Script is often associated with malicious intent due to its ability to automate actions on a computer, 
