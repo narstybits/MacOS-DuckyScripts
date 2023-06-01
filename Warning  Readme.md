@@ -4,7 +4,6 @@
 
 <h1 h3>
  Caution: Read before proceeding
-<h3 h1>
 <div align="left">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>    
