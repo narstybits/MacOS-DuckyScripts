@@ -14,7 +14,7 @@ REM password must be the same as when you encrypted
 REM openssl enc -aes-256-cbc -d -in ~/Desktop/ENCRYPTED.enc -out ~/Desktop/<FILE NAME HERE.pdf> -pass pass:<PASSWORD HERE>
 
 
-REM Title: File Encryption Tool
+REM Title: File Encryption 
 REM Author: Narsty
 REM Target: MacOS
 REM Version: 1.0
