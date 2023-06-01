@@ -4,8 +4,8 @@ REM Then uploads the MP4 file to your Dropbox API, deletes the files on the desk
 
 REM Must have terminal recording privileges enabled in Privacy & Security settings 
 REM Script includes a delay of 10 seconds after starting the recording. 
-REM to allow for the desired recording duration. Can adjust the delay for longer recordings. line 33
-REM keeo the delays the same if you adjust line 33, also adjust line 39. This will allow for a good buffer time.
+REM to allow for the desired recording duration. Can adjust the delay for longer recordings. line 34
+REM keep the delays the same if you adjust line 34, also adjust line 42. This will allow for a good buffer time.
 
 REM Must have ffmpeg installed 
 REM You can download through the terminal using the 'brew install ffmpeg command'
