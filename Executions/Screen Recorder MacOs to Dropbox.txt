@@ -1,6 +1,6 @@
 REM This script records the screen and saves the recording as a .mkv file to the desktop.
 REM Converts the recording to an MP4 file and saves the MP4 file to the desktop.
-REM Then uploads the MP4 file to your Dropbox API
+REM Then uploads the MP4 file to your Dropbox API, deletes the files on the desktop, and clears the terminal.
 
 REM Must have terminal recording privileges enabled in Privacy & Security settings 
 REM Script includes a delay of 10 seconds after starting the recording. 
