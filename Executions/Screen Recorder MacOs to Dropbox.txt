@@ -7,7 +7,8 @@ REM Script includes a delay of 10 seconds after starting the recording.
 REM to allow for the desired recording duration. Can adjust the delay for longer recordings. line 32
 REM keeo the delays the same if you adjust line 32, also adjust line 38. This will allow for a good buffer time.
 
-REM Must have ffmpeg installed! You can download through the terminal using the brew 'install ffmpeg command'.
+REM Must have ffmpeg installed 
+REM You can download through the terminal using the brew 'install ffmpeg command'
 REM Replace "USERNAME_HERE" with system username 
 REM Replace "Your API token Here" with your API access token 
 
