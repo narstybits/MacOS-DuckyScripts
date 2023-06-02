@@ -1,12 +1,19 @@
-<h1 align="center"><u>PLUG &amp; PLAY FLIPPER ZERO SCRIPTS for MacOS</u></h1>
+<h1
+ align="center"><u>PLUG &amp; PLAY FLIPPER ZERO SCRIPTS for MacOS 
+<div align="left">
+  <img alt="Coding" width="1473" height="15" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+</div>
 
 
 <p align="center">
   <img src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40" alt="Banner Image">
 </p>
 
-<h1 align="center"><u>This repository is EXCLUSIVE to MacOs BADUSB Scripts</u></h1>
-
+<h1 
+ align="center"><u>This repository is EXCLUSIVE to MacOs BADUSB Scripts
+<div align="left">
+  <img alt="Coding" width="1473" height="15" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+</div>
 <h1 align="center"><u>!!!!! They are Plug & Play !!!!!</u></h1>
 
 <h2 align="center"><u>Big shoutout and huge thanks to <a href="https://github.com/grugnoymeme">@47LeCoste</a>, <a href="https://github.com/ClaraCrazy">@ClaraCrazy</a>, <a href="https://github.com/0iphor13">@0iphor13</a>, <a href="https://github.com/hak5">@Hak5</a>, <a href="https://github.com/I-Am-Jakoby">@I-Am-Jakoby</a>, and <a href="https://github.com/UberGuidoZ">@UberGuidoZ</a></u></h2>
@@ -27,7 +34,13 @@
 <p align="center">Thanks to <u><a href="https://github.com/wrenchathome">@wrenchathome</a></u></h2>
 <ol>
 
- <h1 align="center"><u>Step by Step Directions to get you up and running will be posted Below!</u></h3>
+ <h1 
+  align="center"><u>Step by Step Directions to get you up and running will be posted Below!</a></u></h2>
+  <div align="left">
+  <img alt="Coding" width="1473" height="15" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+</div>
+ 
+<h3  
   <div style="border: 2px solid #000000; padding: 10px;">
     <p style="font-size: 32px; margin: 0;">
       <span style="font-size: 0;"></span>🔹 First off always read the Remarks, you will see "REM" this is used to explain the purpose of each line or provide instructions to the user. Very Important to always READ the REM's!</p>
@@ -61,8 +74,11 @@
   <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>     
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <h1 align="center">Support Narsty!</h1>
-  
+  <h1 
+   align="center">Support Narsty!
+   <div align="left">
+  <img alt="Coding" width="1473" height="15" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+</div>
   <p align="center">
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
     <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
