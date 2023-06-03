@@ -1,1 +1,0 @@
-curl -X POST "https://content.dropboxapi.com/2/files/upload" -H "Authorization: Bearer Your API token Here" -H "Dropbox-API-Arg: {\"path\": \"/screen_recording.mp4\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary "@/Users/USERNAME_HERE/Desktop/screen_recording.mp4"
