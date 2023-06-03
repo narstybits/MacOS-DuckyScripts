@@ -1,11 +1,11 @@
 REM The script will open the Terminal, 
 REM execute the nmap command to scan for open ports, 
 REM run nikto for web server vulnerability scanning.
-REM Runs Zap to test for Network vulerabilities, prints report to Desktop. You can change location to your flipper on line 46.
+REM Runs Zap to test for Network vulerabilities, prints report to Desktop. You can change location to your flipper on line 48.
 REM Tshark command-line tool for capturing and analyzing network traffic. Will create a new file named capture.pcap on your desktop
 REM You can change location to your flipper on line 51.
-REM Performs directory and file brute-forcing with gobuster and password files
-REM must store password file on Desktop and name it "common.txt"
+REM Finally the script performs directory and file brute-forcing with gobuster and password files
+REM Must store password file on Desktop and name it "common.txt"
 
 
 
@@ -22,9 +22,7 @@ REM as indicated by the Nmap scan, before using the code!
 REM Line 45 should look like this after port # is inserted "STRING nikto -h 13.371.118.34 -p 73" 
 REM To use this script, replace <13.371.118.34 with target_ip>  
 
-REM Open the Terminal application on your macOS.
-REM Run the following command: sudo mkdir /etc/resolver
-REM This will create the /etc/resolver directory needed to randomize DNS request.
+
 
 REM Author: Narsty
 REM Title: DarkStorm bruteforce
