@@ -1,5 +1,5 @@
 REM Toggle Wifi 
-REM You'll need to STOP the Script after you see the wifi turn off (about 3 seconds) 
+REM You'll need to STOP the Script after you see the wifi turn off (about 4 seconds) 
 REM To turn the wifi Back On let the script run all the way through
 
 REM Author: Narsty
@@ -20,10 +20,11 @@ ENTER
 DELAY 500
 STRING networksetup -setairportpower en0 off
 ENTER
-DELAY 2000
+DELAY 4000
 STRING networksetup -setairportpower en0 on
 ENTER
 DELAY 500
-STRING echo "Wi-Fi toggled!"
+GUI q
+DELAY 500
 ENTER
 
