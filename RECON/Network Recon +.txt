@@ -1,8 +1,7 @@
-REM Scans for live hosts on the network using ping.
-REM Performs port scanning to identify open ports on target hosts.
-REM Gathers information about target hosts using WHOIS and DNS lookups.
-REM Conducts traceroute to trace the network path to a destination.
-REM Provides a comprehensive report for security testing and analysis.
+REM 'networksetup -listallhardwareports' This command lists all the hardware ports/interfaces on your Mac, such as Wi-Fi, Ethernet, Bluetooth, etc.
+REM 'ifconfig' This command displays the network interface configuration and status information.
+REM ;arp -a' This command shows the Address Resolution Protocol (ARP) cache table. 
+REM It displays the mappings between IP addresses and MAC addresses of devices on your local network.
 
 
 REM Author: Narsty
