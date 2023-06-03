@@ -27,7 +27,7 @@
   <p>
     <a href="https://github.com/leedave/Leeds-Flipper-Zero-Fap-Files/tree/main/Xtreme" style="font-size: 18px;">@XRemote<a>(BETA)<h2>
 </div>
-<h2 align="center">If you're a visual learner like me, check out this detailed tutorial: <a href="https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf" style="text-decoration: none;">@How 2 Flipper Guide
+<h2 align="center">    If you're a visual learner like me, check out this detailed tutorial: <a href="https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf" style="text-decoration: none;">@How 2 Flipper Guide
 
 
 
