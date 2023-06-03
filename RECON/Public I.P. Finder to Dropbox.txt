@@ -2,6 +2,7 @@ REM Description: Uses Mac Terminals config.me command to do a PUBLIC I.P. lookup
 REM displays the results in a pop up window & Saves the data to a folder on the desktop
 REM Then proceeds to upload the I.P. data to your API dropbox 
 REM removes the folder on the desktop and closes the terminal
+REM Replace <API access token here> with your actual Dropbox API access token 
 
 
 
