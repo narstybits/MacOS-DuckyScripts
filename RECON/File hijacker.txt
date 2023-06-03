@@ -1,5 +1,5 @@
 REM Author: Narsty
-REM Title: file hijacker
+REM Title: Dropbox File Downloader
 REM Version 1.0 MacOs
 
 REM Replace <dropbox URL> with the actual URL for the file you want to download.
