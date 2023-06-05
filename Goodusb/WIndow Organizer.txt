@@ -1,10 +1,11 @@
 REM Ducky Script to resize and arrange windows on macOS
 
+REM Title: WIndow Organizer
 REM Author: Narsty
-REM Title: Window Organizer
 REM Target: MacOS 
 REM Version: 1.0
-REM Category: Utility
+REM Category: GOODUSB
+
 
 ID 05ac:021e Apple:Keyboard
 DELAY 2000
