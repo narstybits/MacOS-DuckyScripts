@@ -10,7 +10,7 @@ REM Title: Public I.P. Finder to Dropbox
 REM Author: Narsty
 REM Target: MacOS 
 REM Version: 1.0
-REM Category: Execution
+REM Category: Recon
 
 
 
