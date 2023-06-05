@@ -1,8 +1,10 @@
 REM This Script will minimize all open windows 
 
+REM Title: Clear Not Close 
 REM Author: Narsty
-REM Title: ClearNotClose
-REM Version 1.0 MacOs
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Utility
 
 ID 05ac:021e Apple:Keyboard
 DELAY 1000
