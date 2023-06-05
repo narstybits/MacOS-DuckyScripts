@@ -4,11 +4,12 @@ REM Using such scripts can have severe consequences and is not recommended.
 REM Always exercise caution and ensure you have proper authorization.
 
 
-REM Title: Restart Prompt
-REM Description: 
+REM Title: Fuck your Files
 REM Author: NARSTY
 REM Version: 1.0
 REM Target: macOS
+REM Category: Executions 
+
 
 DELAY 1000
 GUI SPACE
