@@ -12,7 +12,7 @@ REM Author: Narsty
 REM Title: Web Scraper
 REM Version: 1.0 
 REM Target: MacOs
-REM Category: Reconnaissance 
+REM Category: Recon
 
 
 DELAY 500
