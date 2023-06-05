@@ -1,7 +1,8 @@
-REM Title: Website Redirect
-REM Author: NARSTY
 REM Description: Opens Terminal and redirects to URL of choice  
 REM You must enter the desired website in the Url String DO NOT remove single Quotes!
+
+REM Title: Website Redirect
+REM Author: NARSTY
 REM Target: MacOS 
 REM Version: 1.0
 REM Category: Execution
