@@ -9,7 +9,7 @@ REM Author: Narsty
 REM Title: MacUpdaterBot+
 REM Target: MacOS 
 REM Version: 1.0
-REM Category: Utility 
+REM Category: GOODUSB
 
 ID 05ac:021e Apple:Keyboard
 DELAY 500
