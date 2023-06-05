@@ -4,7 +4,7 @@ REM Title: Clear Not Close
 REM Author: Narsty
 REM Target: MacOS 
 REM Version: 1.0
-REM Category: Utility
+REM Category: GOODUSB
 
 ID 05ac:021e Apple:Keyboard
 DELAY 1000
