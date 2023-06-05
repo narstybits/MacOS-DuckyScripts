@@ -2,8 +2,8 @@ REM Organizes files on the desktop into separate folders based on their file ext
 REM Creates "Documents" and "Images" folders and moves corresponding files into them.
 REM Run the script to organize the desktop effortlessly.
 
+REM Title: Desktop Organizer 
 REM Author: Narsty
-REM Title: Desktop Organizer
 REM Version 1.0 MacOs
 REM Category: GOODUSB
 
