@@ -3,10 +3,10 @@ REM Creates "Documents", "Images", "Music", and "Video" folders
 REM and moves corresponding files into them.
 REM Run the script to organize the desktop effortlessly.
 
-REM Author: Narsty
 REM Title: Desktop Organizer +
+REM Author: Narsty
 REM Version 1.0 MacOs
-REM macOS File Organizer
+REM Category: GOODUSB
 
 
 DELAY 1000
