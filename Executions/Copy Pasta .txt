@@ -10,7 +10,7 @@ REM Author: Narsty
 REM Title: Dark Mode Toggler
 REM Target: MacOS 
 REM Version: 1.0
-REM Category: Utility
+REM Category: Executions
 
 
 ID 05ac:021e Apple:Keyboard
