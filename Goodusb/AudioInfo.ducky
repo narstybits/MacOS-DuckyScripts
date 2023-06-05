@@ -1,9 +1,8 @@
-REM Title: AudioInfo.ducky
-REM Author: NARSTY
-REM Description:Provides a utility to display/Say useful information on the target system 
-REM the current date, time, and battery percentage 
-REM 
+REM Provides a utility to display/Say useful information on the target system 
+REM The current date, time, and battery percentage 
 
+REM Title: AudioInfo.ducky 
+REM Author: Narsty
 REM Target: MacOS 
 REM Version: 1.0
 REM Category: Utility
