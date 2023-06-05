@@ -1,9 +1,13 @@
 REM Locks the screen on macOS
 REM Provides a quick way to secure your computer when stepping away
 REM Ensures privacy and data protection
-REM Author: Narsty
+
+
 REM Title: Quick Lock Screen
-REM Version 1.0 MacOs
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: GOODUSB
 
 
 ID 05ac:021e Apple:Keyboard
