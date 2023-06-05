@@ -7,7 +7,7 @@ REM Author: Narsty
 REM Title: SysNet Info
 REM Target: MacOS 
 REM Version: 1.0
-REM Category: Execution
+REM Category: Recon
 
 ID 05ac:021e Apple:Keyboard
 DELAY 500
