@@ -1,11 +1,11 @@
 REM opens the Terminal application and runs a series of commands 
 REM to update, upgrade, and clean up Homebrew packages. 
 
+REM Title: Homebrew Manager
 REM Author: Narsty
-REM Title: Homebrew Update and Cleanup Utility
-REM Target: MacOS 
-REM Version: 1.0
-REM Category: Utility
+REM Version 1.0 MacOs
+REM Category: GOODUSB
+
 
 ID 05ac:021e Apple:Keyboard
 DELAY 500
