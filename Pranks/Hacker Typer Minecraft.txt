@@ -1,3 +1,9 @@
+REM Title: Hacker Typer Minecraft
+REM Author:UberGuidoZ & Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
 ID 05ac:021e Apple:Keyboard
 DELAY 1000
 GUI SPACE
