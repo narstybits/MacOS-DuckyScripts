@@ -19,7 +19,7 @@ REM Author: Narsty
 REM Title: Phantom Audio Capturer
 REM Target: MacOS 
 REM Version: 1.0
-REM Category: 
+REM Category: Recon
 
 
 ID 05ac:021e Apple:Keyboard
