@@ -1,7 +1,9 @@
-REM Title: Rick Roll Eternity Vol
-REM Author: NARSTY
 REM Description: Opens Safari and redirects to YouTube rickroll vid  
 REM Volume is turned up and proceeds to be pressed so you cannot turn the Vol down
+
+
+REM Title: Rick Roll 
+REM Author: NARSTY
 REM Target: MacOS 
 REM Version: 1.0
 REM Category: Prank
