@@ -1,9 +1,11 @@
-REM Target: MacOS 
-REM Version: 1.0
-REM Category: Utility
+REM Takes a Screenshot and saves the image to the desktop
+
 REM Title: MacOS ScreenShot
 REM Author: Narsty
-REM Takes a picture of the Screen and saves it to the Desktop
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: GOODUSB
+
 
 ID 05ac:021e Apple:Keyboard
 DELAY 2000
