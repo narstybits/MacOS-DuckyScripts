@@ -1,9 +1,12 @@
-REM Author: NARSTY 
 REM If you haven't previously archived your iMessages, the folder will be empty.
 REM This script captures iMessages and puts it into 
 REM a folder on the desktop named automatically to the users Name
-REM MacOS 
 
+
+REM Author: Narsty
+REM Title: Dropbox to Desktop Bomb
+REM Version 1.0 MacOs
+REM Category: Execution 
 
 ID 05ac:021e Apple:Keyboard
 DELAY 500
