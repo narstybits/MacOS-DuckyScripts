@@ -5,7 +5,7 @@ REM Run the script to organize the desktop effortlessly.
 REM Author: Narsty
 REM Title: Desktop Organizer
 REM Version 1.0 MacOs
-REM macOS File Organizer
+REM Category: GOODUSB
 
 ID 05ac:021e Apple:Keyboard
 GUI SPACE
