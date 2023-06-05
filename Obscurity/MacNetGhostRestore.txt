@@ -1,7 +1,7 @@
 REM Ducky Script to Restore Disabled Network Interfaces
 
 REM Author: Narsty
-REM Title: MacNetRevive
+REM Title: MacNetGhostRestore
 REM Target: MacOS 
 REM Version: 1.0
 REM Category: Obscurity
