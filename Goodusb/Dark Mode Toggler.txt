@@ -5,7 +5,7 @@ REM Author: Narsty
 REM Title: Dark Mode Toggler
 REM Target: MacOS 
 REM Version: 1.0
-REM Category: Utility
+REM Category: GOODUSB
 
 
 REM Title: Dark Mode Enabler
