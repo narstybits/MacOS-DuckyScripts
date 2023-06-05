@@ -3,12 +3,11 @@ REM 'ifconfig' This command displays the network interface configuration and sta
 REM ;arp -a' This command shows the Address Resolution Protocol (ARP) cache table. 
 REM It displays the mappings between IP addresses and MAC addresses of devices on your local network.
 
-
-REM Author: Narsty
 REM Title: Network Recon +
+REM Author: Narsty
 REM Version: 1.0 
 REM Target: MacOs
-
+REM Category: Recon
 
 ID 05ac:021e Apple:Keyboard
 DELAY 500
