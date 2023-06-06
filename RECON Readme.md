@@ -53,9 +53,9 @@
 
 <h4>
 <ul>
-  <li><a href="https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470">The Web Application Hacker's Handbook</a> by Dafydd Stuttard and Marcus Pinto</li>
-  <li><a href="https://osintframework.com/">OSINT Framework</a>: A collection of various tools and resources for OSINT.</li>
-  <li><a href="https://owasp.org/www-project-top-ten/">OWASP Top Ten Project</a>: A list of the top ten most critical web application security risks</li>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470">The Web Application Hacker's Handbook</a> by Dafydd Stuttard and Marcus Pinto</li>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://osintframework.com/">OSINT Framework</a>: A collection of various tools and resources for OSINT.</li>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://owasp.org/www-project-top-ten/">OWASP Top Ten Project</a>: A list of the top ten most critical web application security risks</li>
 </ul>
 </h4>
 
