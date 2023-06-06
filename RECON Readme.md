@@ -30,8 +30,10 @@
 </ol>
 </h4>
 
-## Tools
-
+ <h2>Tools
+<div align="center">
+  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+</div>
 <h4>
 <ul>
  <p><span style="font-size: 0;"></span>🔹<a href="https://nmap.org/">Nmap</a>: A powerful network scanning tool used for port scanning and network mapping.</li>
@@ -43,8 +45,10 @@
 
 <p>These are just a few examples of tools used in reconnaissance. Remember to always use these tools responsibly and legally, respecting the privacy and security of others.</p>
 
-## Resources
-
+<h2> Resources
+<div align="center">
+  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+</div>
 <p>Here are some additional resources to learn more about Reconnaissance:</p>
 
 <h4>
