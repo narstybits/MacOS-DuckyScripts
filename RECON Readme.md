@@ -9,15 +9,19 @@
 <h2 align="left">
 <p>Welcome to the Reconnaissance repository!</p>
 
-<h2>This repository is dedicated to the topic of Reconnaissance in cybersecurity. It provides information, resources, and tools related to various aspects of Reconnaissance.</p>
+<h>This repository is dedicated to the topic of Reconnaissance in cybersecurity. It provides information, resources, and tools related to various aspects of Reconnaissance.</p>
 </h4>
 
-## Introduction
+<h2> Introduction
+<div align="center">
+  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+</div>
+<h4>Reconnaissance is the process of gathering information and intelligence about a target, typically used in cybersecurity to assess vulnerabilities and plan targeted attacks. This repository aims to educate and provide resources about the different aspects of Reconnaissance.</p>
 
-<p>Reconnaissance is the process of gathering information and intelligence about a target, typically used in cybersecurity to assess vulnerabilities and plan targeted attacks. This repository aims to educate and provide resources about the different aspects of Reconnaissance.</p>
-
-## Types of Reconnaissance
-
+<h2> Types of Reconnaissance
+<div align="center">
+  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+</div>
 <h4>
 <ol>
   <p><span style="font-size: 0;"></span>🔹 Passive Reconnaissance: This involves gathering information without directly interacting with the target. It includes techniques like open-source intelligence (OSINT) gathering, analyzing publicly available information, and searching for vulnerabilities.</li>
