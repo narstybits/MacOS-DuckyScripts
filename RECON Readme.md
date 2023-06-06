@@ -7,9 +7,9 @@
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
 <h2 align="left">
-<p>Welcome to the Reconnaissance repository!</p>
+<p>Welcome to the Reconnaissance Folder!</p>
 
-<h>This repository is dedicated to the topic of Reconnaissance in cybersecurity. It provides information, resources, and tools related to various aspects of Reconnaissance.</p>
+<h>The <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/RECON">@Recon Folder</a> is dedicated to the topic of Reconnaissance in cybersecurity. It provides information, resources, and tools related to various aspects of Reconnaissance.</p>
 </h4>
 
 <h2> Introduction
