@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center"> Obscurity
-<h2>
+<h3>
  Introduction
   <div style="text-align: left;">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
-<h4>
-<span style="font-size: 0;"></span>🔹Welcome to the Obscurity repository! This collection of scripts and tools is dedicated to the pursuit of a heightened level of obscurity, facilitating enhanced privacy and security in network and computer environments.
-
+<h3>
+Welcome to the <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Obscurity">@Obscurity Folder</a>! This collection of scripts and tools is dedicated to the pursuit of a heightened level of obscurity, facilitating enhanced privacy and security in network and computer environments.
+</div>
 <h2>
 Untraceable Network and Computer
 <div style="text-align: left;">
