@@ -37,7 +37,7 @@
 <ul>
   <p>These are just a few examples of tools used for executing security tests. Remember to always use these tools responsibly and in accordance with applicable laws and regulations.</p>
   <p><span style="font-size: 0;"></span>🔹<a href="https://ffmpeg.org/">FFmpeg</a>: A powerful multimedia framework for encoding, decoding, transcoding, and streaming audio and video files.</li>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://cat.pdx.edu/platforms/mac/remote-access/vnc-to-linux/#:~:text=MacOS%20has%20a%20VNC%20Viewer,session%20(and%20you%20should!)">VNC (Virtual Network Computing)</a>: A remote desktop software that allows you to control and access remote systems over a network.</li>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://cat.pdx.edu/platforms/mac/remote-access/remote-to-mac/">VNC (Virtual Network Computing)</a>: A remote desktop software that allows you to control and access remote systems over a network.</li>
   <p><span style="font-size: 0;"></span>🔹<a href="https://linux.die.net/man/1/socat">socat</a>: A versatile network utility that establishes bidirectional data streams between two endpoints, facilitating various network operations.</li>
  <p><span style="font-size: 0;"></span>🔹<a href="https://cirt.net/Nikto2">Nikto</a>: A web server scanner that performs comprehensive vulnerability assessments.</li>
  <p><span style="font-size: 0;"></span>🔹<a href="https://github.com/OJ/gobuster">Gobuster</a>: A tool used for directory and DNS busting during reconnaissance.</li>
