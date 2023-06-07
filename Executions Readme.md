@@ -1,18 +1,20 @@
 <div align="center">
   <img src="https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg" alt="Top Image">
 </div>
+<h1 align="center"><u>Executions
+<div align="center">
+  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+</div>
 
-<h1 align="center"><u>Executions</u></h1>
+<h3 align="left">
+<p>Welcome to the Executions Folder!</p>
 
-<h3 align="center">
-<p>Welcome to the Reconnaissance Folder!</p>
-
-<h>The <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Executions">Executions Folder</a> section is dedicated to penetration testing and security assessments using Ducky scripts. It provides information, resources, and tools related to executing security tests and evaluating system vulnerabilities.</p>
+<h>The <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Executions">Executions Folder</a> is dedicated to penetration testing and security assessments using Ducky scripts. It provides information, resources, and tools related to executing security tests and evaluating system vulnerabilities.</p>
 </h4>
 
 <h2> Introduction
 <div align="center">
-  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
 <h4>Penetration testing, also known as ethical hacking, is a process of evaluating the security of a system or network by simulating real-world attacks. This section aims to guide you through the process of executing security tests using Ducky scripts.</p>
 
