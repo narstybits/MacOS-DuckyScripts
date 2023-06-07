@@ -24,7 +24,7 @@
 </div>
 <h4>
 <ol>
-  <li>USB Rubber Ducky: This involves using the USB Rubber Ducky device to inject keystrokes and automate security tests on target systems.</li>
+  <li><a href="https://github.com/hak5/usbrubberducky-payloads/blob/master/README.md#about-the-new-usb-rubber-ducky">USB Rubber Ducky</a>: This involves using the USB Rubber Ducky device to inject keystrokes and automate security tests on target systems.</li>
   <li>Ducky Script Emulation: In this method, Ducky scripts are emulated using software tools to execute security tests without physical access to the target system.</li>
 </ol>
 </h4>
@@ -33,7 +33,7 @@
 <div align="center">
   <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
-<h5>
+<h4>
 <ul>
   <p>These are just a few examples of tools used for executing security tests. Remember to always use these tools responsibly and in accordance with applicable laws and regulations.</p>
   <p><span style="font-size: 0;"></span>🔹<a href="https://ffmpeg.org/">FFmpeg</a>: A powerful multimedia framework for encoding, decoding, transcoding, and streaming audio and video files.</li>
@@ -56,8 +56,9 @@
 <h4>
 <ul>
   <p><span style="font-size: 0;"></span>🔹<a href="https://github.com/hak5/usbrubberducky-payloads#about-duckyscript">Hak5 Ducky Script </a> by Hak5</li>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://github.com/hak5darren/USB-Rubber-Ducky/wiki">USB Rubber Ducky Wiki</a>: Official documentation and guides for using the USB Rubber Ducky.</li>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads">Payloads Repository</a>: Explore and contribute to the collection of community-contributed payloads for different security testing scenarios.</li>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://www.metasploitunleashed.org/">Metasploit Unleashed</a>: A comprehensive online resource with tutorials and documentation specifically focused on using Metasploit for penetration testing on macOS.</p>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://www.macsecurity.net/">MacSecurity.net</a>: A website dedicated to providing information, news, and tutorials related to macOS security, including penetration testing techniques and tools.</p>
+
 </ul>
 </h4>
 
