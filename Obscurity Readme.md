@@ -27,6 +27,14 @@ Enhanced Privacy and Security
 <h4>
 <span style="font-size: 0;"></span>🔹Emphasizing privacy as a fundamental right, the scripts and tools in this repository provide robust mechanisms for safeguarding sensitive information and data. By implementing cutting-edge encryption protocols, stealthy communication channels, and fortified access controls, users can fortify their digital presence and defend against various threats, both external and internal.
 
+<h2>Tools
+<div align="center">
+  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+</div>
+<h4>
+<ul>
+ <p><span style="font-size: 0;"></span>🔹<a href="https://shadowsocks.org/doc/what-is-shadowsocks.html">Shadowsocks</a>: is an open-source proxy tool designed to provide secure and private internet access. It works by encrypting network traffic and routing it through a remote server, effectively bypassing network restrictions and enhancing privacy. Shadowsocks utilizes a client-server architecture, where the client running on the user's device connects to a proxy server that acts as an intermediary for internet traffic.</li> 
+  
 <h2>
 Responsible Use and Ethical Considerations
 <div style="text-align: left;">
