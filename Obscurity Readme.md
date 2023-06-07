@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Obscurity
-<h3>
+<h1>
  Introduction
   <div style="text-align: left;">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
