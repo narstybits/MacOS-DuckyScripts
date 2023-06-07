@@ -7,12 +7,12 @@
 <div align="left">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>    
-<h3 h1>
+<h2 h1>
 Please note that these scripts are intended for educational purposes only and should not be used for malicious activities.
-Caution: Read before proceeding
+
 
 Usage Limitations:
-The scripts and codes provided by Narsty are intended solely for the purpose of testing security protocols and reconnaissance. They should be used only in compliance with all applicable laws and regulations.
+The scripts and codes provided by Narsty are intended solely for the purpose of testing Security Protocols, and Penatration testing. They should be used only in compliance with all applicable laws and regulations.
 <h1 h1>
  Authorization Required:
 <div align="left">
@@ -26,7 +26,7 @@ It is essential to obtain proper authorization and consent before using any scri
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
 <h3 h1>
-Exercise utmost responsibility while utilizing our scripts and codes. Any unauthorized or malicious activities are strictly prohibited. Engaging in unauthorized access, tampering with data, or compromising the privacy of individuals without consent is illegal and unethical.
+Exercise utmost responsibility while utilizing these scripts and codes. Any unauthorized or malicious activities are strictly prohibited. Engaging in unauthorized access, tampering with data, or compromising the privacy of individuals without consent is illegal and unethical.
 <h1 h1>
  Legal Compliance:
 <div align="left">
