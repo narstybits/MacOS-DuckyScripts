@@ -16,22 +16,22 @@
 </div>
 <h1 align="center"><u>!!!!! They are Plug & Play !!!!!</u></h1>
 
-<h2 align="center"><u>Big shoutout and huge thanks to <a href="https://github.com/grugnoymeme">@47LeCoste</a>, <a href="https://github.com/ClaraCrazy">@ClaraCrazy</a>, <a href="https://github.com/0iphor13">@0iphor13</a>, <a href="https://github.com/hak5">@Hak5</a>, <a href="https://github.com/I-Am-Jakoby">@I-Am-Jakoby</a>, and <a href="https://github.com/UberGuidoZ">@UberGuidoZ</a></u></h2>
+<h2 align="center"><u>Big shoutout and huge thanks to <a href="https://github.com/grugnoymeme">47LeCoste</a>, <a href="https://github.com/ClaraCrazy">ClaraCrazy</a>, <a href="https://github.com/0iphor13">0iphor13</a>, <a href="https://github.com/hak5">Hak5</a>, <a href="https://github.com/I-Am-Jakoby">I-Am-Jakoby</a>, and <a href="https://github.com/UberGuidoZ">UberGuidoZ</a></u></h2>
 
-<h2 align="center">Check Out the Xremote (Cross Remote) by <a href="https://github.com/leedave">@leedave</a> to Chain Infared and SubGHz Together! 📱 
+<h2 align="center">Check Out the Xremote (Cross Remote) by <a href="https://github.com/leedave">leedave</a> to Chain Infared and SubGHz Together! 📱 
 
   
 
 
 
   <p>
-    <a href="https://github.com/leedave/Leeds-Flipper-Zero-Fap-Files/tree/main/Xtreme" style="font-size: 18px;">@XRemote<a>(BETA)<h2>
+    <a href="https://github.com/leedave/Leeds-Flipper-Zero-Fap-Files/tree/main/Xtreme" style="font-size: 18px;">XRemote<a>(BETA)<h2>
 </div>
-<h2 align="center">    If you're a visual learner like me, check out this detailed tutorial: <a href="https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf" style="text-decoration: none;">@How 2 Flipper Guide
+<h2 align="center">    If you're a visual learner like me, check out this detailed tutorial: <a href="https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf" style="text-decoration: none;">How 2 Flipper Guide
 
 
 
-<p align="center">Thanks to <u><a href="https://github.com/wrenchathome">@wrenchathome</a></u></h2>
+<p align="center">Thanks to <u><a href="https://github.com/wrenchathome">wrenchathome</a></u></h2>
 <ol>
 
  <h1 
@@ -100,7 +100,7 @@
 <p align="center">
   <img src="https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png" alt="Cyberattack Image">
 </p>
-<h1 align="center"><u>!!!! EXERCISE CAUTION !!!!</u></p>
+<h1 align="center"><u><a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">!!!! EXERCISE CAUTION !!!!</a></u></p>
 <h2 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h3>
 <h2 Deleting files and folders can have significant consequences!</p>
 <p align="center"> It's crucial to !!!! EXERCISE CAUTION !!!! when performing such actions. Deleting system files or important user data can lead to data loss or system instability. Therefore, it is recommended to proceed with extreme caution and ensure that you have a backup of any important files before executing any commands that involve file deletion.</p>
