@@ -19,7 +19,7 @@ The scripts and codes provided by Narsty are intended solely for the purpose of 
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>    
 <h3 h1>
-It is essential to obtain proper authorization and consent before using any scripts or codes on computer systems or networks. Ensure that you have explicit permission from the owner or authorized administrator of the system(s) you intend to test or evaluate.
+It is essential to obtain proper authorization and consent before using any scripts or codes on computer systems or networks (EVEN PRANKS). Ensure that you have explicit permission from the owner or authorized administrator of the system(s) you intend to test or evaluate.
 <h1 h1>
  Responsible Use:
 <div align="left">
