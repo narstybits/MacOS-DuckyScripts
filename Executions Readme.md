@@ -51,7 +51,7 @@
 <div align="center">
   <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
-<p>Here are some additional resources to learn more about penetration testing/executions and Ducky scripting:</p>
+<h3>Here are some additional resources to learn more about penetration testing/executions and Ducky scripting:</p>
 
 <h4>
 <ul>
