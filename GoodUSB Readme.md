@@ -9,7 +9,7 @@
 </div>
 
 <h3
-<p align="center">Welcome to the <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Goodusb">@GOODUSB folder</a> of Narsty's Ducky Script repository!</p>
+<p align="center">Welcome to the <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Goodusb">GOODUSB folder</a> of Narsty's Ducky Script repository!</p>
 
 <p align="center">This folder contains Ducky Scripts that focus on providing utility and helpful functionality to your system.</p>
 
