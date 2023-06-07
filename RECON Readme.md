@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg" alt="Top Image">
+  <img src="https://media.giphy.com/media/qK4VaiOdVCamzIfY8n/giphy.gif" alt="Top Image">
 </div>
 
-<h1 align="center"><u>Reconnaissance
 <div align="center">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
