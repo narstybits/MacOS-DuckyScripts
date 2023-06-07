@@ -1,5 +1,10 @@
-<h1
- align="center"><u>PLUG &amp; PLAY FLIPPER ZERO SCRIPTS for MacOS 
+<div style="display: flex; align-items: center; justify-content: center;">
+  <h1 align="center"><u>PLUG &amp; PLAY FLIPPER ZERO SCRIPTS for MacOS <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Giphy Image" style="margin-left: 10px; width: 50px; height: auto;">
+  </div>
+   
+
+</div>
+
 
 
 
@@ -13,8 +18,14 @@
   <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/tR8stUDuzhgAHrr2i8/giphy-downsized-large.gif" alt="Giphy Image" style="margin-right: 10px;">
+
+  <div>
+ <img src="https://media.giphy.com/media/tR8stUDuzhgAHrr2i8/giphy-downsized-large.gif" alt="Giphy Image" style="width: 300px; height: auto;">
+</div>
+
+
+
+
   <h1 align="center"><u>!!!!! They are Plug & Play !!!!!</u></h1>
 </div>
  
