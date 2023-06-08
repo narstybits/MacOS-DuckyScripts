@@ -2,7 +2,16 @@
   <img src="https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg">
 </div>
 
-<h1 align="center"> Obscurity
+<h1 align="center">
+  <div style="display: flex; align-items: center;">
+    <img src="https://media.giphy.com/media/10TjYv7tytTjtm/giphy.gif" alt="Giphy Image" style="width: 100px; height: auto; margin-right: 10px;">
+    <span style="font-size: 54px;">Obscurity</span>
+    <img src="https://media.giphy.com/media/10TjYv7tytTjtm/giphy.gif" alt="Giphy Image" style="width: 100px; height: auto; margin-left: 10px;">
+  </div>
+</h1>
+
+
+
 <h1>
  Introduction
   <div style="text-align: left;">
