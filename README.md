@@ -61,11 +61,11 @@
      <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
 </div>
-        <span style="font-size: 0;"></span>🔹 To upload the .txt files, you will need to copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is easy).</p>
+        <span style="font-size: 0;"></span>🔹 To upload the .txt files to your Flipper, you will need to Download(Easiest method) or copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is also easy).</p>
    <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
 </div>
-    <p style="font-size: 12px; margin: 0;">🔹 Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
+    <p style="font-size: 12px; margin: 0;">🔹 (If you Downloaded the .txt you can skip the next two steps) Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
    <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
 </div>
