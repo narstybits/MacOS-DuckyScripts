@@ -26,7 +26,7 @@
 
 
 
-  <h1 align="center"><u>!!!!! They are Plug & Play !!!!!</u></h1>
+  <h1 align="center"><u> 🔹They are Plug & Play🔹 </u></h1>
 </div>
  
 
