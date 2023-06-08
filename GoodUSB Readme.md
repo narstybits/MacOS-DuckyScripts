@@ -2,8 +2,15 @@
   <img src="https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg" alt="Top Image">
 </div>
 
-<h1 align="center">GoodUSB 
-            
+<h1 align="center">
+ <div style="display: flex; justify-content: center;">
+  <img src="https://media.giphy.com/media/Su71kNKrkV8qTCJqst/giphy.gif" alt="Giphy Image 1" style="width: 200px; height: auto;">
+  <img src="https://media.giphy.com/media/quAUAk9XeRa7ErFHhX/giphy.gif" alt="Giphy Image 2" style="width: 300px; height: auto;">
+</div>
+
+  
+  
+  
 <div style="text-align: left;">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
