@@ -3,10 +3,7 @@
 </div>
 
 <h1 align="center">
- <div style="display: flex; justify-content: center;">
-  <img src="https://media.giphy.com/media/Su71kNKrkV8qTCJqst/giphy.gif" alt="Giphy Image 1" style="width: 200px; height: auto;">
-  <img src="https://media.giphy.com/media/quAUAk9XeRa7ErFHhX/giphy.gif" alt="Giphy Image 2" style="width: 300px; height: auto;">
-</div>
+ GOODUSB
 
   
   
