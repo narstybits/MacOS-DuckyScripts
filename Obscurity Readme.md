@@ -44,10 +44,12 @@ Techniques
 <h4>🔹 This repository explores various obfuscation techniques to enhance privacy and security in network environments. The following techniques are covered:</h4>
 
 <ul>
-  <li>Fragmentation: Fragmenting network packets into smaller pieces to bypass network filters and intrusion detection systems.</li>
-  <li>TCP Packet Timing Randomization: Introducing random delays between sending TCP packets to obfuscate packet timing and add an element of randomness to network traffic.</li>
-  <li>Network Padding: Adding additional data or padding to network packets to increase packet size and obfuscate the payload.</li>
-  <li>Proxies: Utilizing proxy servers to route network traffic through intermediaries, enhancing privacy and bypassing network restrictions.</li>
+  <p><span style="font-size: 0;"></span><strong>👻 Fragmentation:</strong> Fragmenting network packets into smaller pieces to bypass network filters and intrusion detection systems.</li>
+
+  <p><span style="font-size: 0;"></span><strong>👻 TCP Packet Timing Randomization:</strong> Introducing random delays between sending TCP packets to obfuscate packet timing and add an element of randomness to network traffic.</li>
+  
+  <p><span style="font-size: 0;"></span><strong>👻 Network Padding:</strong> Adding additional data or padding to network packets to increase packet size and obfuscate the payload.</li>
+  <p><span style="font-size: 0;"></span><strong>👻 Proxies:</strong> Utilizing proxy servers to route network traffic through intermediaries, enhancing privacy and bypassing network restrictions.</li>
 </ul>
   
   
