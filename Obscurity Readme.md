@@ -53,14 +53,18 @@ Techniques
 </ul>
   
   
-<h2>Tools
+<h2>Tools</h2>
 <div align="center">
   <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
 <h4>
 <ul>
- <p><span style="font-size: 0;"></span>🔹<a href="https://shadowsocks.org/doc/what-is-shadowsocks.html">Shadowsocks</a>: is an open-source proxy tool designed to provide secure and private internet access. It works by encrypting network traffic and routing it through a remote server, effectively bypassing network restrictions and enhancing privacy. Shadowsocks utilizes a client-server architecture, where the client running on the user's device connects to a proxy server that acts as an intermediary for internet traffic.</li> 
-<p>🔹 <a href="https://scapy.net/">Scapy</a>: Scapy is a powerful Python library used for packet manipulation and network scanning. It allows you to craft, send, and receive network packets, analyze network protocols, and perform various network-related tasks. With Scapy, you can build custom network tools, perform network testing and debugging, and explore network protocols in an interactive and flexible way.</li>
+  <li><span style="font-size: 0;"></span>🔹<a href="https://shadowsocks.org/doc/what-is-shadowsocks.html">Shadowsocks</a>: is an open-source proxy tool designed to provide secure and private internet access. It works by encrypting network traffic and routing it through a remote server, effectively bypassing network restrictions and enhancing privacy. Shadowsocks utilizes a client-server architecture, where the client running on the user's device connects to a proxy server that acts as an intermediary for internet traffic.</li>
+  <li>🔹 <a href="https://scapy.net/">Scapy</a>: Scapy is a powerful Python library used for packet manipulation and network scanning. It allows you to craft, send, and receive network packets, analyze network protocols, and perform various network-related tasks. With Scapy, you can build custom network tools, perform network testing and debugging, and explore network protocols in an interactive and flexible way.</li>
+  <li>🔹 <a href="https://www.torproject.org/">Tor</a>: Tor is a free and open-source software that enables anonymous communication by directing internet traffic through a worldwide volunteer network of relays. It provides privacy and anonymity to users by encrypting and routing network traffic through multiple layers, making it difficult to track the origin of the communication. Tor is commonly used to access the internet anonymously and bypass censorship or restrictions.</li>
+</ul>
+</h4>
+
   
 <h2>
 Responsible Use and Ethical Considerations
