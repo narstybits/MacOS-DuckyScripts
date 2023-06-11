@@ -36,7 +36,8 @@ Enhanced Privacy and Security
 <h4>
 <span style="font-size: 0;"></span>🔹Emphasizing privacy as a fundamental right, the scripts and tools in this repository provide robust mechanisms for safeguarding sensitive information and data. By implementing cutting-edge encryption protocols, stealthy communication channels, and fortified access controls, users can fortify their digital presence and defend against various threats, both external and internal.
 
-<h2>Techniques</h2>
+<h2>
+Techniques
 <div style="text-align: left;">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
