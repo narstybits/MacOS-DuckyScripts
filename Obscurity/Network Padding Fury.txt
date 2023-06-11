@@ -7,7 +7,7 @@ REM it doesn't guarantee complete anonymity or security.
 
 REM By default, it sends 600 packets with random payload length and padding.
 REM Current script runs for about 5 minutes 
-REM Change the range value in the 'send([packet] * 600)' line.
+REM Change the range value in the 'send([packet] * 600)' line 33
 REM For example, changing it to 'send([packet] * 1200)' will last about 10 minutes.
 REM Adjust the inter parameter to control the delay between each packet.
 REM The current value is set to 0.5 seconds, but you can modify it as needed for your testing purposes.
