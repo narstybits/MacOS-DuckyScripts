@@ -71,7 +71,7 @@ Responsible Use and Ethical Considerations
 <div style="text-align: left;">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
-<h3>
+<h4>
 <span style="font-size: 0;"></span>🔹It is crucial to note that the scripts and tools in this repository are intended solely for responsible and lawful purposes. Users are expected to adhere to legal frameworks, obtain appropriate authorization, and respect the rights and privacy of others. Engaging in any unauthorized or malicious activities is strictly prohibited and contrary to the principles of ethical hacking and responsible use. <p> 
 
 <p><span style="font-size: 0;"></span>🔹Also note that running these obfuscation scripts may have different effects depending on your network environment, and it should be used responsibly and within legal boundaries. Additionally, ensure that you have the necessary permissions and authorizations to perform obscurity network testing techniques on your own network.
