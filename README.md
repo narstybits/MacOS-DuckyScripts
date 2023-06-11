@@ -114,12 +114,12 @@
 <p align="center">
   <img src="https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png" alt="Cyberattack Image">
 </p>
-<h1 align="center"><u><a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">!!!! EXERCISE CAUTION !!!!</a></u></h1>
-<h2 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h2>
+<h2 align="center"><u><a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">!!!! EXERCISE CAUTION !!!!</a></u></h3>
+<h4 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h2>
 <h2 align="center">Deleting files and folders can have significant consequences!</h2>
-<p align="center">
-    <strong>!!! IMPORTANT DISCLAIMER !!!</strong><br>
-    Please exercise caution and responsibility when using the scripts and tools in the "executions," "obscurity," "pranks," "GOODUSB," and "Recon" folders. These scripts are intended for educational and ethical purposes such as penetration testing, security testing, and network testing. However, it is important to note that unauthorized or malicious use of these tools can be illegal and may lead to severe consequences.
+<h1 align="center">
+<h1 align="center"><u><a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">!!! IMPORTANT DISCLAIMER !!!</strong><br>
+   <h3 Please exercise caution and responsibility when using the scripts and tools in the "executions," "obscurity," "pranks," "GOODUSB," and "Recon" folders. These scripts are intended for educational and ethical purposes such as penetration testing, security testing, and network testing. However, it is important to note that unauthorized or malicious use of these tools can be illegal and may lead to severe consequences.
 </p>
 <p align="center">
     It is your responsibility to ensure that you have appropriate authorization, permissions, and legal rights to perform any security testing activities on computer systems or networks. Always respect the law, adhere to ethical guidelines, and obtain proper consent before conducting any tests or assessments.
