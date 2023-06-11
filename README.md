@@ -114,10 +114,20 @@
 <p align="center">
   <img src="https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png" alt="Cyberattack Image">
 </p>
-<h1 align="center"><u><a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">!!!! EXERCISE CAUTION !!!!</a></u></p>
-<h2 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h3>
-<h2 Deleting files and folders can have significant consequences!</p>
-<p align="center"> It's crucial to !!!! EXERCISE CAUTION !!!! when performing such actions. Deleting system files or important user data can lead to data loss or system instability. Therefore, it is recommended to proceed with extreme caution and ensure that you have a backup of any important files before executing any commands that involve file deletion.</p>
+<h1 align="center"><u><a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">!!!! EXERCISE CAUTION !!!!</a></u></h1>
+<h2 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h2>
+<h2 align="center">Deleting files and folders can have significant consequences!</h2>
+<p align="center">
+    <strong>!!! IMPORTANT DISCLAIMER !!!</strong><br>
+    Please exercise caution and responsibility when using the scripts and tools in the "executions," "obscurity," "pranks," "GOODUSB," and "Recon" folders. These scripts are intended for educational and ethical purposes such as penetration testing, security testing, and network testing. However, it is important to note that unauthorized or malicious use of these tools can be illegal and may lead to severe consequences.
+</p>
+<p align="center">
+    It is your responsibility to ensure that you have appropriate authorization, permissions, and legal rights to perform any security testing activities on computer systems or networks. Always respect the law, adhere to ethical guidelines, and obtain proper consent before conducting any tests or assessments.
+</p>
+<p align="center">
+    Remember, it is crucial to prioritize legal and ethical practices, protect user privacy, and use these tools responsibly to improve security and protect against real-world threats.
+</p>
+
 <p align="center">
   <img src="https://www.ncsc.gov.uk/images/malware%20warning.jpg" alt="Malware Warning Image">
 </p>
