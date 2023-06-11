@@ -13,6 +13,8 @@ REM Adjust the inter parameter to control the delay between each packet.
 REM The current value is set to 0.5 seconds, but you can modify it as needed for your testing purposes.
 
 REM Requirements: Python 3 and Scapy. You can install Scapy using the command 'pip3 install scapy'.
+REM warnings can be ignored as they indicate that no IPv4 address is currently assigned to those interfaces. 
+REM The script will continue to function as intended
 
 REM Author: Narsty
 REM Title: Network Padding Fury
