@@ -43,6 +43,7 @@ Enhanced Privacy and Security
 <h4>
 <ul>
  <p><span style="font-size: 0;"></span>🔹<a href="https://shadowsocks.org/doc/what-is-shadowsocks.html">Shadowsocks</a>: is an open-source proxy tool designed to provide secure and private internet access. It works by encrypting network traffic and routing it through a remote server, effectively bypassing network restrictions and enhancing privacy. Shadowsocks utilizes a client-server architecture, where the client running on the user's device connects to a proxy server that acts as an intermediary for internet traffic.</li> 
+<p>🔹 <a href="https://scapy.net/">Scapy</a>: Scapy is a powerful Python library used for packet manipulation and network scanning. It allows you to craft, send, and receive network packets, analyze network protocols, and perform various network-related tasks. With Scapy, you can build custom network tools, perform network testing and debugging, and explore network protocols in an interactive and flexible way.</li>
   
 <h2>
 Responsible Use and Ethical Considerations
@@ -50,9 +51,9 @@ Responsible Use and Ethical Considerations
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
 <h3>
-<span style="font-size: 0;"></span>🔹It is crucial to note that the scripts and tools in this repository are intended solely for responsible and lawful purposes. Users are expected to adhere to legal frameworks, obtain appropriate authorization, and respect the rights and privacy of others. Engaging in any unauthorized or malicious activities is strictly prohibited and contrary to the principles of ethical hacking and responsible use.
+<span style="font-size: 0;"></span>🔹It is crucial to note that the scripts and tools in this repository are intended solely for responsible and lawful purposes. Users are expected to adhere to legal frameworks, obtain appropriate authorization, and respect the rights and privacy of others. Engaging in any unauthorized or malicious activities is strictly prohibited and contrary to the principles of ethical hacking and responsible use. <p> 
 
-<span style="font-size: 0;"></span>🔹Also note that running these obfuscation scripts may have different effects depending on your network environment, and it should be used responsibly and within legal boundaries. Additionally, ensure that you have the necessary permissions and authorizations to perform obscurity network testing techniques on your own network.
+<p><span style="font-size: 0;"></span>🔹Also note that running these obfuscation scripts may have different effects depending on your network environment, and it should be used responsibly and within legal boundaries. Additionally, ensure that you have the necessary permissions and authorizations to perform obscurity network testing techniques on your own network.
 
   
  <div align="center">
