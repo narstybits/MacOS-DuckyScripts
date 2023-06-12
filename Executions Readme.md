@@ -55,12 +55,13 @@
 
 <h4>
 <ul>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://github.com/hak5/usbrubberducky-payloads#about-duckyscript">Hak5 Ducky Script </a> by Hak5</li>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://www.metasploitunleashed.org/">Metasploit Unleashed</a>: A comprehensive online resource with tutorials and documentation specifically focused on using Metasploit for penetration testing on macOS.</p>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://www.macsecurity.net/">MacSecurity.net</a>: A website dedicated to providing information, news, and tutorials related to macOS security, including penetration testing techniques and tools.</p>
-
+  <p><span style="font-size: 0;"></span>🔹<a href="https://www.ducktoolkit.com/">Duck Toolkit</a>: A more comprehensive guide on using Hak5's Rubber Ducky, including how to write and decode Ducky Scripts.</p>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://www.guru99.com/load-testing-tutorial.html">Guru99's Load Testing Tutorial</a>: An extensive tutorial that covers the principles and practical aspects of load testing, an essential part of assessing the performance and stability of a system under a particular load.</p>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://www.dropbox.com/developers/documentation/http/documentation">Dropbox API Keys Documentation</a>: Comprehensive developer documentation from Dropbox, including detailed instructions on how to generate and manage API keys for application development.</p>
 </ul>
 </h4>
+
+
 
 <div align="center">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
