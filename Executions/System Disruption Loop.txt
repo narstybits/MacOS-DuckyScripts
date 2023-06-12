@@ -5,9 +5,9 @@ REM Will continue to run after the terminal is closed
 
 
 REM To end the loop you need to Kill the PID 
-REM In the terminal, use the command "ps aux | grep 'sh -c while true; do say "Warning: System compromised. Initiating disruption."; done'
-" to find the PID of the dialog box loop
-REM Run the command 'Kill PID #' to end the dialog box loop 
+REM Use the command <ps aux | grep 'sh -c while true; do say "Warning: System compromised. Initiating disruption."; done'>
+REM to find the PID 
+REM Run the command 'Kill PID #' to end the warning message loop.
 
 
 REM Author: Narsty
