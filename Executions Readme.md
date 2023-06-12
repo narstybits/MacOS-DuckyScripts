@@ -56,10 +56,12 @@
 <h4>
 <ul>
   <p><span style="font-size: 0;"></span>🔹<a href="https://www.ducktoolkit.com/">Duck Toolkit</a>: A more comprehensive guide on using Hak5's Rubber Ducky, including how to write and decode Ducky Scripts.</p>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://www.metasploitunleashed.com/metasploit-framework/">Metasploit Unleashed - Metasploit Framework</a>: An extensive guide on how to use Metasploit Framework, with a special focus on macOS penetration testing scenarios.</p>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://objective-see.com/blog.html">Objective-See's Blog</a>: Objective-See is a widely respected resource in the Mac security community. Their blog contains advanced tutorials, case studies, and discussions on macOS security and penetration testing.</p>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://www.guru99.com/load-testing-tutorial.html">Guru99's Load Testing Tutorial</a>: An extensive tutorial that covers the principles and practical aspects of load testing, an essential part of assessing the performance and stability of a system under a particular load.</p>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://www.dropbox.com/developers/documentation/http/documentation">Dropbox API Keys Documentation</a>: Comprehensive developer documentation from Dropbox, including detailed instructions on how to generate and manage API keys for application development.</p>
 </ul>
 </h4>
+
+
 
 <div align="center">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
