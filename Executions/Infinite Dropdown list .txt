@@ -4,8 +4,6 @@ REM with a list of selectable option and "Ill Never Leave" button.
 REM It runs in the background using the nohup command.
 REM The script then clears the terminal and exits. 
 
-
-
 REM To end the loop you need to Kill the PID 
 REM In the terminal, use the command "pgrep osascript" to find the PID of the dialog box loop
 REM Run the command 'Kill PID #' to end the dialog box loop 
