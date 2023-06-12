@@ -115,7 +115,7 @@
   <img src="https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png" alt="Cyberattack Image">
 </p>
 <h2 align="center"><u><a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">!!!! EXERCISE CAUTION !!!!</a></u></h3>
-<h4 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h2>
+<h2 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h2>
 <h2 align="center">Deleting files and folders can have significant consequences!</h2>
 <h1 align="center">
 <h1 align="center"><u><a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">!!! IMPORTANT DISCLAIMER !!!</strong><br>
