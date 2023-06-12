@@ -6,7 +6,7 @@ REM It's a practical use of the terminal's capabilities, and it's also visually 
 
 REM Requirmetns: Homebrew and GTOP can install using command 'Brew install vtop'
 
-REM Title: gtop
+REM Title: GTOP Monitoring Dashboard
 REM Author: Narsty
 REM Target: MacOS 
 REM Version: 1.0
