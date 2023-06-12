@@ -55,10 +55,9 @@
 
 <h4>
 <ul>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://github.com/hak5/usbrubberducky-payloads#about-duckyscript">Hak5 Ducky Script </a> by Hak5</li>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://www.metasploitunleashed.org/">Metasploit Unleashed</a>: A comprehensive online resource with tutorials and documentation specifically focused on using Metasploit for penetration testing on macOS.</p>
-  <p><span style="font-size: 0;"></span>🔹<a href="https://www.macsecurity.net/">MacSecurity.net</a>: A website dedicated to providing information, news, and tutorials related to macOS security, including penetration testing techniques and tools.</p>
-
+  <p><span style="font-size: 0;"></span>🔹<a href="https://www.ducktoolkit.com/">Duck Toolkit</a>: A more comprehensive guide on using Hak5's Rubber Ducky, including how to write and decode Ducky Scripts.</p>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://www.metasploitunleashed.com/metasploit-framework/">Metasploit Unleashed - Metasploit Framework</a>: An extensive guide on how to use Metasploit Framework, with a special focus on macOS penetration testing scenarios.</p>
+  <p><span style="font-size: 0;"></span>🔹<a href="https://objective-see.com/blog.html">Objective-See's Blog</a>: Objective-See is a widely respected resource in the Mac security community. Their blog contains advanced tutorials, case studies, and discussions on macOS security and penetration testing.</p>
 </ul>
 </h4>
 
