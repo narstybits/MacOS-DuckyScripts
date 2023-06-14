@@ -1,6 +1,7 @@
 REM This script retrieves the contents of the system log located at /var/log/system.log
 REM Then sends the Users System logs to your phone via text message
 REM Replace 'ENTER PHONE NUMBER HERE' with your actual Phone number 
+REM Shoutout to matthewkayne and 0iphor13 for the Phone code
 
 
 REM Title: macOS System Log to iPhone
