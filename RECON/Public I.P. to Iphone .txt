@@ -1,6 +1,7 @@
 REM This script uses Mac Terminals ifconfig.me command to do a PUBLIC I.P. lookup 
 REM Then sends the I.p. to your phone via text message
 REM Replace 'ENTER PHONE NUMBER HERE' with your actual Phone number 
+REM Shoutout to matthewkayne and 0iphor13 for the Phone code
 
 
 REM Title: Public I.P. to Iphone 
