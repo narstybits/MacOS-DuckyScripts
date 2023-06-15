@@ -12,13 +12,13 @@
 
 <h2> Introduction
 <div align="center">
-  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 <h4>Penetration testing, also known as ethical hacking, is a process of evaluating the security of a system or network by simulating real-world attacks. This section aims to guide you through the process of executing security tests using Ducky scripts.</p>
 
  <h2>Types of Executions
 <div align="center">
-  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 <h4>
 <ol>
@@ -29,7 +29,7 @@
 
 <h2> Tools
 <div align="center">
-  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 <h4>
 <ul>
@@ -47,7 +47,7 @@
 
 <h2> Resources
 <div align="center">
-  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 <h3>Here are some additional resources to learn more about penetration testing/executions and Ducky scripting:</p>
 
@@ -62,5 +62,5 @@
 
 
 <div align="center">
-  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
