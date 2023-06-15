@@ -13,7 +13,7 @@
 <h1 align="center">What Are GOODUSB Scripts?
 
 <div style="text-align: left;">
-  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 
 <h4>
@@ -32,7 +32,7 @@ it's essential to recognize that this scripting language can also be used for pr
 
 <h2>Tools
 <div align="center">
-  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 
 <h4>
@@ -46,7 +46,7 @@ it's essential to recognize that this scripting language can also be used for pr
 
 <h2>Automation 
 <div style="text-align: left;">
-  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 
 <h4>
@@ -62,5 +62,5 @@ it's essential to recognize that this scripting language can also be used for pr
 </h4>
 
 <div align="center">
-  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
