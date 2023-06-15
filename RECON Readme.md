@@ -12,13 +12,13 @@
 
 <h2> Introduction
 <div align="center">
-  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 <h4>Reconnaissance is the process of gathering information and intelligence about a target, typically used in cybersecurity to assess vulnerabilities and plan targeted attacks. This repository aims to educate and provide resources about the different aspects of Reconnaissance.</p>
 
 <h2> Types of Reconnaissance
 <div align="center">
-  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 <h4>
 <ol>
@@ -30,7 +30,7 @@
 
  <h2>Tools
 <div align="center">
-  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 <h4>
 <ul>
@@ -45,7 +45,7 @@
 
 <h2> Resources
 <div align="center">
-  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 <p>Here are some additional resources to learn more about Reconnaissance:</p>
 
@@ -58,5 +58,5 @@
 </h4>
 
 <div align="center">
-  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="10" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
