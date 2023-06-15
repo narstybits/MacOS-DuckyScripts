@@ -1,7 +1,9 @@
 [![Image Description](https://imgur.com/MuZDdAV.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/RECON)
-<div align="center">
-  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+
+<div align="left">
+  <img alt="Coding" width="1473" height="18" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 </div>
+
 <h3 align="left">
 <p>Welcome to the Recon Folder!</p>
 
