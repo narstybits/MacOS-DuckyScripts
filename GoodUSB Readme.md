@@ -62,5 +62,5 @@ it's essential to recognize that this scripting language can also be used for pr
 </h4>
 
 <div align="center">
-  <img src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif" style="width: 1000px; height: 200px;">
+  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
