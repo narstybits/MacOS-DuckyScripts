@@ -78,5 +78,6 @@ Responsible Use and Ethical Considerations
   
  <div align="center">
 
-# <img src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif" style="width: 1000px; height: 200px;">
+<div align="center">
+  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
