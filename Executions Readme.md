@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg" alt="Top Image">
-</div>
-<h1 align="center"><u>Executions
+[![Image Description](https://imgur.com/MfuJBOZ.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Executions)
+
 <div align="center">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
