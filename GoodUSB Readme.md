@@ -1,9 +1,9 @@
 [![Image Description](https://imgur.com/zO7XCon.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Goodusb)
 
-
-<div style="text-align: left;">
-  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+<div align="left">
+  <img alt="Coding" width="1473" height="18" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 </div>
+
 
 <h3>
 <p align="left">Welcome to the <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Goodusb">GOODUSB folder</a> of Narsty's Ducky Script repository!</p>
