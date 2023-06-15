@@ -15,7 +15,9 @@
 </div>
     <h3> 
   <div>
-     Welcome to the <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Obscurity">Obscurity Folder</a>! This collection of scripts and tools is dedicated to the pursuit of a heightened level of obscurity, facilitating enhanced privacy and security in network and computer environments.</div>
+<p>Welcome to the Obscurity Folder!</p>
+
+<h>The <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Obscurity">Obscurity Folder</a> is dedicated to the pursuit of a heightened level of obscurity, facilitating enhanced privacy and security in network and computer environments.</div>
 
 <h2>
 Untraceable Network and Computer
