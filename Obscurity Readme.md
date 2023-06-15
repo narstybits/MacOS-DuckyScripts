@@ -1,25 +1,20 @@
-<div align="center">
-  <img src="https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg">
-</div>
+[![Image Description](https://imgur.com/8ZAFYsT.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Obscurity)
 
 <h1 align="center">
   <div style="display: flex; align-items: center;">
     <img src="https://media.giphy.com/media/10TjYv7tytTjtm/giphy.gif" alt="Giphy Image" style="width: 100px; height: auto; margin-right: 10px;">
-    <span style="font-size: 54px;">Obscurity</span>
-    <img src="https://media.giphy.com/media/10TjYv7tytTjtm/giphy.gif" alt="Giphy Image" style="width: 100px; height: auto; margin-left: 10px;">
-  </div>
-</h1>
+    
 
 
 
-<h1>
- Introduction
+<h3>
+
   <div style="text-align: left;">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
-<h3>
-Welcome to the <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Obscurity">Obscurity Folder</a>! This collection of scripts and tools is dedicated to the pursuit of a heightened level of obscurity, facilitating enhanced privacy and security in network and computer environments.
-</div>
+<h>
+<h6> Welcome to the <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Obscurity">Obscurity Folder</a>! This collection of scripts and tools is dedicated to the pursuit of a heightened level of obscurity, facilitating enhanced privacy and security in network and computer environments.
+</div></h4>
 <h2>
 Untraceable Network and Computer
 <div style="text-align: left;">
