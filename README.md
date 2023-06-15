@@ -15,7 +15,7 @@
 <h1 
  align="center"><u>This repository is EXCLUSIVE to MacOs BADUSB Scripts
 <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 
 
@@ -51,7 +51,7 @@
  <h1 
   align="center"><p>Step by Step Directions to get you up and running will be posted Below! <p>
   <div align="center">
-  <img alt="Coding" width="473" height="15" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+  <img alt="Coding" width="473" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 </div>
  
 <h3  
@@ -59,39 +59,39 @@
     <p style="font-size: 32px; margin: 0;">
       <span style="font-size: 0;"></span>🔹 First off always read the Remarks, you will see "REM" this is used to explain the purpose of each line or provide instructions to the user. Very Important to always READ the REM's!</p>
      <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
         <span style="font-size: 0;"></span>🔹 To upload the .txt files to your Flipper, you will need to Download(Easiest method) or copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is also easy).</p>
    <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
     <p style="font-size: 12px; margin: 0;">🔹 (If you Downloaded the .txt you can skip the next two steps) Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
    <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
     <p style="font-size: 12px; margin: 0;">🔹 You can type .txt after the file name, and it will prompt you to save the file as a .txt.</p>
     <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
     <p style="font-size: 12px; margin: 0;">🔹 Now, you can plug the flipper in and open up the File Manager, navigate to the SD card, and open up the BADUSB file within the SD card.</p>
     <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
     <p style="font-size: 12px; margin: 0;">🔹 This is where you can drag and drop your .txt files, and once you are done, close out of the Flipper desktop app.</p>
     <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
     <p style="font-size: 12px; margin: 0;">🔹 You are now ready to deploy your BADUSB DuckyScripts and take over the World! ENJOY :)</p>
   </div>
 </li>
  <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>     
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <h1 
    align="center">Support Narsty!
    <div align="center">
-  <img alt="Coding" width="473" height="15" src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40">
+  <img alt="Coding" width="473" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 </div>
   <p align="center">
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
