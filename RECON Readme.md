@@ -1,6 +1,4 @@
-<div align="center">
-  <h1> RECON
-
+[![Image Description](https://imgur.com/MuZDdAV.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/RECON)
 <div align="center">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
