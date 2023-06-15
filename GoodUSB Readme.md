@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg" alt="Top Image">
-</div>
+[![Image Description](https://imgur.com/zO7XCon.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Goodusb)
 
-<h1 align="center">
- GOODUSB
 
 <div style="text-align: left;">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
