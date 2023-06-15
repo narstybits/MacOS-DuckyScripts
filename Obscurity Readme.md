@@ -1,5 +1,9 @@
 [![Image Description](https://imgur.com/8ZAFYsT.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Obscurity)
 
+<div align="left">
+  <img alt="Coding" width="1473" height="18" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
+</div>
+
 <h1 align="center">
   <div style="display: flex; align-items: center;">
     <img src="https://media.giphy.com/media/10TjYv7tytTjtm/giphy.gif" alt="Giphy Image" style="width: 100px; height: auto; margin-right: 10px;">
