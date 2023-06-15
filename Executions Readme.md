@@ -4,7 +4,7 @@
   <img alt="Coding" width="1473" height="18" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 </div>
 
-<h3 align="left">
+<h3 align="center">
 <p>Welcome to the Executions Folder!</p>
 
 <h>The <a href="https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Executions">Executions Folder</a> is dedicated to penetration testing and security assessments using Ducky scripts. It provides information, resources, and tools related to executing security tests and evaluating system vulnerabilities.</p>
