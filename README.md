@@ -1,16 +1,14 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <h1 align="center"><u>PLUG &amp; PLAY FLIPPER ZERO SCRIPTS for MacOS <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Giphy Image" style="margin-left: 10px; width: 50px; height: auto;">
-  </div>
-   
+[![Image Description](https://imgur.com/dGFm5SP.png)](https://github.com/narstybits/MacOS-DuckyScripts)
+
+<img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Giphy Image" style="margin-left: 10px; width: 50px; height: auto;" align="right">
+ <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Giphy Image" style="margin-left: 10px; width: 50px; height: auto;">
+  </div>  
 
 </div>
 
 
 
 
-<p align="center">
-  <img src="https://cdn.cashrewards.com/n/apple.jpg?t=638169497371078231?auto=compress,format&fit=max&w=3840&q=40" alt="Banner Image">
-</p>
 
 <h1 
  align="center"><u>This repository is EXCLUSIVE to MacOs BADUSB Scripts
