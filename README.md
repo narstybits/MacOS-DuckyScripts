@@ -1,5 +1,7 @@
 [![Image Description](https://imgur.com/dGFm5SP.png)](https://github.com/narstybits/MacOS-DuckyScripts)
-
+<div align="left">
+  <img alt="Coding" width="1473" height="18" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
+</div>
 <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Giphy Image" style="margin-left: 10px; width: 50px; height: auto;" align="right">
  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Giphy Image" style="margin-left: 10px; width: 50px; height: auto;">
   </div>  
