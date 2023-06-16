@@ -4,7 +4,7 @@ REM To find the folder follow the steps below.
 REM Open Finder.
 REM Click on "Go" in the menu bar at the top of the screen.
 REM Select "Go to Folder" from the dropdown menu.
-REM In the "Go to the folder" dialog box, enter <~/.copypasta> and click "Go".
+REM In the "Go to the folder" dialog box, enter '~/.copypasta' and click "Go".
 
 REM Author: Narsty
 REM Title: Dark Mode Toggler
