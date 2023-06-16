@@ -91,7 +91,7 @@
   <h1 
    align="center">Support Narsty!
    <div align="center">
-  <img alt="Coding" width="473" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
+  <img alt="Coding" width="283" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 </div>
   <p align="center">
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
