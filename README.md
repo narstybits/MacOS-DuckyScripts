@@ -60,7 +60,7 @@
  <h1 
   align="center"><p>Step by Step Directions to get you up and running will be posted Below! <p>
   <div align="center">
-  <img alt="Coding" width="473" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
+  <img alt="Coding" width="450" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 </div>
  
 <h3  
