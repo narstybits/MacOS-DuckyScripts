@@ -40,7 +40,16 @@
 
   <p>
     <a href="https://github.com/leedave/Leeds-Flipper-Zero-Fap-Files/tree/main/Xtreme" style="font-size: 18px;">XRemote<a>(BETA)<h2>
-</div>
+
+  <p align="center">
+  <a href="https://github.com/narstybits/MacOS-DuckyScripts">
+    <img src="https://img.shields.io/badge/-MacOs%20Flipper%20Zero%20Collection-brightgreen">
+  </a>
+<a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Executions/Imessage%20Attachments%20to%20Dropbox.txt">
+    <img src="https://img.shields.io/badge/-NEWEST%20FLIPPER%20Zero%20SCRIPT-blue">
+  </a>
+    </div>
+      
 <h2 align="center">    If you're a visual learner like me, check out this detailed tutorial: <a href="https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf" style="text-decoration: none;">How 2 Flipper Guide
 
 
