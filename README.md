@@ -128,7 +128,3 @@
     Remember, it is crucial to prioritize legal and ethical practices, protect user privacy, and use these tools responsibly to improve security and protect against real-world threats.
 </p>
 
-<p align="center">
-  <img src="https://www.ncsc.gov.uk/images/malware%20warning.jpg" alt="Malware Warning Image">
-</p>
-
