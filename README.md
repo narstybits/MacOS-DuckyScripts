@@ -30,7 +30,7 @@
 </div>
  
 
-<h2 align="center"><u>Big shoutout and huge thanks to <a href="https://github.com/grugnoymeme">47LeCoste</a>, <a href="https://github.com/ClaraCrazy">ClaraCrazy</a>, <a href="https://github.com/0iphor13">0iphor13</a>, <a href="https://github.com/hak5">Hak5</a>, <a href="https://github.com/I-Am-Jakoby">I-Am-Jakoby</a>, and <a href="https://github.com/UberGuidoZ">UberGuidoZ</a></u></h2>
+<h2 align="center"><u>Big shoutout and huge thanks to <a href="https://github.com/grugnoymeme">47LeCoste</a> <a href="https://github.com/ClaraCrazy">ClaraCrazy</a> <a href="https://github.com/0iphor13">0iphor13</a> <a href="https://github.com/hak5">Hak5</a> <a href="https://github.com/I-Am-Jakoby">I-Am-Jakoby</a> and <a href="https://github.com/UberGuidoZ">UberGuidoZ</a></u></h2>
 
 <h2 align="center">Check Out the Xremote (Cross Remote) by <a href="https://github.com/leedave">leedave</a> to Chain Infared and SubGHz Together! 📱 
 
