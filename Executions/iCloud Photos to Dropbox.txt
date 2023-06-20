@@ -15,7 +15,7 @@ REM Using the nohup and & to make sure the code is executed
 
 REM Author: Narsty
 REM Title: iCloud Photos to Dropbox
-REM Version 2.0 MacOs
+REM Version 1.0 MacOs
 REM Category: Execution 
 
 
