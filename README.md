@@ -45,7 +45,7 @@
   <a href="https://github.com/narstybits/MacOS-DuckyScripts">
     <img src="https://img.shields.io/badge/-MacOs%20Flipper%20Zero%20Collection-brightgreen">
   </a>
-<a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Executions/Icloud%20Documents%20to%20Dropbox%20.txt">
+<a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Executions/iCloud%20Photos%20to%20Dropbox.txt">
     <img src="https://img.shields.io/badge/-NEWEST%20FLIPPER%20Zero%20SCRIPT-blue">
   </a>
     </div>
