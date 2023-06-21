@@ -30,7 +30,7 @@ STRING Terminal
 DELAY 1000
 ENTER
 DELAY 500
-STRING screen -dm bash -c
+STRING screen -dm bash -c "nohup python3 record.py &"
 DELAY 200
 ENTER
 DELAY 500
