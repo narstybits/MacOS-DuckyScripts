@@ -55,7 +55,7 @@ STRING chmod +x upload.sh
 DELAY 500
 ENTER
 DELAY 500
-STRING ./upload.sh
+STRING nohup ./upload.sh >/dev/null 2>&1 &
 DELAY 500 
 ENTER
 DELAY 7000
