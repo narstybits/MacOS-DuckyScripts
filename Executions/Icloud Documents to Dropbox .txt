@@ -11,7 +11,8 @@ REM we copy it and navigate to a new window to paste the folder
 REM Then we zip the folder and send it to the dropbox 
 REM Using the nohup and & to make sure the code is executed 
 
-
+REM Requirements Must have at least two windows open
+REM Dropbox API key and targets system username
 
 REM Author: Narsty
 REM Title: iCloud Documents to Dropbox
