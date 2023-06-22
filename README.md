@@ -82,7 +82,7 @@
 </pre>
 
 <p>
-  This code enables the <em>ignorespace</em> option for the command history, preventing commands with a leading space from being stored in the history. This allows us to leave little to no traces, which keeps the code discreet. Big shout out to <a href="https://github.com/FalsePhilosopher">FalsePhilosopher</a> for this string!
+  This code enables the <em>ignorespace</em> option for the command history, preventing commands with a leading space from being stored in the shell history. This allows us to leave little to no traces, which keeps the code discreet. Big shout out to <a href="https://github.com/FalsePhilosopher">FalsePhilosopher</a> for this string!
 </p>
 <pre>
 <code>
