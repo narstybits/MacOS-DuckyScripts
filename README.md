@@ -65,26 +65,38 @@
 <h3  
   <div style="border: 2px solid #000000; padding: 10px;">
     <p style="font-size: 32px; margin: 0;">
-      <span style="font-size: 0;"></span>🔹 First off always read the Remarks, you will see "REM" this is used to explain the purpose of each line or provide instructions to the user. Very Important to always READ the REM's!</p>
-      <span style="font-size: 0;"></span>🔹 Here are a few strings you will normally see in my scripts as well as their Function/Purpose <p>
- 
+     <p>
+  <span style="font-size: 0;"></span>🔹 First, always read the Remarks. You will see "REM," which is used to explain the purpose of each line or provide instructions to the user. It's very important to always READ the REMs!
+</p>
+<p>
+  <span style="font-size: 0;"></span>🔹 Here are a few strings you will normally see in my scripts as well as their function/purpose:
+</p>
+
+<h4>
   The VendorID and ProductID combination helps the operating system identify the specific device and load the appropriate drivers or configurations.
-   <pre>
+</p>
+<pre>
 <code>
-'ID 05ac:021e Apple:Keyboard'</code>
+'ID 05ac:021e Apple:Keyboard'
+</code>
 </pre>
-This code enables the <em>ignorespace</em> option for the command history, preventing commands with a leading space from being stored in the history. This allows us to leave little to no traces which keeps the code discreet . Big shout out to <a href="https://github.com/FalsePhilosopher">FalsePhilosopher</a> for this string!
-   <pre>
+
+<p>
+  This code enables the <em>ignorespace</em> option for the command history, preventing commands with a leading space from being stored in the history. This allows us to leave little to no traces, which keeps the code discreet. Big shout out to <a href="https://github.com/FalsePhilosopher">FalsePhilosopher</a> for this string!
+</p>
+<pre>
 <code>
-'STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash'</code>
-</pre> 
+'STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash'
+</code>
+</pre>
 
-
-
-      
+ <h1 
+  align="center"
+<span style="font-size: 0;"></span>🔹 Step by Step Directions <p>
+        
   <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
-</div>
+</div><h3
         <span style="font-size: 0;"></span>1. To upload the .txt files to your Flipper, you will need to Download(Easiest method) or copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is also easy).</p>
    <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
@@ -105,7 +117,7 @@ This code enables the <em>ignorespace</em> option for the command history, preve
     <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
-    <p style="font-size: 12px; margin: 0;">🔹 You are now ready to deploy your BADUSB DuckyScripts and take over the World! ENJOY :)</p>
+    <p style="font-size: 12px; margin: 0;">6. You are now ready to deploy your BADUSB DuckyScripts and take over the World! ENJOY :)</p>
   </div>
 </li>
  <div align="left">
