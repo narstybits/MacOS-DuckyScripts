@@ -12,7 +12,7 @@ REM If the connection is successful, you should now have a remote shell session 
 
 REM To kill the listening port (53000 in this case)
 REM you can use the kill command followed by the process ID (PID#)
-REM to find the PID use command ' ps -ef | grep "nc -lvp 53000" '
+REM to find the PID use command 'ps -ef | grep "nc -lvp 53000"'
 REM Once you have the PID # run the command 'kill <PID#>'
 
 
