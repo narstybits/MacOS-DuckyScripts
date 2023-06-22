@@ -101,7 +101,7 @@
    <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
-    <p style="font-size: 12px; margin: 0;">2. (If you Downloaded the .txt you can skip the next two steps) Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
+    <p style="font-size: 12px; margin: 0;">2. (If you Downloaded the .txt you can skip these next two steps) Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
    <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
