@@ -66,26 +66,42 @@
   <div style="border: 2px solid #000000; padding: 10px;">
     <p style="font-size: 32px; margin: 0;">
       <span style="font-size: 0;"></span>🔹 First off always read the Remarks, you will see "REM" this is used to explain the purpose of each line or provide instructions to the user. Very Important to always READ the REM's!</p>
-     <div align="left">
+      <span style="font-size: 0;"></span>🔹 Here are a few strings you will normally see in my scripts as well as their Function/Purpose <p>
+ 
+  The VendorID and ProductID combination helps the operating system identify the specific device and load the appropriate drivers or configurations.
+   <pre>
+<code>
+'ID 05ac:021e Apple:Keyboard'</code>
+</pre>
+This code enables the <em>ignorespace</em> option for the command history, preventing commands with a leading space from being stored in the history. This allows us to leave little to no traces which keeps the code discreet . Big shout out to <a href="https://github.com/FalsePhilosopher">FalsePhilosopher</a> for this string!
+   <pre>
+<code>
+'STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash'</code>
+</pre> 
+
+
+
+      
+  <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
-        <span style="font-size: 0;"></span>🔹 To upload the .txt files to your Flipper, you will need to Download(Easiest method) or copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is also easy).</p>
+        <span style="font-size: 0;"></span>1. To upload the .txt files to your Flipper, you will need to Download(Easiest method) or copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is also easy).</p>
    <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
-    <p style="font-size: 12px; margin: 0;">🔹 (If you Downloaded the .txt you can skip the next two steps) Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
+    <p style="font-size: 12px; margin: 0;">2. (If you Downloaded the .txt you can skip the next two steps) Once you've copied and pasted the code into your preferred program, you will need to export or save the file to your desktop as a .txt file!</p>
    <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
-    <p style="font-size: 12px; margin: 0;">🔹 You can type .txt after the file name, and it will prompt you to save the file as a .txt.</p>
+    <p style="font-size: 12px; margin: 0;">3. You can type .txt after the file name, and it will prompt you to save the file as a .txt.</p>
     <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
-    <p style="font-size: 12px; margin: 0;">🔹 Now, you can plug the flipper in and open up the File Manager, navigate to the SD card, and open up the BADUSB file within the SD card.</p>
+    <p style="font-size: 12px; margin: 0;">4. Now, you can plug the flipper in and open up the File Manager, navigate to the SD card, and open up the BADUSB file within the SD card.</p>
     <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
-    <p style="font-size: 12px; margin: 0;">🔹 This is where you can drag and drop your .txt files, and once you are done, close out of the Flipper desktop app.</p>
+    <p style="font-size: 12px; margin: 0;">5. This is where you can drag and drop your .txt files, and once you are done, close out of the Flipper desktop app.</p>
     <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
