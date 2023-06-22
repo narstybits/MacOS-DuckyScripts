@@ -94,8 +94,7 @@
   align="center"
 <span style="font-size: 0;"></span>🔹 Step by Step Directions <p>
         
-  <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
+  
 </div><h3
         <span style="font-size: 0;"></span>1. To upload the .txt files to your Flipper, you will need to Download(Easiest method) or copy and paste the raw code into the MacOs application "TextEdit" or whichever program you prefer (TextEdit is also easy).</p>
    <div align="left">
