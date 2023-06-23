@@ -88,8 +88,7 @@
 <pre>
 <code>
 'echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
-history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
-'
+history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')'
 </code>
 </pre>
 
