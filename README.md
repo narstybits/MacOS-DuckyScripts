@@ -82,15 +82,19 @@
 </pre>
 
 <p>
- This code enables the `ignorespace` option for the command history, preventing commands with a leading space from being stored in the shell history. Additionally, it removes the specific command from the history, ensuring minimal traces are left behind. This helps maintain discretion and privacy.
+ This code enables the `ignorespace` option for the command history, preventing commands with a leading space from being stored in the shell history. 
  Big shoutout to <a href="https://github.com/FalsePhilosopher">FalsePhilosopher</a> for helping me create this string!
 </p>
 <pre>
 <code>
-'echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
-history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')'
-</code>
+'echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash </code>
 </pre>
+This string removes the specific command from the history, ensuring minimal traces are left behind. This helps maintain discretion and privacy.
+<pre>
+<code>
+  history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')' </code>
+</pre>
+
 
  <h1 
   align="center"
