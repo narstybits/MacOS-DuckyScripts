@@ -60,9 +60,3 @@ STRING  clear
 ENTER
 DELAY 1000
 GUI w
-
-
-
-
-
-
