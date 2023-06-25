@@ -32,4 +32,3 @@ DELAY 2000
 STRING open -a "Pycharm CE"
 ENTER
 DELAY 2000
-
