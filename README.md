@@ -73,7 +73,7 @@
 </p>
 
 <h4>
-  The VendorID and ProductID combination helps the operating system identify the specific device and load the appropriate drivers or configurations.
+  The VendorID and ProductID combination helps the operating system identify the specific device (in this case the FLipper Zero) and load the appropriate drivers or configurations I.E. (Apple keyboard).
 </p>
 <pre>
 <code>
