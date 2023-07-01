@@ -44,7 +44,8 @@
   <a href="https://github.com/narstybits/MacOS-DuckyScripts">
     <img src="https://img.shields.io/badge/-MacOs%20Flipper%20Zero%20Collection-brightgreen">
   </a>
-<a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/RECON/Infinite%20Reverse%20Shell.txt">
+<a 
+href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Goodusb/%20Live%20Chart%20and%20price%20ticker.txt">
     <img src="https://img.shields.io/badge/-NEWEST%20FLIPPER%20Zero%20SCRIPT-blue">
   </a>
     </div>
