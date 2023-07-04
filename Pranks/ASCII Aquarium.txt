@@ -24,7 +24,7 @@ DELAY 700
 STRING brew install asciiquarium
 DELAY 500
 ENTER
-DELAY 10000
+DELAY 16000
 STRING asciiquarium
 DELAY 250
 ENTER
