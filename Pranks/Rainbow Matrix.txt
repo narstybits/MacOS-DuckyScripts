@@ -51,5 +51,3 @@ DELAY 7000
 STRING cmatrix -C magenta
 DELAY 200
 ENTER
-
-
