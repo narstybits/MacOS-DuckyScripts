@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8>
+</head>
+<body>
+
 [![Image Description](https://imgur.com/zO7XCon.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Goodusb)
 
 <div align="left">
@@ -64,3 +71,4 @@ it's essential to recognize that this scripting language can also be used for pr
 <div align="center">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
+</body>
