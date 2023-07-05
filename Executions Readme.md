@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8>
+</head>
+<body>
+
 [![Image Description](https://imgur.com/MfuJBOZ.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Executions)
 
 <div align="left">
@@ -70,3 +77,4 @@
 <div align="center">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
+</body>
