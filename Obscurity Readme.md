@@ -4,7 +4,8 @@
     <meta charset="utf-8">
   </head>
   <body>
-[![Image Description](https://imgur.com/8ZAFYsT.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Obscurity)
+
+  [![Image Description](https://imgur.com/8ZAFYsT.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/Obscurity)
 
 <div align="left">
   <img alt="Coding" width="1473" height="18" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
