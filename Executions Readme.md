@@ -21,10 +21,16 @@
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 <h4>
-<ol>
-  <li><a href="https://github.com/hak5/usbrubberducky-payloads/blob/master/README.md#about-the-new-usb-rubber-ducky">USB Rubber Ducky</a>: This involves using the USB Rubber Ducky device to inject keystrokes and automate security tests on target systems.</li>
-  <li>Ducky Script Emulation: In this method, Ducky scripts are emulated using software tools to execute security tests without physical access to the target system.</li>
-</ol>
+<copy>
+  <ol>
+    <li>Load Testing: This tests how well a system can handle heavy traffic or data processing. It helps find weak points in the system's performance.</li>
+    <li>Data Exfiltration to Dropbox or iPhone: This involves taking data from a target system and uploading it to a Dropbox account or sending it to an iPhone. This can be used to steal information or disrupt the target's operations.</li>
+    <li>Personal Information Gathering: This involves finding personal details about a target. These details can be used to gain unauthorized access to systems or for identity theft.</li>
+    <li>Remote Shell: This involves gaining control of a target system's command line from a remote location. This allows an attacker to execute commands and manipulate the system without being physically present.</li>
+    <li>System Disruption: This involves causing problems for a target system, like making it unavailable or causing it to malfunction.</li>
+    <li>System Destruction: This is a severe attack that causes permanent damage to a target system, like deleting important files or damaging hardware.</li>
+  </ol>
+</copy>
 </h4>
 
 <h2> Tools
