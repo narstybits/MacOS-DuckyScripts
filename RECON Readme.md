@@ -1,4 +1,11 @@
-[![Image Description](https://imgur.com/MuZDdAV.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/RECON)
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+
+  [![Image Description](https://imgur.com/MuZDdAV.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/RECON)
 
 <div align="left">
   <img alt="Coding" width="1473" height="18" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
@@ -60,3 +67,4 @@
 <div align="center">
   <img alt="Coding" width="1473" height="10" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
+</body>
