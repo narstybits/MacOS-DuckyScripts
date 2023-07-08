@@ -134,28 +134,23 @@ This string removes the specific command from the history, ensuring minimal trac
   <h1 
    align="center">Support Narsty!
    <div align="center">
-  <img alt="Coding" width="283" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
-</div>
-  <p align="center">
+  <img alt="Coding" width="283" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif"></div>
+
+ 
+<h5> If my work has brought a smile to your face or sparked joy in your heart, I wouldn;t say no to a little digital love.</h5>
+    <p></p>
+    <p></p>
+   
+ <p align="center">
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
     <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
   </a>
 </p>
 
-
-
-
-
-      
-
-
-
-
-
-  </li>
-</ol>
 <p align="center">
   <img src="https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png" alt="Cyberattack Image">
+</p>
+
 </p>
 <h2 align="center"><u><a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">!!!! EXERCISE CAUTION !!!!</a></u></h3>
 <h2 align="center"><u>When executing code, double-check to ensure that you're targeting the correct directory/system and that the consequences are understood.</u></h2>
@@ -169,5 +164,5 @@ This string removes the specific command from the history, ensuring minimal trac
 </p>
 <p align="center">
     Remember, it is crucial to prioritize legal and ethical practices, protect user privacy, and use these tools responsibly to improve security and protect against real-world threats.
-</p>
+</p></div>
 
