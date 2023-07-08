@@ -126,17 +126,15 @@ This string removes the specific command from the history, ensuring minimal trac
 </div>
     <p style="font-size: 12px; margin: 0;">6. You are now ready to deploy your BADUSB DuckyScripts and take over the World! ENJOY :)</p>
   </div>
-</li>
- <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
-</div>     
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+ <p>  </p>
+    <p>  </p> <p>  </p>
+    <p>  </p>
+
   <h1 
    align="center">Support Narsty!
-   <div align="center">
-  <img alt="Coding" width="283" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif"></div>
+   
 
-<h5 align="center"><em>If my work has brought a smile to your face or sparked joy in your heart, I wouldn't say no to a little digital love.</em></h5>
+<h4 align="center"><em>If my work has brought a smile to your face or sparked joy in your heart, I wouldn't say no to a little digital love.</em></h4>
 
    <p></p>
     <p></p>
@@ -144,8 +142,8 @@ This string removes the specific command from the history, ensuring minimal trac
  <p align="center">
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
     <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
-  </a>
-</p>
+<div align="center">
+  <img alt="Coding" width="283" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif"></div>
 
 <p align="center">
   <img src="https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png" alt="Cyberattack Image">
