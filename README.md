@@ -136,9 +136,9 @@ This string removes the specific command from the history, ensuring minimal trac
    <div align="center">
   <img alt="Coding" width="283" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif"></div>
 
- 
-<h5> If my work has brought a smile to your face or sparked joy in your heart, I wouldn;t say no to a little digital love.</h5>
-    <p></p>
+<h5 align="center"><em>If my work has brought a smile to your face or sparked joy in your heart, I wouldn't say no to a little digital love.</em></h5>
+
+   <p></p>
     <p></p>
    
  <p align="center">
