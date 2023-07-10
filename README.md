@@ -78,24 +78,18 @@ If you're a visual learner like me, check out this detailed tutorial by [wrencha
   <p>This code removes the specific command from the history, ensuring minimal traces are left behind and helping maintain discretion and privacy.</p>
 </div>
 
-<h1 align="center">🔹 Step by Step Directions 🔹</h1>
+# 🔹 Step by Step Directions 🔹
 
-<ol>
-  <li>
-    <p>To upload the .txt files to your Flipper, you have two options:</p>
-    <ul>
-      <li>If you downloaded the .txt files, proceed to step 2.</li>
-      <li>If you copied and pasted the code into a program, export or save the file as a .txt file on your desktop.</li>
-    </ul>
-  </li>
-  <li>
-    <p>Plug the Flipper into your computer and open the File Manager.</p>
-    <p>Navigate to the SD card and open the BADUSB folder.</p>
-    <p>Drag and drop the .txt files into the BADUSB folder.</p>
-    <p>Close the Flipper desktop app when finished.</p>
-  </li>
-  <li>You are now ready to deploy your BADUSB DuckyScripts and take over the world! Enjoy!</li>
-</ol>
+1️⃣ **Download the Files**: Start by downloading the necessary files from the repository to your desktop.
+
+2️⃣ **Prepare Flipper**: Plug your Flipper into your computer and navigate to the SD card.
+
+3️⃣ **Transfer Files**: Open the File Manager and locate the BADUSB folder on the SD card. Drag and drop the downloaded files into the BADUSB folder.
+
+4️⃣ **Finalize**: Close the Flipper desktop app and ensure the files have been successfully transferred.
+
+5️⃣ **Ready to Go!**: Your Flipper is now ready to deploy the BADUSB DuckyScripts and unleash its power! Enjoy the experience and have fun exploring the possibilities! 🚀
+
 
 
   <h1 
