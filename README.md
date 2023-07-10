@@ -25,7 +25,7 @@
 
 <div align="center">
 
-# 🔹 They are Plug & Play 🔹
+## 🔹 They are Plug & Play 🔹
 
 </div>
 
@@ -57,7 +57,7 @@ If you're a visual learner like me, check out this detailed tutorial by [wrencha
 - [How 2 Flipper Guide](https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf)
 
 <div align="center">
-  <h1>🔹 Step by Step Directions to Get You Up and Running 🔹</h1>
+  <h2>🔹Step by Step Directions to Get You Up and Running🔹</h2>
   <img alt="Coding" width="450" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 </div>
 
