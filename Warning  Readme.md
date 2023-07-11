@@ -5,7 +5,7 @@
 </head>
 <body>
   <div align="center"> 
-    <img src="https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png" alt="Top Image">
+    <img src="https://i.imgur.com/SPznhjI.png" alt="Top Image">
   </div>
   <div align="center">
   <h1>Caution: Read before proceeding</h1>
