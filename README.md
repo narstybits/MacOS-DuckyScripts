@@ -93,10 +93,16 @@ If you're a visual learner like me, check out this detailed tutorial by [wrencha
 
 
   <h1 
-   align="center">Support Narsty!
+ align="center"><u>Support Narstybits <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Giphy Image" style="margin-left: 10px; width: 50px; height: auto;" align="center">
+ </div>
+
+
+
+  <div>
+   
    
 <img alt="Coding" width="1483" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
-<h4 align="center"><em>If my work has brought a smile to your face or sparked joy in your heart, I wouldn't say no to a little digital love.</em></h4>
+<h5 align="center"><em>If my work has brought a smile to your face or sparked joy in your heart, I wouldn't say no to a little digital love.</em></h5>
 
    <p></p>
     <p></p>
