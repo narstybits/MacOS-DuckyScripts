@@ -95,7 +95,7 @@ If you're a visual learner like me, check out this detailed tutorial by [wrencha
   <h1 
    align="center">Support Narsty!
    
-
+<img alt="Coding" width="1483" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 <h4 align="center"><em>If my work has brought a smile to your face or sparked joy in your heart, I wouldn't say no to a little digital love.</em></h4>
 
    <p></p>
@@ -105,7 +105,7 @@ If you're a visual learner like me, check out this detailed tutorial by [wrencha
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
     <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
 <div align="center">
-  <img alt="Coding" width="283" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif"></div>
+  <img alt="Coding" width="1483" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif"></div>
 
 <p align="center">
   <img src="https://www.nist.gov/sites/default/files/2019-12/cyberattack-blogfeaturedimage-763.png" alt="Cyberattack Image">
