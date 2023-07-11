@@ -58,27 +58,31 @@ If you're a visual learner like me, check out this detailed tutorial by [wrencha
 
 <div align="center">
   <h2>🔹Step by Step Directions to Get You Up and Running🔹</h2>
-  <img alt="Coding" width="450" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
+  
 </div>
 
 <div style="border: 2px solid #000000; padding: 10px;">
   <h3 style="font-size: 32px; margin: 0;">🔹 First, Always Read the Remarks</h3>
+  <img alt="Coding" width="320" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
   <p>When working with the scripts, make sure to carefully read the REM (remark) lines. REMs explain the purpose of each line or provide instructions to the user. It's crucial to always read and understand the REMs!</p>
   
   <h4>The VendorID and ProductID Combination</h4>
+  <img alt="Coding" width="320" height="5" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
   <pre><code>'ID 05ac:021e Apple:Keyboard'</code></pre>
   <p>This code helps the operating system identify the specific device (in this case, the Flipper Zero) and load the appropriate drivers or configurations, such as for an Apple keyboard.</p>
   
   <h4>The 'ignorespace' Option</h4>
+  <img alt="Coding" width="320" height="5" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
   <pre><code>'echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash'</code></pre>
   <p>This code enables the 'ignorespace' option for the command history, preventing commands with a leading space from being stored in the shell history. Special thanks to [FalsePhilosopher](https://github.com/FalsePhilosopher) for helping create this string!</p>
   
   <h4>Removing Specific Commands from History</h4>
+  <img alt="Coding" width="320" height="5" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
   <pre><code>history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')</code></pre>
   <p>This code removes the specific command from the history, ensuring minimal traces are left behind and helping maintain discretion and privacy.</p>
 </div>
 
-# 🔹 Step by Step Directions 🔹
+# 🔹 Step by Step Directions 
 
 1️⃣ **Download the Files**: Start by downloading the necessary files from the repository to your desktop.
 
