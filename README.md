@@ -74,7 +74,8 @@ If you're a visual learner like me, check out this detailed tutorial by [wrencha
   <h4>The 'ignorespace' Option</h4>
   <img alt="Coding" width="320" height="5" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
   <pre><code>'echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash'</code></pre>
-  <p>This code enables the 'ignorespace' option for the command history, preventing commands with a leading space from being stored in the shell history. Special thanks to [FalsePhilosopher](https://github.com/FalsePhilosopher) for helping create this string!</p>
+  <p>This code enables the 'ignorespace' option for the command history, preventing commands with a leading space from being stored in the shell history. Special thanks to <a href='https://github.com/FalsePhilosopher'>FalsePhilosopher</a>
+ for helping create this string!</p>
   
   <h4>Removing Specific Commands from History</h4>
   <img alt="Coding" width="320" height="5" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
