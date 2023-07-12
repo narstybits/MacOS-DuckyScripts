@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-[![Image Description](https://imgur.com/dGFm5SP.png)](https://github.com/narstybits/MacOS-DuckyScripts)
+[![Image Description](https://i.imgur.com/vKdvKVp.png)](https://github.com/narstybits/MacOS-DuckyScripts)
 <div align="left">
   
 
