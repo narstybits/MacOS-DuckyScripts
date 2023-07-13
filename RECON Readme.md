@@ -4,7 +4,7 @@
     <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
-  
+   <meta name="author" content="NarstyBits flipperzero badusb payloads">
   <!-- Open Graph tags -->
   <meta property="og:title" content="MacOS-DuckyScripts">
   <meta property="og:description" content="The Recon Folder is dedicated to the topic of Reconnaissance in cybersecurity. It provides information, resources, and tools related to various aspects of Reconnaissance">
