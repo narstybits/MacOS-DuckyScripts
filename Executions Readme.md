@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
+  <meta name="description" content="dedicated to penetration testing and security assessments using Ducky scripts. It provides information, resources, and tools related to executing security tests and evaluating system vulnerabilities.">
   
   <!-- Open Graph tags -->
   <meta property="og:title" content="MacOS-DuckyScripts">
   <meta property="og:description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
-  <meta property="og:image" content="https://i.imgur.com/vKdvKVp.png">
-  <meta property="og:url" content="https://github.com/narstybits/MacOS-DuckyScripts">
+  <meta property="og:image" content="https://imgur.com/MfuJBOZ.png">
+  <meta property="og:url" content="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Executions%20Readme.md">
   <meta charset="utf-8>
 </head>
 <body>
