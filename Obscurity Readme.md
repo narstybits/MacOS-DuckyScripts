@@ -6,9 +6,9 @@
   
   <!-- Open Graph tags -->
   <meta property="og:title" content="MacOS-DuckyScripts">
-  <meta property="og:description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
-  <meta property="og:image" content="https://i.imgur.com/vKdvKVp.png">
-  <meta property="og:url" content="https://github.com/narstybits/MacOS-DuckyScripts">
+  <meta property="og:description" content="The Obscurity Folder is dedicated to the pursuit of a heightened level of obscurity, facilitating enhanced privacy and security in network and computer environments.">
+  <meta property="og:image" content="https://imgur.com/8ZAFYsT.png">
+  <meta property="og:url" content="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Obscurity%20Readme.md">
     <meta charset="utf-8">
   </head>
   <body>
