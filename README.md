@@ -2,7 +2,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
-  
+   <meta name="author" content="NarstyBits flipperzero badusb payloads">
   <!-- Open Graph tags -->
   <meta property="og:title" content="MacOS-DuckyScripts">
   <meta property="og:description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
