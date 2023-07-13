@@ -7,9 +7,9 @@
   
   <!-- Open Graph tags -->
   <meta property="og:title" content="MacOS-DuckyScripts">
-  <meta property="og:description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
-  <meta property="og:image" content="https://i.imgur.com/vKdvKVp.png">
-  <meta property="og:url" content="https://github.com/narstybits/MacOS-DuckyScripts">
+  <meta property="og:description" content="The Recon Folder is dedicated to the topic of Reconnaissance in cybersecurity. It provides information, resources, and tools related to various aspects of Reconnaissance">
+  <meta property="og:image" content="https://imgur.com/MuZDdAV.png)](https://github.com/narstybits/MacOS-DuckyScripts/tree/main/RECON">
+  <meta property="og:url" content="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/RECON%20Readme.md">
     <meta charset="utf-8">
   </head>
   <body>
