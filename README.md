@@ -74,7 +74,7 @@ If you're a visual learner like me, check out this detailed tutorial by [wrencha
 
 <div style="border: 2px solid #000000; padding: 10px;">
   <h3 style="font-size: 32px; margin: 0;">🔹 First, Always Read the Remarks</h3>
-  <img alt="Coding" width="320" height="15" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
+  <img alt="Coding" width="320" height="5" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
   <p>When working with the scripts, make sure to carefully read the REM (remark) lines. REMs explain the purpose of each line or provide instructions to the user. It's crucial to always read and understand the REMs!</p>
   
   <h4>The VendorID and ProductID Combination</h4>
