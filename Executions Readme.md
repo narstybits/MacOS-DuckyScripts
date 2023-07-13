@@ -3,7 +3,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="dedicated to penetration testing and security assessments using Ducky scripts. It provides information, resources, and tools related to executing security tests and evaluating system vulnerabilities.">
-  
+   <meta name="author" content="NarstyBits flipperzero badusb payloads">
   <!-- Open Graph tags -->
   <meta property="og:title" content="MacOS-DuckyScripts">
   <meta property="og:description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
