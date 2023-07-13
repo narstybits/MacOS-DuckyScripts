@@ -7,8 +7,8 @@
   
   <!-- Open Graph tags -->
   <meta property="og:title" content="MacOS-DuckyScripts">
-  <meta property="og:description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
-  <meta property="og:image" content="https://i.imgur.com/vKdvKVp.png">
+  <meta property="og:description" content="BadUSB scripts Warning, Usage Limitations, Legal Compliance.">
+  <meta property="og:image" content="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">
   <meta property="og:url" content="https://github.com/narstybits/MacOS-DuckyScripts">
   <meta charset="utf-8">
 </head>
