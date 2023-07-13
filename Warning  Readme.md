@@ -1,6 +1,15 @@
 <!DOCTYPE html> 
 <html lang="en">
 <head>
+  <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
+  
+  <!-- Open Graph tags -->
+  <meta property="og:title" content="MacOS-DuckyScripts">
+  <meta property="og:description" content="BadUSB scripts exclusively designed for Mac OS & the Flipper Zero device.">
+  <meta property="og:image" content="https://i.imgur.com/vKdvKVp.png">
+  <meta property="og:url" content="https://github.com/narstybits/MacOS-DuckyScripts">
   <meta charset="utf-8">
 </head>
 <body>
