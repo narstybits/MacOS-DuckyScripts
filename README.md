@@ -58,9 +58,9 @@ Check out the Xremote project by [leedave](https://github.com/leedave) to chain 
 
 ## Evil Portal 
 
-Check out the 🇪 🇻 🇮 🇱 🇵 🇴 🇷 🇹 🇦 🇱 project by [bigbrodude6119](https://github.com/bigbrodude6119) An evil captive portal Wi-Fi access point using the Flipper Zero and Wi-Fi dev board! 
+Check out the 😈 🇪 🇻 🇮 🇱 🇵 🇴 🇷 🇹 🇦 🇱 😈 project by [bigbrodude6119](https://github.com/bigbrodude6119) An evil captive portal Wi-Fi access point using the Flipper Zero and Wi-Fi dev board! 
 
-😈 For Educational Purposes Only! (This project should teach you why its important to NEVER use an Unauthorized Accesspoint)
+ For Educational Purposes Only! (This project should teach you why its important to NEVER use an Unauthorized Accesspoint)
 
 - [Evil Portal (BETA)](https://github.com/bigbrodude6119/flipper-zero-evil-portal)
 
