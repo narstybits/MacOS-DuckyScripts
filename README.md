@@ -139,6 +139,13 @@ If you're a visual learner like me, check out this detailed tutorial by [wrencha
 
 
 </p>
+<pre
+          ⚠️
+         ⚠️⚠️⚠️
+        ⚠️⚠️⚠️⚠️⚠️
+      ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+</pre>
+
 <div 
 <h3 align="center"><u><a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Warning%20%20Readme.md">⚠️ IMPORTANT DISCLAIMER ⚠️</a></u></h1>
 <h5>
