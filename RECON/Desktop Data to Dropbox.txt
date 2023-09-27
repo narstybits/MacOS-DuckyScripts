@@ -1,5 +1,5 @@
 REM This script copies the contents of the Desktop and uploads it to a specific dropbox API
-REM Just replace "<API access token here>" with your actual API access token. line 26
+REM Just replace "<API access token here>" with your actual API access token. line 36
 REM Once the desktop contents .zip is uploaded to your dropbox 
 REM The Backup folder containing the .zip will be deleted and the terminal will be cleared and closed. 
 
