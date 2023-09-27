@@ -1,7 +1,7 @@
 REM Network Recon and Cloud Sync Automation
 REM This script gathers network information from a macOS system
 REM then uploads it to Dropbox for easy synchronization and analysis.
-REM Replace "<API access token here>" with your actual API access token. line 25
+REM Replace "<API access token here>" with your actual API access token. line 35
 
 REM Title: Network Recon to Dropbox 
 REM Author: Narsty
