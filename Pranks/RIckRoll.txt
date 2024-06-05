@@ -16,7 +16,7 @@ STRING terminal
 DELAY 1000
 ENTER
 DELAY 1000
-STRING open -a Safari 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' 
+STRING open -a Safari 'https://www.youtube.com/watch?v=eGci8By2G8s' 
 DELAY 1000
 ENTER
 DELAY 1000
